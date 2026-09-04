@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sonuç Raporu & Hata Analizi — SAT Reading</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Plus Jakarta Sans', sans-serif; }
+    code, pre { font-family: 'JetBrains Mono', monospace; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900 min-h-screen flex flex-col">
+
+  <!-- Header -->
+  <header class="bg-white border-b border-slate-200 sticky top-0 z-30 shadow-xs">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
+      <a href="/" class="text-sm font-semibold text-slate-600 hover:text-indigo-600">
+        ← Ana Sayfaya Dön
+      </a>
+      <span class="text-xs font-bold text-slate-400">Sonuç & Hata Analiz Paneli</span>
+    </div>
+  </header>
+
+  <main class="flex-grow max-w-4xl mx-auto px-4 sm:px-6 py-8 w-full" id="mainReport">
+    <div class="py-16 text-center text-slate-400">
+      <div class="inline-block animate-spin rounded-full h-8 w-8 border-4 border-indigo-500 border-t-transparent mb-3"></div>
+      <p>Sonuçlar derleniyor...</p>
+    </div>
+  </main>
+
+  <footer class="bg-white border-t border-slate-200 py-6 text-sm text-slate-400 text-center">
+    SAT Reading Akademi © 2026 — Entegre Ders ve Kalite Kontrol Sistemi
+  </footer>
+
+  <script src="/js/app.js"></script>
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const lessonId = urlParams.get('id') || '1A';
+
+    async function loadResults() {
+      let result = null;
+      try {
+        const stored = sessionStorage.getItem('lastQuizResult');
+        if (stored) {
+          result = JSON.parse(stored);
+        }
+      } catch (e) {
+        console.error(e);
+      }
+
+      if (!result) {
+        document.getElementById('mainReport').innerHTML = `
+          <div class="p-8 bg-white border border-slate-200 rounded-3xl text-center">
+            <h2 class="text-xl font-bold text-slate-800 mb-2">Henüz Çözülmüş Bir Test Bulunamadı</h2>
+            <p class="text-sm text-slate-500 mb-6">Lütfen önce bir dersin sorularını çözün.</p>
+            <a href="/" class="px-5 py-2.5 bg-indigo-600 text-white font-bold text-xs rounded-xl">Dersler Listesi</a>
+          </div>
+        `;
+        return;
+      }
+
+      renderReport(result);
+    }
+
+    async function renderReport(r) {
+      let lesson = null;
+      try {
+        lesson = await SATApp.fetchLesson(r.lessonId);
+      } catch (e) {}
+
+      const scoreColor = 
+        r.score >= 80 ? 'text-emerald-600' :
+        r.score >= 60 ? 'text-amber-600' : 'text-rose-600';
+
+      const mistakes = (r.results || []).filter(item => !item.isCorrect);
+
+      const html = `
+        <!-- Score Banner -->
+        <div class="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8 mb-8 shadow-sm text-center">
+          <div class="text-xs font-extrabold uppercase tracking-wider text-indigo-600 mb-2">
+            ${lesson ? `${lesson.id} · ${lesson.titleTR}` : (r.lessonId === 'RANDOM' ? '🎲 Karışık Mini Deneme Sınavı' : `Ders ${r.lessonId}`)}
+          </div>
+          <h1 class="text-4xl sm:text-5xl font-black ${scoreColor} tracking-tight mb-2">
+            %${r.score}
+          </h1>
+          <div class="text-sm font-bold text-slate-700 mb-1">
+            ${r.correct} / ${r.total} Doğru Yanıt
+          </div>
+          <p class="text-base text-slate-600 font-medium mb-6">
+            ${r.performance}
+          </p>
+
+          <!-- Buttons -->
+          <div class="flex flex-wrap items-center justify-center gap-3 pt-6 border-t border-slate-100">
+            ${r.lessonId === 'RANDOM' ? `
+              <a href="/quiz?random=true" class="px-5 py-2.5 rounded-xl bg-indigo-50 text-indigo-700 hover:bg-indigo-100 font-bold text-xs">
+                🔄 Yeni Karışık Test Çöz
+              </a>
+            ` : `
+              <a href="/quiz?id=${r.lessonId}" class="px-5 py-2.5 rounded-xl bg-indigo-50 text-indigo-700 hover:bg-indigo-100 font-bold text-xs">
+                🔄 Bu Testi Tekrar Çöz
+              </a>
+            `}
+            ${lesson ? `
+              <a href="/lesson?id=${r.lessonId}" class="px-5 py-2.5 rounded-xl bg-slate-100 text-slate-700 hover:bg-slate-200 font-bold text-xs">
+                📖 Dersi Tekrar Çalış
+              </a>
+            ` : ''}
+            <a href="/" class="px-5 py-2.5 rounded-xl bg-slate-900 text-white hover:bg-slate-800 font-bold text-xs shadow-sm">
+              🏠 Tüm Derslere Dön
+            </a>
+          </div>
+        </div>
+
+        <!-- Error Analysis & Traps Summary -->
+        ${mistakes.length > 0 ? `
+          <div class="bg-rose-50 border border-rose-200 rounded-3xl p-6 sm:p-7 mb-8">
+            <h3 class="text-base font-extrabold text-rose-950 mb-3 flex items-center gap-2">
+              <span>🎯</span>
+              <span>Düştüğünüz Tuzakların Analizi (${mistakes.length} Hata)</span>
+            </h3>
+            <p class="text-xs text-rose-800 mb-4 leading-relaxed">
+              SAT sınavında yanlış seçenekler rastgele yazılmaz; dikkat dağıtıcı özel kalıplara dayanır. Aşağıda düştüğünüz tuzakların neden yanlış olduğunu inceleyin:
+            </p>
+            <div class="space-y-2.5">
+              ${mistakes.map(m => `
+                <div class="p-3 bg-white rounded-xl border border-rose-200 text-xs text-slate-800">
+                  <div class="font-bold text-rose-700 mb-1">
+                    Soru ${m.questionId}: Seçtiğiniz (${m.userAnswer || 'Boş'}) yerine Doğru (${m.correctAnswer}) olmalıydı.
+                  </div>
+                  <div class="text-slate-600">${m.trapExplanation || m.explanation}</div>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        ` : `
+          <div class="bg-emerald-50 border border-emerald-200 rounded-3xl p-6 mb-8 text-center text-emerald-900">
+            <span class="text-3xl mb-2 block">🏆</span>
+            <h3 class="font-extrabold text-lg mb-1">Sıfır Hata!</h3>
+            <p class="text-xs text-emerald-800">Tüm soruları doğru cevaplayarak bu soru tipinde tam hakimiyet gösterdiniz.</p>
+          </div>
+        `}
+
+        <!-- Detailed Question Review Header with Language Toggle -->
+        <div class="space-y-4">
+          <div class="flex flex-wrap items-center justify-between gap-3 mb-2 pt-2">
+            <h3 class="text-lg font-extrabold text-slate-900">Tüm Soruların Açıklamalı Çözümleri</h3>
+            <div class="inline-flex items-center gap-1 p-1 bg-white rounded-xl border border-slate-200 shadow-xs text-xs">
+              <span class="text-slate-400 font-semibold px-2">Açıklama Dili:</span>
+              <button id="btnLangTR" onclick="setAllResultsLang('TR')" class="px-2.5 py-1 rounded-lg font-bold transition-all bg-indigo-600 text-white shadow-xs">
+                🇹🇷 Türkçe
+              </button>
+              <button id="btnLangEN" onclick="setAllResultsLang('EN')" class="px-2.5 py-1 rounded-lg font-bold transition-all text-slate-600 hover:text-indigo-600">
+                🇬🇧 English
+              </button>
+            </div>
+          </div>
+
+          ${(r.results || []).map((item, idx) => `
+            <div class="bg-white rounded-2xl border ${item.isCorrect ? 'border-emerald-200' : 'border-rose-200'} p-5 shadow-xs" id="card-${item.questionId}">
+              <div class="flex items-center justify-between gap-2 mb-2">
+                <span class="text-xs font-bold text-slate-500">Soru ${idx + 1} (${item.questionId})</span>
+                <span class="px-2.5 py-0.5 rounded-full text-xs font-bold ${item.isCorrect ? 'bg-emerald-100 text-emerald-800' : 'bg-rose-100 text-rose-800'}">
+                  ${item.isCorrect ? '✅ Doğru' : `❌ Yanlış (Siz: ${item.userAnswer || 'Boş'})`}
+                </span>
+              </div>
+
+              <h4 class="font-bold text-sm text-slate-900 mb-3">${item.question}</h4>
+
+              <!-- Explanation Box with Toggle Button -->
+              <div class="p-3.5 bg-slate-50 rounded-xl text-xs text-slate-700 leading-relaxed border border-slate-200/80 mb-2">
+                <div class="flex items-center justify-between gap-2 mb-1.5 border-b border-slate-200/60 pb-1.5">
+                  <span class="font-bold text-indigo-700" id="title-reason-${item.questionId}">
+                    💡 Doğru Çözüm Gerekçesi (${item.correctAnswer}):
+                  </span>
+                  <button onclick="toggleSingleResultLang('${item.questionId}')" id="btn-card-lang-${item.questionId}" class="px-2 py-0.5 rounded-md text-xs font-bold border border-indigo-200 bg-white text-indigo-700 hover:bg-indigo-50 transition-all flex items-center gap-1">
+                    <span>🇬🇧 English Versiyon</span>
+                  </button>
+                </div>
+                <div id="text-reason-${item.questionId}">
+                  ${item.explanation}
+                </div>
+              </div>
+
+              <!-- Trap Explanation Box -->
+              ${item.trapExplanation && !item.isCorrect ? `
+                <div class="p-3 bg-rose-50/70 rounded-xl text-xs text-rose-900 border border-rose-200">
+                  <span class="font-bold text-rose-800 block mb-0.5" id="title-trap-${item.questionId}">
+                    ⚠️ Yanlış Seçenek Tuzağı (${item.userAnswer}):
+                  </span>
+                  <div id="text-trap-${item.questionId}">
+                    ${item.trapExplanation}
+                  </div>
+                </div>
+              ` : ''}
+            </div>
+          `).join('')}
+        </div>
+      `;
+
+      document.getElementById('mainReport').innerHTML = html;
+      window.currentResultsData = r.results || [];
+    }
+
+    const questionLangs = {}; // { '1A-Q1': 'TR' }
+
+    function setAllResultsLang(lang) {
+      const results = window.currentResultsData || [];
+      document.getElementById('btnLangTR').className = lang === 'TR'
+        ? 'px-2.5 py-1 rounded-lg font-bold transition-all bg-indigo-600 text-white shadow-xs'
+        : 'px-2.5 py-1 rounded-lg font-bold transition-all text-slate-600 hover:text-indigo-600';
+      document.getElementById('btnLangEN').className = lang === 'EN'
+        ? 'px-2.5 py-1 rounded-lg font-bold transition-all bg-indigo-600 text-white shadow-xs'
+        : 'px-2.5 py-1 rounded-lg font-bold transition-all text-slate-600 hover:text-indigo-600';
+
+      results.forEach(item => {
+        questionLangs[item.questionId] = lang;
+        applyLangToCard(item, lang);
+      });
+    }
+
+    function toggleSingleResultLang(questionId) {
+      const results = window.currentResultsData || [];
+      const item = results.find(r => r.questionId === questionId);
+      if (!item) return;
+
+      const current = questionLangs[questionId] || 'TR';
+      const nextLang = current === 'TR' ? 'EN' : 'TR';
+      questionLangs[questionId] = nextLang;
+      applyLangToCard(item, nextLang);
+    }
+
+    function applyLangToCard(item, lang) {
+      const qId = item.questionId;
+      const isEN = lang === 'EN';
+
+      const reasonEl = document.getElementById(`text-reason-${qId}`);
+      const titleReasonEl = document.getElementById(`title-reason-${qId}`);
+      const btnEl = document.getElementById(`btn-card-lang-${qId}`);
+      const trapTextEl = document.getElementById(`text-trap-${qId}`);
+      const trapTitleEl = document.getElementById(`title-trap-${qId}`);
+
+      if (reasonEl) {
+        reasonEl.textContent = isEN ? (item.explanationEN || item.explanation) : item.explanation;
+      }
+      if (titleReasonEl) {
+        titleReasonEl.textContent = isEN 
+          ? `💡 Explanation & Rationale (${item.correctAnswer}):`
+          : `💡 Doğru Çözüm Gerekçesi (${item.correctAnswer}):`;
+      }
+      if (btnEl) {
+        btnEl.innerHTML = isEN ? '<span>🇹🇷 Türkçe Versiyon</span>' : '<span>🇬🇧 English Versiyon</span>';
+        btnEl.className = isEN
+          ? 'px-2 py-0.5 rounded-md text-xs font-bold border border-indigo-600 bg-indigo-600 text-white shadow-xs transition-all flex items-center gap-1'
+          : 'px-2 py-0.5 rounded-md text-xs font-bold border border-indigo-200 bg-white text-indigo-700 hover:bg-indigo-50 transition-all flex items-center gap-1';
+      }
+      if (trapTextEl) {
+        trapTextEl.textContent = isEN ? (item.trapExplanationEN || item.trapExplanation) : item.trapExplanation;
+      }
+      if (trapTitleEl) {
+        trapTitleEl.textContent = isEN 
+          ? `⚠️ College Board Trap Analysis (${item.userAnswer}):`
+          : `⚠️ Yanlış Seçenek Tuzağı (${item.userAnswer}):`;
+      }
+    }
+
+    loadResults();
+  </script>
+</body>
+</html>

@@ -1,0 +1,445 @@
+[
+  {
+    "id": "1A",
+    "title": "Central Ideas and Details",
+    "titleTR": "Ana Fikir ve Ayrıntılar",
+    "category": "Information and Ideas",
+    "categoryTR": "Bilgi ve Fikirler",
+    "icon": "🎯",
+    "difficulty": "medium",
+    "questionCount": 5,
+    "typicalCount": 4,
+    "description": "Metnin ana fikrini, destekleyici ayrıntıları ve genel konusunu anlamayı ölçer.",
+    "signalPhrases": ["best states", "mainly discusses", "primarily about", "central claim", "mainly concerned with"],
+    "framework": {
+      "name": "SCOPE",
+      "steps": [
+        { "letter": "S", "word": "Scan", "action": "İlk ve son cümleyi tara" },
+        { "letter": "C", "word": "Core idea", "action": "Tüm paragrafı kapsayan en geniş fikri bul" },
+        { "letter": "O", "word": "Overlap", "action": "Seçeneklerden metni %100 kapsayanı seç" },
+        { "letter": "P", "word": "Prune", "action": "Çok dar (tek ayrıntı) olanları ele" },
+        { "letter": "E", "word": "Eliminate", "action": "Metinde geçmeyen bilgi içerenleri ele" }
+      ]
+    },
+    "skills": [
+      "Ana fikri tüm metni kapsayacak şekilde tespit etmek",
+      "Çok spesifik (too specific) seçenekleri elemek",
+      "Her paragrafın mikrofikrini çıkarmak",
+      "Destekleyici ayrıntı sorularında metne dönmek",
+      "Kapsam kontrolü yapmak (ne çok dar ne çok geniş)"
+    ],
+    "wrongAnswerTraps": [
+      "Too Specific — Sadece bir ayrıntıyı kapsayan seçenek",
+      "Too Broad — Metinde değinilmemiş bilgi içeren seçenek",
+      "Distortion — Metindeki bir kelimeyi alıp farklı iddia üretiyor",
+      "Opposite — Yazarın söylediğinin tersini öne sürüyor"
+    ],
+    "goldenRules": [
+      "İlk ve son cümleler genellikle ana fikri taşır",
+      "Yanlış seçeneklerin %70'i ya too specific ya da not mentioned",
+      "Doğru cevap metni tamamen kapsayan en geniş ifadedir"
+    ]
+  },
+  {
+    "id": "1B",
+    "title": "Command of Evidence — Textual",
+    "titleTR": "Metinsel Kanıt Hakimiyeti",
+    "category": "Information and Ideas",
+    "categoryTR": "Bilgi ve Fikirler",
+    "icon": "📋",
+    "difficulty": "hard",
+    "questionCount": 5,
+    "typicalCount": 4,
+    "description": "Bir iddianın metinden hangi alıntıyla desteklendiğini bulma veya iki metin arasındaki ilişkiyi anlama.",
+    "signalPhrases": ["which quotation best supports", "which finding would support", "how would Author 1 respond"],
+    "framework": {
+      "name": "PAIR",
+      "steps": [
+        { "letter": "P", "word": "Pinpoint", "action": "Desteklenecek iddiayı tam olarak belirle" },
+        { "letter": "A", "word": "Analyze", "action": "Her alıntının o iddiayı ne kadar doğrudan desteklediğini ölç" },
+        { "letter": "I", "word": "Ignore", "action": "Konuyla ilgili ama iddiayı desteklemeyen alıntıları ele" },
+        { "letter": "R", "word": "Rank", "action": "En doğrudan ve güçlü desteği seç" }
+      ]
+    },
+    "skills": [
+      "İddiayı önce net olarak anlamak",
+      "Her alıntıyı tek tek test etmek",
+      "En iyi destekleyen ile yakın destekleyen arasındaki farkı görmek",
+      "Yanıltıcı ama desteklemeyen alıntıları fark etmek",
+      "Çiftli sorularda önce iddiayı bulmak"
+    ],
+    "wrongAnswerTraps": [
+      "Related but not supporting — Konuyla ilgili ama iddiayı kanıtlamıyor",
+      "Too indirect — Zincir çıkarım gerektiriyor",
+      "Contradicts — İddiayı desteklemek yerine çürütüyor",
+      "Irrelevant quote — Konunun bambaşka boyutuna gidiyor"
+    ],
+    "goldenRules": [
+      "Kanıt sorusunda cevap, önceki sorunun cevabıyla mantıksal uyum içinde olmalı",
+      "Kanıt iddiayı doğrudan desteklemeli — dolaylı bağlantılar yanlıştır",
+      "Which quotation best supports... → çiftli soru sinyali"
+    ]
+  },
+  {
+    "id": "1C",
+    "title": "Command of Evidence — Quantitative",
+    "titleTR": "Sayısal Kanıt Hakimiyeti",
+    "category": "Information and Ideas",
+    "categoryTR": "Bilgi ve Fikirler",
+    "icon": "📊",
+    "difficulty": "medium",
+    "questionCount": 5,
+    "typicalCount": 4,
+    "description": "Grafik, tablo veya çizelgeden doğru çıkarım yaparak metin iddiasını değerlendirme.",
+    "signalPhrases": ["according to the graph", "data suggest", "table supports", "which data best supports"],
+    "framework": {
+      "name": "CHART",
+      "steps": [
+        { "letter": "C", "word": "Caption/Title", "action": "Başlığı ve birimleri oku" },
+        { "letter": "H", "word": "Horizontal/Vertical", "action": "X ve Y eksenlerini tanımla" },
+        { "letter": "A", "word": "Axis Values", "action": "Spesifik değerleri doğru oku" },
+        { "letter": "R", "word": "Range & Trend", "action": "Genel trendi belirle" },
+        { "letter": "T", "word": "Text-Data Match", "action": "Metindeki iddia ile veriyi karşılaştır" }
+      ]
+    },
+    "skills": [
+      "Grafik başlığı ve eksenlerini ilk önce okumak",
+      "Genel trendi belirlemek (artış/azalış/döngü)",
+      "Spesifik değerleri doğru okumak",
+      "Metin-grafik uyumunu kontrol etmek",
+      "Grafikten fazlasını iddia eden seçenekleri elemek"
+    ],
+    "wrongAnswerTraps": [
+      "Overreach — Grafik korelasyon gösteriyor ama seçenek nedensellik iddia ediyor",
+      "Wrong value — Grafikteki sayıyı yanlış okutuyor",
+      "Incomplete — Sadece bir veri noktasına bakıyor, trendi görmüyor",
+      "Not in graph — Grafikte olmayan bilgiden çıkarım yapıyor"
+    ],
+    "goldenRules": [
+      "Korelasyon ≠ nedensellik",
+      "According to the graph → grafiğe bak, metnin argümanına değil",
+      "Grafikten fazlasını iddia eden seçenekler yanlıştır"
+    ]
+  },
+  {
+    "id": "1D",
+    "title": "Inferences",
+    "titleTR": "Çıkarım",
+    "category": "Information and Ideas",
+    "categoryTR": "Bilgi ve Fikirler",
+    "icon": "🔍",
+    "difficulty": "hard",
+    "questionCount": 5,
+    "typicalCount": 4,
+    "description": "Metinde açıkça yazılmayan ama mantıksal olarak çıkarılabilecek fikri bulma.",
+    "signalPhrases": ["can be inferred", "most likely implies", "suggests", "would logically follow", "most strongly implies"],
+    "framework": {
+      "name": "IMPLY",
+      "steps": [
+        { "letter": "I", "word": "Identify", "action": "Metinde ne var, ne yok?" },
+        { "letter": "M", "word": "Move beyond", "action": "Yazılana değil, ima edilene bak" },
+        { "letter": "P", "word": "Prove", "action": "Seçeneğin metinden çıkarılabileceğini kanıtla" },
+        { "letter": "L", "word": "Limit", "action": "'always/never/all/only' içeren seçenekleri sorgula" },
+        { "letter": "Y", "word": "Yield", "action": "En küçük mantıksal adımı atan seçenek kazanır" }
+      ]
+    },
+    "skills": [
+      "Metinde yazılmayan ama desteklenen fikri bulmak",
+      "Aşırı çıkarımları reddetmek",
+      "Yazarın tonunu ve amacını bağlam için kullanmak",
+      "Elimine etme yöntemiyle cevaba ulaşmak",
+      "Yazar niyetini anlamak"
+    ],
+    "wrongAnswerTraps": [
+      "Overinference — Metinden çok daha büyük bir sonuç çıkarıyor",
+      "Stated — Metinde zaten yazılı → Detail sorusu cevabı, çıkarım değil",
+      "Outside knowledge — Metinden değil, genel bilgiden geliyor",
+      "Extreme language — 'Proves/always/never/impossible' içeriyor"
+    ],
+    "goldenRules": [
+      "Çıkarım = metinde ima edilen ama söylenmeyen",
+      "Metinde açıkça yazılan → Detail sorusu cevabı, çıkarım değil",
+      "Most likely, can be inferred, suggests → çıkarım sorusu sinyalleri"
+    ]
+  },
+  {
+    "id": "2A",
+    "title": "Words in Context",
+    "titleTR": "Bağlamda Kelime",
+    "category": "Craft and Structure",
+    "categoryTR": "Yazarlık ve Yapı",
+    "icon": "📝",
+    "difficulty": "easy",
+    "questionCount": 5,
+    "typicalCount": 5,
+    "description": "Bir kelimenin veya cümlenin metin içindeki spesifik anlamını bulma.",
+    "signalPhrases": ["as used in the text", "most nearly means", "in context", "the word X most closely means"],
+    "framework": {
+      "name": "SWAP",
+      "steps": [
+        { "letter": "S", "word": "Strip", "action": "Sorulan kelimeyi cümleden çıkar" },
+        { "letter": "W", "word": "What fits?", "action": "Boşluğa ne anlam oturmalı? Kendi cümleni kur" },
+        { "letter": "A", "word": "Apply each", "action": "Her seçeneği koyarak oku" },
+        { "letter": "P", "word": "Pick best", "action": "Anlam + ton + bağlam en iyi oturanı seç" }
+      ]
+    },
+    "skills": [
+      "Kelimeyi cümleden çıkarıp yerine seçenekleri koymak",
+      "Bağlamı paragraf düzeyinde okumak",
+      "Birincil anlam tuzağını fark etmek",
+      "Tonun olumlu/olumsuz olduğunu belirlemek",
+      "Eş anlamlı ama bağlamla uyumsuz seçenekleri elemek"
+    ],
+    "wrongAnswerTraps": [
+      "Primary meaning trap — SAT'ta kelimenin en bilinen anlamı genellikle yanlış",
+      "Right word, wrong context — Anlamı doğru ama bu bağlamda oturmuyor",
+      "Synonym ≠ correct — Eş anlamlı ama ton/bağlam uyumsuz",
+      "Literal vs. figurative — Mecazi bağlamda fiziksel anlam seçmek"
+    ],
+    "goldenRules": [
+      "Her zaman kelimeyi çıkar ve seçenekleri sırayla koy",
+      "grave = ciddi (mezar değil), charged = duygusal yüklü (elektrik değil)",
+      "searing = acı verici dürüst, hollow = anlamsız/sahte, slippery = yakalanmaz"
+    ]
+  },
+  {
+    "id": "2B",
+    "title": "Text Structure and Purpose",
+    "titleTR": "Metin Yapısı ve Amacı",
+    "category": "Craft and Structure",
+    "categoryTR": "Yazarlık ve Yapı",
+    "icon": "🏗️",
+    "difficulty": "medium",
+    "questionCount": 5,
+    "typicalCount": 4,
+    "description": "Bir paragrafın, pasajın veya belirli bir bölümün işlevini anlama.",
+    "signalPhrases": ["primary purpose", "mainly serves to", "function of", "why does the author include", "what does the paragraph do"],
+    "framework": {
+      "name": "LABEL",
+      "steps": [
+        { "letter": "L", "word": "Label", "action": "Her bölüme işlev etiketi yapıştır (CLAIM/EXAMPLE/COUNTER...)" },
+        { "letter": "A", "word": "Ask why", "action": "Yazar bu bilgiyi neden bu noktada veriyor?" },
+        { "letter": "B", "word": "Bridge", "action": "Bu bölüm hangi iki fikri bağlıyor?" },
+        { "letter": "E", "word": "Eliminate content answers", "action": "Ne söylüyor değil, neden söylüyor" },
+        { "letter": "L", "word": "Lock in", "action": "İşlev kelimesini (illustrate/counter/qualify) doğrula" }
+      ]
+    },
+    "skills": [
+      "Her bölüme yapısal işlev etiketi yapıştırmak",
+      "'Neden buraya?' sorusunu sormak",
+      "Genel-özel ilişkisini tanımak",
+      "Karşıt görüş yapısını tanımak",
+      "Son paragrafın işlevini (özet/sonuç/çağrı) belirlemek"
+    ],
+    "wrongAnswerTraps": [
+      "Content vs. Function — Ne söylüyor yerine neden söylüyor",
+      "Too specific — Paragrafın sadece bir cümlesini açıklıyor",
+      "Wrong direction — Karşı çıkıyor derken destekliyor",
+      "Extreme purpose — 'Proves/disproves' → SAT 'suggests/illustrates' sever"
+    ],
+    "goldenRules": [
+      "To illustrate → örnek vermek, To qualify → sınırlandırmak, To counter → karşı çıkmak",
+      "CLAIM / COUNTER / EVIDENCE / EXAMPLE / QUALIFY / CONCEDE / CONCLUDE etiketleri",
+      "İşlev sorusunda içeriği değil, amacı seç"
+    ]
+  },
+  {
+    "id": "2C",
+    "title": "Cross-Text Connections",
+    "titleTR": "Metinler Arası Bağlantılar",
+    "category": "Craft and Structure",
+    "categoryTR": "Yazarlık ve Yapı",
+    "icon": "🔗",
+    "difficulty": "hard",
+    "questionCount": 5,
+    "typicalCount": 2,
+    "description": "İki ayrı metin arasındaki ilişkiyi (destekleme, çürütme, nitelendirme) anlama.",
+    "signalPhrases": ["how does Text 2 relate", "how would Author 1 respond", "both authors agree", "compared to Text 1"],
+    "framework": {
+      "name": "RELATE",
+      "steps": [
+        { "letter": "R", "word": "Read separately", "action": "Her metni ayrı ayrı özetle" },
+        { "letter": "E", "word": "Establish relationship", "action": "Destekler/çelişir/nitelendirme/uzatır?" },
+        { "letter": "L", "word": "Locate agreement", "action": "Her iki yazarın hemfikir olduğu noktaları bul" },
+        { "letter": "A", "word": "Assess disagreement", "action": "Anlaşmazlık noktalarını belirle" },
+        { "letter": "T", "word": "Test each answer", "action": "Her seçeneği her iki metin için test et" },
+        { "letter": "E", "word": "Eliminate extremes", "action": "Completely refutes / fully agrees → genellikle yanlış" }
+      ]
+    },
+    "skills": [
+      "Her metni ayrı ayrı özetlemek",
+      "İlişki türünü (support/contradict/complicate/extend) belirlemek",
+      "Varsayımsal yazar tepkisini metinden çıkarmak",
+      "Ortak zemin ve anlaşmazlık noktalarını listelemek",
+      "Ölçek ve kapsam farklarını fark etmek"
+    ],
+    "wrongAnswerTraps": [
+      "Over-contradiction — 'Completely refutes' → çoğu zaman sadece 'complicates'",
+      "Wrong author — Metin 1 yazarının görüşünü Metin 2'ye atfetmek",
+      "Fabricated agreement — İki metin çelişiyorken 'supports' demek",
+      "Scale mismatch — Farklı boyutlara odaklanmayı çelişki saymak"
+    ],
+    "goldenRules": [
+      "Support / Contradict / Complicate / Extend → ilişki türü kelimelerini tanı",
+      "Metin 2 Metin 1'i tamamen çürütmüyorsa 'directly contradicts' yanlıştır",
+      "Her metni okuduktan sonra ilişkiyi tek cümleyle yaz"
+    ]
+  },
+  {
+    "id": "3A",
+    "title": "Rhetorical Synthesis",
+    "titleTR": "Retorik Sentez",
+    "category": "Expression of Ideas",
+    "categoryTR": "Fikirlerin İfadesi",
+    "icon": "✍️",
+    "difficulty": "medium",
+    "questionCount": 5,
+    "typicalCount": 4,
+    "description": "Notlar veya bullet point'lerden belirli bir amaç için en uygun cümleyi seçme.",
+    "signalPhrases": ["which choice best accomplishes", "which sentence best emphasizes", "student wants to write", "best introduces"],
+    "framework": {
+      "name": "ATC",
+      "steps": [
+        { "letter": "A", "word": "Aim", "action": "Sorudaki hedefi altını çiz (emphasize/introduce/compare...)" },
+        { "letter": "T", "word": "Truth", "action": "Seçenekteki bilgi notlarla çelişiyor mu?" },
+        { "letter": "C", "word": "Complete", "action": "Amaç tam olarak gerçekleştiriliyor mu?" }
+      ]
+    },
+    "skills": [
+      "Sorudaki amacı önce belirlemek",
+      "Amaca uymayan seçenekleri elemek",
+      "Bilgi doğruluğunu kontrol etmek",
+      "Gereksiz bilgi içeren seçenekleri fark etmek",
+      "Doğru vurgu yapan cümle yapısını seçmek"
+    ],
+    "wrongAnswerTraps": [
+      "Right info, wrong purpose — Doğru bilgi ama yanlış amacı gerçekleştiriyor",
+      "Wrong info — Notlardaki veriyle çelişiyor",
+      "Partial — Amacın sadece bir bölümünü gerçekleştiriyor",
+      "Extra info — İlgisiz notları dahil edip dikkat dağıtıyor"
+    ],
+    "goldenRules": [
+      "İlk adım: Sorudaki amacı altını çiz",
+      "Her seçenek için: (1) Doğru mu? (2) Amacı gerçekleştiriyor mu?",
+      "Her ikisi de ✅ → doğru cevap"
+    ]
+  },
+  {
+    "id": "3B",
+    "title": "Transitions",
+    "titleTR": "Geçiş Cümleleri",
+    "category": "Expression of Ideas",
+    "categoryTR": "Fikirlerin İfadesi",
+    "icon": "🔀",
+    "difficulty": "easy",
+    "questionCount": 5,
+    "typicalCount": 4,
+    "description": "İki cümle veya paragraf arasına en uygun geçiş kelimesini ekleme.",
+    "signalPhrases": ["which choice completes the text with the most logical transition", "which transition word"],
+    "framework": {
+      "name": "3-STEP",
+      "steps": [
+        { "letter": "1", "word": "Identify relationship", "action": "İki cümlenin ilişkisini belirle" },
+        { "letter": "2", "word": "Select family", "action": "O ilişkiye ait geçiş ailesini seç" },
+        { "letter": "3", "word": "Check tone", "action": "Aynı aileden birden fazla varsa → ton uyumunu kontrol et" }
+      ]
+    },
+    "skills": [
+      "İki cümleyi dikkatlice okumak",
+      "İlişki türünü belirlemek (zıtlık/neden-sonuç/ekleme/örnek)",
+      "Geçiş kelimesi ailelerini bilmek",
+      "Anlam testi yapmak",
+      "Ton uyumunu kontrol etmek"
+    ],
+    "wrongAnswerTraps": [
+      "Same-direction trap — İki cümle aynı yönde ama zıtlık geçişi seçmek",
+      "Cause-effect confusion — Neden ve sonucu karıştırmak",
+      "False addition — İki farklı fikri 'furthermore' ile birleştirmek",
+      "Tone mismatch — Akademik metinde konuşma dili geçiş"
+    ],
+    "goldenRules": [
+      "Zıtlık: However/Nevertheless/Yet | Neden-Sonuç: Therefore/As a result | Ek: Furthermore/Additionally | Örnek: For instance",
+      "Geçişi koyduğunda paragraf doğal akıyor mu? → Son test",
+      "Önce ilişkiyi belirle, sonra kelimeye bak"
+    ]
+  },
+  {
+    "id": "4A",
+    "title": "Boundaries",
+    "titleTR": "Cümle Sınırları",
+    "category": "Standard English Conventions",
+    "categoryTR": "Standart İngilizce Kuralları",
+    "icon": "🚧",
+    "difficulty": "medium",
+    "questionCount": 5,
+    "typicalCount": 8,
+    "description": "Cümle birleştirme, noktalama ve cümle parçalarını düzeltme. Run-on, comma splice ve fragment.",
+    "signalPhrases": ["which choice conforms to conventions", "which punctuation", "which choice creates a complete sentence"],
+    "framework": {
+      "name": "IC-TEST",
+      "steps": [
+        { "letter": "1", "word": "Identify ICs", "action": "Kaç tane bağımsız cümle (IC) var?" },
+        { "letter": "2", "word": "Check connector", "action": "IC'ler nasıl birleşiyor?" },
+        { "letter": "3", "word": "Apply rule", "action": "Nokta / Noktalı virgül / FANBOYS / Bağımlı yapı" }
+      ]
+    },
+    "skills": [
+      "Bağımsız cümle (IC) tanımak",
+      "Bağımlı cümle (DC) tanımak",
+      "Run-on ve comma splice tespit etmek",
+      "FANBOYS bağlaçlarını bilmek",
+      "Modifier hatalarını fark etmek"
+    ],
+    "wrongAnswerTraps": [
+      "Comma splice — İki IC arasına sadece virgül",
+      "FANBOYS + semicolon — 'She ran; but he stayed.' → yanlış",
+      "Dangling modifier — Özneyle modifier uyumsuz",
+      "Fragment — Bağımlı cümleyi tek başına bırakmak"
+    ],
+    "goldenRules": [
+      "FANBOYS: For · And · Nor · But · Or · Yet · So",
+      "IC + , + FANBOYS + IC ✅ | IC + , + IC ❌ (comma splice)",
+      "IC + ; + IC ✅ | IC + ; + FANBOYS + IC ❌"
+    ]
+  },
+  {
+    "id": "4B",
+    "title": "Form, Structure, and Sense",
+    "titleTR": "Biçim, Yapı ve Anlam",
+    "category": "Standard English Conventions",
+    "categoryTR": "Standart İngilizce Kuralları",
+    "icon": "⚙️",
+    "difficulty": "medium",
+    "questionCount": 5,
+    "typicalCount": 8,
+    "description": "Özne-yüklem uyumu, zamir referansı, fiil zamanı, paralel yapı, sıfat/zarf kullanımı.",
+    "signalPhrases": ["which choice conforms to conventions", "which is most precise", "which correctly completes"],
+    "framework": {
+      "name": "4-TEST",
+      "steps": [
+        { "letter": "1", "word": "Subject-Verb", "action": "Özneyi bul (araya giren ifadeyi yay et)" },
+        { "letter": "2", "word": "Pronoun", "action": "it/they/this → neye gönderme yapıyor?" },
+        { "letter": "3", "word": "Parallel", "action": "Liste öğelerinin hepsi aynı formda mı?" },
+        { "letter": "4", "word": "Tense", "action": "Anlatı zaman dilimi tutarlı mı?" }
+      ]
+    },
+    "skills": [
+      "Özne-yüklem uyumu kontrol etmek",
+      "Zamir referans belirsizliğini tespit etmek",
+      "Paralel yapı kuralını uygulamak",
+      "Fiil zamanı tutarlılığını kontrol etmek",
+      "Sıfat/zarf kullanımını doğrulamak"
+    ],
+    "wrongAnswerTraps": [
+      "Intervening phrase — Araya giren ifade özne gibi görünüyor",
+      "Collective nouns — 'The group' tekil, 'The members' çoğul",
+      "Every/Each — Her zaman tekil yüklem ister",
+      "Neither...nor — Yakındaki isme göre uyum"
+    ],
+    "goldenRules": [
+      "The group OF students → group = tekil, students değil",
+      "Every A and every B → tekil (her biri ayrı ayrı)",
+      "A number of → çoğul | The number of → tekil"
+    ]
+  }
+]

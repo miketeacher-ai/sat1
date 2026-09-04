@@ -1,0 +1,1866 @@
+{
+  "1A": [
+    {
+      "id": "1A-G1",
+      "title": "Rehberli Alıştırma 1: Ana Fikir Tespiti (SCOPE)",
+      "difficulty": "medium",
+      "passage": "For centuries, European cartographers depicted the interior of the African continent as an empty void or filled it with mythical beasts, reflecting European ignorance rather than African reality. In truth, complex trade networks, vibrant kingdoms such as Mali and Great Zimbabwe, and sophisticated urban centers flourished long before European exploration. Recent archaeological findings and translations of Arabic and local manuscripts have increasingly forced modern historians to abandon Eurocentric narratives and recognize Africa's dynamic precolonial history.",
+      "question": "Which choice best states the main idea of the text?",
+      "choices": {
+        "A": "European cartographers frequently decorated maps with illustrations of mythical creatures.",
+        "B": "Historical evidence is replacing inaccurate European depictions of precolonial Africa with a richer understanding of its advanced societies.",
+        "C": "Translations of Arabic manuscripts represent the single most important development in African historical research.",
+        "D": "The kingdoms of Mali and Great Zimbabwe maintained trade networks across the African continent."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "S — Scan (İlk ve Son Cümleyi Tara)",
+          "detail": "İlk cümle: Avrupalı haritacıların Afrika'yı boş ya da efsanelerle dolu gösterdiğini söylüyor. Son cümle: Yeni arkeolojik bulgular ve çevirilerin, tarihçileri Avrupa-merkezci bakışı bırakıp Afrika'nın dinamik tarihini tanımaya zorladığını belirtiyor."
+        },
+        {
+          "step": "C — Core Idea (Çekirdek Fikri Tanımla)",
+          "detail": "Metnin temel çatışması: Geçmişteki yanlış Avrupa tasvirleri VS. Günümüz kanıtlarıyla ortaya çıkan gelişmiş, canlı Afrika medeniyetleri."
+        },
+        {
+          "step": "O — Overlap (Kapsam Eşleştirme)",
+          "detail": "B seçeneği metnin hem geçmiş tasvirleri hem de günümüz kanıtlarıyla değişen tarihi anlayışı eksiksiz kapsıyor."
+        },
+        {
+          "step": "P — Prune (Dar Detayları Budama)",
+          "detail": "A seçeneği (harita canavarları) ve D seçeneği (Mali ve Great Zimbabwe) metinde geçen doğru bilgilerdir ama sadece birer yan detaydır (TOO SPECIFIC)."
+        },
+        {
+          "step": "E — Eliminate (Aşırı / Desteklenmeyenleri Ele)",
+          "detail": "C seçeneği 'the single most important' diyerek metnin asla yapmadığı aşırı bir hiyerarşi iddiasında bulunmaktadır (EXTREME LANGUAGE)."
+        }
+      ],
+      "takeaway": "💡 Ana fikir sorularında metinde geçen gerçek bir bilgiye atlamayın; tüm metni kapsayan 'B' gibi geniş çatı cümlesini seçin.",
+      "strategyStepsEN": [
+        {
+          "step": "S — Scan (Analyze First & Last Sentence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. İlk cümle: Avrupalı haritacıların Afrika'yı boş ya da efsanelerle dolu gösterdiğini söylüyor. Son cümle: Yeni arkeolojik bulgular ve çevirilerin, tarihçileri Avrupa-merkezci bakışı bırakıp Afrika'nın dinamik tarihini tanımaya zorladığını belirtiyor."
+        },
+        {
+          "step": "C — Core Idea (Define Central Thesis)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Metnin temel çatışması: Geçmişteki yanlış Avrupa tasvirleri VS. Günümüz kanıtlarıyla ortaya çıkan gelişmiş, canlı Afrika medeniyetleri."
+        },
+        {
+          "step": "O — Overlap (Scope Matching)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği metnin hem geçmiş tasvirleri hem de günümüz kanıtlarıyla değişen tarihi anlayışı eksiksiz kapsıyor."
+        },
+        {
+          "step": "P — Prune (Eliminate Narrow Details)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A seçeneği (harita canavarları) ve D seçeneği (Mali ve Great Zimbabwe) metinde geçen doğru bilgilerdir ama sadece birer yan detaydır (TOO SPECIFIC)."
+        },
+        {
+          "step": "E — Eliminate (Filter Extremes / Distortions)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. C seçeneği 'the single most important' diyerek metnin asla yapmadığı aşırı bir hiyerarşi iddiasında bulunmaktadır (EXTREME LANGUAGE)."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "1A-G2",
+      "title": "Rehberli Alıştırma 2: Bilimsel Açıklama (SCOPE)",
+      "difficulty": "easy",
+      "passage": "Bioluminescence—the production of light by living organisms—serves diverse ecological functions in marine environments. While terrestrial bioluminescence is relatively rare, over 75% of deep-sea creatures possess this capability. Predators like the anglerfish use glowing lures to attract prey, while smaller organisms like dinoflagellates emit flashes of light to startle predators or signal larger hunters to attack their pursuers. Far from being a mere decorative novelty, bioluminescence is a critical survival mechanism in the sunless depths.",
+      "question": "Which choice best summarizes the passage?",
+      "choices": {
+        "A": "Bioluminescence is a widespread and vital adaptation that helps marine organisms hunt, defend themselves, and survive.",
+        "B": "Anglerfish rely on bioluminescent lures to capture prey in the deepest parts of the ocean.",
+        "C": "Terrestrial animals rarely exhibit bioluminescence because sunlight eliminates the need for glowing adaptations.",
+        "D": "Dinoflagellates produce light primarily to attract larger marine predators to their location."
+      },
+      "correctAnswer": "A",
+      "strategySteps": [
+        {
+          "step": "S — Scan",
+          "detail": "İlk cümle bioluminescence'ın çeşitli ekolojik işlevlere hizmet ettiğini söylüyor. Son cümle ise bunun hayati bir hayatta kalma mekanizması olduğunu vurguluyor."
+        },
+        {
+          "step": "C — Core Idea",
+          "detail": "Biyolüminesans, deniz canlılarında yaygın olan ve avlanma ile savunmada hayati rol oynayan bir adaptasyondur."
+        },
+        {
+          "step": "O — Overlap",
+          "detail": "A seçeneği hem yaygınlığı ('widespread') hem de işlevleri ('hunt, defend, survive') tam olarak kapsar."
+        },
+        {
+          "step": "P — Prune",
+          "detail": "B ve D seçenekleri fener balığı ve dinoflagellat örnekleridir; metnin bütününü değil, tek bir örneği anlatır."
+        },
+        {
+          "step": "E — Eliminate",
+          "detail": "C seçeneğinde 'because sunlight eliminates...' iddiası metinde geçmemektedir; dışarıdan uydurulmuş nedendir (NOT IN TEXT)."
+        }
+      ],
+      "takeaway": "💡 Doğru özet seçeneği, paragraftaki örnekleri (fener balığı, algler) kapsayıcı üst kavramla ('marine organisms') ifade eder.",
+      "strategyStepsEN": [
+        {
+          "step": "S — Scan (Analyze First & Last Sentence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. İlk cümle bioluminescence'ın çeşitli ekolojik işlevlere hizmet ettiğini söylüyor. Son cümle ise bunun hayati bir hayatta kalma mekanizması olduğunu vurguluyor."
+        },
+        {
+          "step": "C — Core Idea (Define Central Thesis)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. Biyolüminesans, deniz canlılarında yaygın olan ve avlanma ile savunmada hayati rol oynayan bir adaptasyondur."
+        },
+        {
+          "step": "O — Overlap (Scope Matching)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. A seçeneği hem yaygınlığı ('widespread') hem de işlevleri ('hunt, defend, survive') tam olarak kapsar."
+        },
+        {
+          "step": "P — Prune (Eliminate Narrow Details)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. B ve D seçenekleri fener balığı ve dinoflagellat örnekleridir; metnin bütününü değil, tek bir örneği anlatır."
+        },
+        {
+          "step": "E — Eliminate (Filter Extremes / Distortions)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. C seçeneğinde 'because sunlight eliminates...' iddiası metinde geçmemektedir; dışarıdan uydurulmuş nedendir (NOT IN TEXT)."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice A using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "1A-G3",
+      "title": "Rehberli Alıştırma 3: Destekleyici Ayrıntı / Detail (SCOPE)",
+      "difficulty": "hard",
+      "passage": "In 1938, Dutch painter Han van Meegeren forged several paintings attributed to the seventeenth-century master Johannes Vermeer, deceiving renowned art historians and earning millions. Van Meegeren succeeded partly because he studied seventeenth-century pigments, but primarily because he exploited critics' preconceptions: he deliberately created works that matched scholars' unsubstantiated theories about Vermeer's supposed 'lost religious period.' When van Meegeren was later tried for selling Dutch national treasures, he had to paint a new forgery in his jail cell to convince skeptical judges that the works were indeed his own creations.",
+      "question": "According to the passage, what was the primary reason van Meegeren was able to fool art scholars?",
+      "choices": {
+        "A": "He used authentic seventeenth-century pigments that chemical analyses of the era could not distinguish.",
+        "B": "He painted in front of skeptical judges while held in a Dutch detention facility.",
+        "C": "He tailored his forgeries to align with preexisting academic theories about Vermeer's missing work.",
+        "D": "He forged certificates of authenticity from Vermeer's descendants."
+      },
+      "correctAnswer": "C",
+      "strategySteps": [
+        {
+          "step": "S — Scan (Soru Kökünü Tara)",
+          "detail": "Soru 'primary reason van Meegeren was able to fool art scholars' (en temel nedeni) soruyor. Metinde 'primarily because' ifadesini arayın."
+        },
+        {
+          "step": "C — Core Idea (Anahtar Cümleyi Bul)",
+          "detail": "Metin: 'partly because he studied... pigments, but primarily because he exploited critics' preconceptions: he deliberately created works that matched scholars' unsubstantiated theories...'"
+        },
+        {
+          "step": "O — Overlap (Eşleştir)",
+          "detail": "C seçeneğindeki 'align with preexisting academic theories' ifadesi metindeki 'matched scholars' unsubstantiated theories' ile birebir örtüşür."
+        },
+        {
+          "step": "P — Prune (İkincil Detayı Ele)",
+          "detail": "A seçeneğinde pigmentler geçer ama metin 'partly because' der; soru 'primary' olanı sormaktadır. A ikincil sebep tuzağıdır."
+        },
+        {
+          "step": "E — Eliminate (Kronoloji ve Uydurma Bilgileri Ele)",
+          "detail": "B seçeneği yakalandıktan SONRA kanıtlamak için yaptığı şeydir, aldatma sebebi değildir. D seçeneği metinde hiç yoktur."
+        }
+      ],
+      "takeaway": "💡 'Primary reason' sorularında metindeki 'partly' (kısmen) ile 'primarily' (öncelikle) arasındaki zıtlığı yakalayın.",
+      "strategyStepsEN": [
+        {
+          "step": "S — Scan (Analyze First & Last Sentence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. Soru 'primary reason van Meegeren was able to fool art scholars' (en temel nedeni) soruyor. Metinde 'primarily because' ifadesini arayın."
+        },
+        {
+          "step": "C — Core Idea (Define Central Thesis)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. Metin: 'partly because he studied... pigments, but primarily because he exploited critics' preconceptions: he deliberately created works that matched scholars' unsubstantiated theories...'"
+        },
+        {
+          "step": "O — Overlap (Scope Matching)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. C seçeneğindeki 'align with preexisting academic theories' ifadesi metindeki 'matched scholars' unsubstantiated theories' ile birebir örtüşür."
+        },
+        {
+          "step": "P — Prune (Eliminate Narrow Details)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. A seçeneğinde pigmentler geçer ama metin 'partly because' der; soru 'primary' olanı sormaktadır. A ikincil sebep tuzağıdır."
+        },
+        {
+          "step": "E — Eliminate (Filter Extremes / Distortions)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. B seçeneği yakalandıktan SONRA kanıtlamak için yaptığı şeydir, aldatma sebebi değildir. D seçeneği metinde hiç yoktur."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice C using the step-by-step framework to avoid deceptive College Board distractors."
+    }
+  ],
+  "1B": [
+    {
+      "id": "1B-G1",
+      "title": "Rehberli Alıştırma 1: Hipotezi Destekleme (PAIR)",
+      "difficulty": "medium",
+      "passage": "Ecologist Dr. Elena Rostova hypothesized that urban noise pollution impairs songbird breeding success not by directly stressing adult birds, but by masking mating calls, which prevents females from locating prospective mates in high-traffic territories.",
+      "question": "Which finding, if true, would most directly support Dr. Rostova's hypothesis?",
+      "choices": {
+        "A": "Adult songbirds in noisy environments show cortisol (stress hormone) levels that are indistinguishable from those in quiet rural habitats.",
+        "B": "In laboratory conditions with background traffic noise, female birds respond to mating calls played at frequencies elevated above the ambient noise level, but fail to respond to standard-frequency calls.",
+        "C": "Urban songbirds build nests using artificial materials, which offer poorer insulation compared to natural vegetation.",
+        "D": "Female songbirds migrate earlier in the spring than male songbirds across both urban and rural ecosystems."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "P — Pinpoint (İddiayı Netleştir)",
+          "detail": "Hipotez: Başarısızlığın sebebi stres DEĞİL, ses kirliliğinin çiftleşme çağrılarını perdelemesi (maskelemesi) ve dişilerin erkekleri duyamamasıdır."
+        },
+        {
+          "step": "A — Analyze (Seçenekleri Test Et)",
+          "detail": "B seçeneği laboratuvarda trafik gürültüsü varken standart çağrıların duyulmadığını, sadece gürültünün üzerine çıkan yüksek frekanslı çağrıların duyulduğunu gösteriyor. Bu doğrudan 'masking' mekanizmasını kanıtlar."
+        },
+        {
+          "step": "I — Ignore (Yarı Destekleyen / Alakasızları Ele)",
+          "detail": "A seçeneği stres olmadığını gösterir ama maskeleme olduğunu kanıtlamaz (sadece negatif kanıt, yetersiz). C yuva malzemesiyle ilgili, D ise göç zamanlamasıyla ilgili (tamamen konu dışı)."
+        },
+        {
+          "step": "R — Rank (En Güçlü Kanıtı Seç)",
+          "detail": "B seçeneği doğrudan mekanizmayı simüle edip hipotezi doğrulayan en kesin pozitif deneysel bulgudur."
+        }
+      ],
+      "takeaway": "💡 'Most directly supports' sorularında sadece negatif çürütmeleri (stres yok) değil, doğrudan ileri sürülen mekanizmayı kanıtlayan şıkkı arayın.",
+      "strategyStepsEN": [
+        {
+          "step": "P — Pinpoint (Define Target Claim)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Hipotez: Başarısızlığın sebebi stres DEĞİL, ses kirliliğinin çiftleşme çağrılarını perdelemesi (maskelemesi) ve dişilerin erkekleri duyamamasıdır."
+        },
+        {
+          "step": "A — Analyze (Test Each Option Directly)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği laboratuvarda trafik gürültüsü varken standart çağrıların duyulmadığını, sadece gürültünün üzerine çıkan yüksek frekanslı çağrıların duyulduğunu gösteriyor. Bu doğrudan 'masking' mekanizmasını kanıtlar."
+        },
+        {
+          "step": "I — Ignore (Discard Irrelevant Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A seçeneği stres olmadığını gösterir ama maskeleme olduğunu kanıtlamaz (sadece negatif kanıt, yetersiz). C yuva malzemesiyle ilgili, D ise göç zamanlamasıyla ilgili (tamamen konu dışı)."
+        },
+        {
+          "step": "R — Rank (Select Strongest Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği doğrudan mekanizmayı simüle edip hipotezi doğrulayan en kesin pozitif deneysel bulgudur."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "1B-G2",
+      "title": "Rehberli Alıştırma 2: Metin Alıntısı Seçme (PAIR)",
+      "difficulty": "easy",
+      "passage": "Psychologist Carol Dweck has studied how praise influences children's motivation. In one experiment, children were given a moderately difficult puzzle. One group was praised for their intelligence ('You are so smart!'), while another group was praised for their effort ('You worked so hard!'). When offered a choice of subsequent tasks, effort-praised children chose challenging problems, whereas intelligence-praised children overwhelmingly selected easier tasks to protect their smart appearance.",
+      "question": "Which quotation from the text best supports the claim that praising inherent ability can lead to risk aversion?",
+      "choices": {
+        "A": "'In one experiment, children were given a moderately difficult puzzle.'",
+        "B": "'One group was praised for their intelligence ('You are so smart!'), while another group was praised for their effort'",
+        "C": "'whereas intelligence-praised children overwhelmingly selected easier tasks to protect their smart appearance.'",
+        "D": "'When offered a choice of subsequent tasks, effort-praised children chose challenging problems'"
+      },
+      "correctAnswer": "C",
+      "strategySteps": [
+        {
+          "step": "P — Pinpoint",
+          "detail": "Kanıtlanacak iddia: Yeteneği (inherent ability) övmek, riskten kaçınmaya (risk aversion) yol açar."
+        },
+        {
+          "step": "A — Analyze",
+          "detail": "C alıntısı 'intelligence-praised' çocukların zeki görünüşlerini korumak için 'easier tasks' (daha kolay görevler = riskten kaçınma) seçtiklerini doğrudan belgeliyor."
+        },
+        {
+          "step": "I — Ignore",
+          "detail": "A sadece deney prosedürüdür. B sadece övgü tiplerini tanımlar. D ise çaba grubunu anlatır, yetenek grubunu değil."
+        },
+        {
+          "step": "R — Rank",
+          "detail": "C seçeneği iddiadaki her iki kavramı ('inherent ability praise' ve 'risk aversion') doğrudan birbirine bağlar."
+        }
+      ],
+      "takeaway": "💡 Kanıt sorularında iddiadaki kelimelerin metindeki karşılıklarını (intelligence-praised = inherent ability; selected easier tasks = risk aversion) eşleştirin.",
+      "strategyStepsEN": [
+        {
+          "step": "P — Pinpoint (Define Target Claim)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. Kanıtlanacak iddia: Yeteneği (inherent ability) övmek, riskten kaçınmaya (risk aversion) yol açar."
+        },
+        {
+          "step": "A — Analyze (Test Each Option Directly)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. C alıntısı 'intelligence-praised' çocukların zeki görünüşlerini korumak için 'easier tasks' (daha kolay görevler = riskten kaçınma) seçtiklerini doğrudan belgeliyor."
+        },
+        {
+          "step": "I — Ignore (Discard Irrelevant Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. A sadece deney prosedürüdür. B sadece övgü tiplerini tanımlar. D ise çaba grubunu anlatır, yetenek grubunu değil."
+        },
+        {
+          "step": "R — Rank (Select Strongest Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. C seçeneği iddiadaki her iki kavramı ('inherent ability praise' ve 'risk aversion') doğrudan birbirine bağlar."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice C using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "1B-G3",
+      "title": "Rehberli Alıştırma 3: İki Yazar Karşılaştırması (PAIR)",
+      "difficulty": "hard",
+      "passage": "Text 1: Economist Daron Acemoglu argues that inclusive political and economic institutions—which enforce property rights, maintain the rule of law, and encourage broad participation—are the decisive drivers of long-term economic prosperity. Geography and natural resources, he contends, play a negligible role.\n\nText 2: Geographer Jeffrey Sachs argues that institutional quality cannot explain all developmental disparities. Tropical regions, he notes, face crushing disease burdens like malaria and infertile soils that systematically suppress agricultural productivity and capital accumulation regardless of government type.",
+      "question": "Based on the texts, how would Jeffrey Sachs (Text 2) most likely critique Daron Acemoglu's claim (Text 1)?",
+      "choices": {
+        "A": "By arguing that inclusive institutions inevitably lead to economic corruption in developing states.",
+        "B": "By asserting that geographical disadvantages can impose severe constraints on prosperity even when institutions are sound.",
+        "C": "By claiming that natural resources are the sole determinant of whether a nation becomes wealthy.",
+        "D": "By conceding that disease burdens have been completely eradicated by modern medicine."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "P — Pinpoint",
+          "detail": "Acemoglu: Sadece kurumlar önemlidir; coğrafya ihmal edilebilir. Sachs'ın eleştirisi: Kurumlar her şeyi açıklayamaz, tropikal coğrafi engeller kurumlar iyi olsa da gelişmeyi baskılar."
+        },
+        {
+          "step": "A — Analyze",
+          "detail": "B seçeneği Sachs'ın coğrafyanın kurumlar sağlam olsa bile ('even when institutions are sound') zenginliği kısıtlayabileceği görüşünü tam yansıtır."
+        },
+        {
+          "step": "I — Ignore",
+          "detail": "A seçeneğindeki 'inevitably lead to corruption' Sachs'ın metninde yoktur. C seçeneğindeki 'sole determinant' aşırı uçtur. D seçeneği metinle çelişir."
+        },
+        {
+          "step": "R — Rank",
+          "detail": "B seçeneği her iki yazarın tez ve antitezini doğru dengeyle birbirine bağlar."
+        }
+      ],
+      "takeaway": "💡 Yazarın bakış açısı sorularında karşı yazarın neyi kabul edip neyi sınırlandırdığını 'even when / regardless of' yapılarıyla yakalayın.",
+      "strategyStepsEN": [
+        {
+          "step": "P — Pinpoint (Define Target Claim)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Acemoglu: Sadece kurumlar önemlidir; coğrafya ihmal edilebilir. Sachs'ın eleştirisi: Kurumlar her şeyi açıklayamaz, tropikal coğrafi engeller kurumlar iyi olsa da gelişmeyi baskılar."
+        },
+        {
+          "step": "A — Analyze (Test Each Option Directly)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği Sachs'ın coğrafyanın kurumlar sağlam olsa bile ('even when institutions are sound') zenginliği kısıtlayabileceği görüşünü tam yansıtır."
+        },
+        {
+          "step": "I — Ignore (Discard Irrelevant Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A seçeneğindeki 'inevitably lead to corruption' Sachs'ın metninde yoktur. C seçeneğindeki 'sole determinant' aşırı uçtur. D seçeneği metinle çelişir."
+        },
+        {
+          "step": "R — Rank (Select Strongest Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği her iki yazarın tez ve antitezini doğru dengeyle birbirine bağlar."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    }
+  ],
+  "1C": [
+    {
+      "id": "1C-G1",
+      "title": "Rehberli Alıştırma 1: Tablo Trendi Doğrulama (CHART)",
+      "difficulty": "medium",
+      "passage": "A research team tested the effectiveness of four water filtration membranes at removing microplastics from municipal wastewater.",
+      "tableData": {
+        "headers": [
+          "Filtre Türü",
+          "Gözenek Boyutu (μm)",
+          "Mikroplastik Tutma (%)",
+          "Akış Hızı (L/saat)"
+        ],
+        "rows": [
+          [
+            "Membran W",
+            "5.0",
+            "62%",
+            "140"
+          ],
+          [
+            "Membran X",
+            "2.0",
+            "84%",
+            "110"
+          ],
+          [
+            "Membran Y",
+            "0.5",
+            "96%",
+            "65"
+          ],
+          [
+            "Membran Z",
+            "0.1",
+            "99%",
+            "20"
+          ]
+        ]
+      },
+      "question": "Which choice best describes the relationship between pore size, filtration efficiency, and flow rate shown in the table?",
+      "choices": {
+        "A": "Smaller pore sizes result in higher microplastic retention but drastically reduce the flow rate.",
+        "B": "Membrane W provides the optimal balance of highest retention and highest flow rate.",
+        "C": "Pore size has no measurable effect on microplastic retention across the tested membranes.",
+        "D": "Flow rate increases steadily as the pore size decreases from 5.0 to 0.1 μm."
+      },
+      "correctAnswer": "A",
+      "strategySteps": [
+        {
+          "step": "C — Caption & Title (Başlık)",
+          "detail": "Filtre türleri, gözenek boyutu, mikroplastik tutma yüzdesi ve akış hızı inceleniyor."
+        },
+        {
+          "step": "H — Horizontal / Columns (Sütunlar)",
+          "detail": "Gözenek boyutu (5.0'dan 0.1'e düşüyor) / Tutma (%62'den %99'a çıkıyor) / Akış hızı (140'tan 20'ye düşüyor)."
+        },
+        {
+          "step": "A — Axis Values (Değerler)",
+          "detail": "En küçük gözenek (Z: 0.1 μm) en yüksek tutmaya (%99) fakat en düşük akış hızına (20) sahip."
+        },
+        {
+          "step": "R — Range & Trend (Trend Analizi)",
+          "detail": "Gözenek küçüldükçe tutma artıyor, fakat akış hızı sert bir şekilde azalıyor (trade-off)."
+        },
+        {
+          "step": "T — Text-Data Match (Eşleştir)",
+          "detail": "A seçeneği bu zıt yönlü iki trendi ('higher retention but drastically reduce flow rate') kusursuzca özetler."
+        }
+      ],
+      "takeaway": "💡 Veri sorularında daima 'biri artarken diğeri azalıyor mu?' ters orantı ilişkilerini tespit edin.",
+      "strategyStepsEN": [
+        {
+          "step": "C — Caption (Inspect Title & Units)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. Filtre türleri, gözenek boyutu, mikroplastik tutma yüzdesi ve akış hızı inceleniyor."
+        },
+        {
+          "step": "H — Horizontal (Define Columns & Rows)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. Gözenek boyutu (5.0'dan 0.1'e düşüyor) / Tutma (%62'den %99'a çıkıyor) / Akış hızı (140'tan 20'ye düşüyor)."
+        },
+        {
+          "step": "A — Axis Values (Verify Numbers Precisely)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. En küçük gözenek (Z: 0.1 μm) en yüksek tutmaya (%99) fakat en düşük akış hızına (20) sahip."
+        },
+        {
+          "step": "R — Range & Trend (Observe Data Trajectory)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. Gözenek küçüldükçe tutma artıyor, fakat akış hızı sert bir şekilde azalıyor (trade-off)."
+        },
+        {
+          "step": "T — Text-Data Match (Verify Alignment)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. A seçeneği bu zıt yönlü iki trendi ('higher retention but drastically reduce flow rate') kusursuzca özetler."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice A using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "1C-G2",
+      "title": "Rehberli Alıştırma 2: Grafikten Destek Arama (CHART)",
+      "difficulty": "easy",
+      "passage": "An agronomist contends that organic fertilizers increase soil microbial biodiversity more effectively than synthetic fertilizers over a three-year period.",
+      "tableData": {
+        "headers": [
+          "Gübre Türü",
+          "1. Yıl Biyoçeşitlilik İndeksi",
+          "2. Yıl Biyoçeşitlilik İndeksi",
+          "3. Yıl Biyoçeşitlilik İndeksi"
+        ],
+        "rows": [
+          [
+            "Kontrol (Gübresiz)",
+            "42",
+            "41",
+            "40"
+          ],
+          [
+            "Sentetik Gübre",
+            "45",
+            "48",
+            "44"
+          ],
+          [
+            "Organik Kompost",
+            "46",
+            "58",
+            "72"
+          ]
+        ]
+      },
+      "question": "Which data point from the table most strongly supports the agronomist's contention?",
+      "choices": {
+        "A": "Synthetic fertilizer raised the index from 45 in Year 1 to 48 in Year 2.",
+        "B": "Organic compost's index rose from 46 in Year 1 to 72 in Year 3, while synthetic fertilizer dropped to 44 in Year 3.",
+        "C": "The control group maintained an index near 40 throughout the study.",
+        "D": "In Year 1, synthetic and organic fertilizers produced nearly identical biodiversity scores (45 and 46)."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "C — Caption",
+          "detail": "Toprak mikrobiyal biyoçeşitlilik indeksi 3 yıl boyunca takip edilmiş."
+        },
+        {
+          "step": "H — Horizontal",
+          "detail": "3 satır (Kontrol, Sentetik, Organik) ve 3 yıllık ölçümler."
+        },
+        {
+          "step": "A — Axis Values",
+          "detail": "Organik: 46 -> 58 -> 72 (sürekli artış). Sentetik: 45 -> 48 -> 44 (3. yılda düşüş)."
+        },
+        {
+          "step": "R — Range & Trend",
+          "detail": "İddia 'over a three-year period' (3 yıllık süreç boyunca) organik gübrenin daha etkili olduğudur."
+        },
+        {
+          "step": "T — Text-Data Match",
+          "detail": "B seçeneği hem organik gübrenin 72'ye tırmandığını hem de sentetik gübrenin 44'e gerilediğini göstererek iddiayı en güçlü şekilde kanıtlar."
+        }
+      ],
+      "takeaway": "💡 Karşılaştırma iddialarında sadece tek bir grubun artışını değil, iki grubun makas açılımını veren veriyi seçin.",
+      "strategyStepsEN": [
+        {
+          "step": "C — Caption (Inspect Title & Units)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Toprak mikrobiyal biyoçeşitlilik indeksi 3 yıl boyunca takip edilmiş."
+        },
+        {
+          "step": "H — Horizontal (Define Columns & Rows)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. 3 satır (Kontrol, Sentetik, Organik) ve 3 yıllık ölçümler."
+        },
+        {
+          "step": "A — Axis Values (Verify Numbers Precisely)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Organik: 46 -> 58 -> 72 (sürekli artış). Sentetik: 45 -> 48 -> 44 (3. yılda düşüş)."
+        },
+        {
+          "step": "R — Range & Trend (Observe Data Trajectory)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. İddia 'over a three-year period' (3 yıllık süreç boyunca) organik gübrenin daha etkili olduğudur."
+        },
+        {
+          "step": "T — Text-Data Match (Verify Alignment)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği hem organik gübrenin 72'ye tırmandığını hem de sentetik gübrenin 44'e gerilediğini göstererek iddiayı en güçlü şekilde kanıtlar."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "1C-G3",
+      "title": "Rehberli Alıştırma 3: Yetersiz Veri / Overreach Tuzağı (CHART)",
+      "difficulty": "hard",
+      "passage": "A tech analyst claims that electric vehicles (EVs) are now cheaper to maintain per mile than conventional gasoline vehicles across all vehicle weight classes.",
+      "tableData": {
+        "headers": [
+          "Araç Sınıfı",
+          "Benzinli Bakım ($/mil)",
+          "EV Bakım ($/mil)"
+        ],
+        "rows": [
+          [
+            "Sedan (Hafif)",
+            "0.09",
+            "0.06"
+          ],
+          [
+            "SUV (Orta)",
+            "0.12",
+            "0.08"
+          ]
+        ]
+      },
+      "question": "Do the data in the table adequately support the analyst's broad claim?",
+      "choices": {
+        "A": "Yes, because EVs have lower maintenance costs in both Sedan and SUV categories.",
+        "B": "Yes, because the percentage savings for EV Sedans exceeds 30%.",
+        "C": "No, because the table only includes light and medium vehicles, omitting heavy trucks and commercial vehicle classes.",
+        "D": "No, because gasoline SUVs cost more per mile than gasoline Sedans."
+      },
+      "correctAnswer": "C",
+      "strategySteps": [
+        {
+          "step": "C — Caption & Claim",
+          "detail": "Analistin iddiası: 'across all vehicle weight classes' (tüm ağırlık sınıflarında)."
+        },
+        {
+          "step": "H — Horizontal",
+          "detail": "Tabloda sadece 2 sınıf var: Sedan (Hafif) ve SUV (Orta)."
+        },
+        {
+          "step": "A — Axis Values",
+          "detail": "Her iki sınıfta da EV daha ucuzdur ($0.06 vs $0.09 ve $0.08 vs $0.12)."
+        },
+        {
+          "step": "R — Range Check",
+          "detail": "Peki ağır vasıtalar, kamyonlar, ticari araçlar nerede? Tabloda yok!"
+        },
+        {
+          "step": "T — Text-Data Match",
+          "detail": "C seçeneği analistin 'all classes' genellemesinin tablodaki sınırlı veriyle kanıtlanamayacağını doğru tespit eder."
+        }
+      ],
+      "takeaway": "💡 'Across all', 'universally' gibi aşırı genellemelere dikkat edin; tablodaki kategori sayısı iddiayı karşılamıyorsa cevap 'No, because...' olur.",
+      "strategyStepsEN": [
+        {
+          "step": "C — Caption (Inspect Title & Units)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. Analistin iddiası: 'across all vehicle weight classes' (tüm ağırlık sınıflarında)."
+        },
+        {
+          "step": "H — Horizontal (Define Columns & Rows)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. Tabloda sadece 2 sınıf var: Sedan (Hafif) ve SUV (Orta)."
+        },
+        {
+          "step": "A — Axis Values (Verify Numbers Precisely)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. Her iki sınıfta da EV daha ucuzdur ($0.06 vs $0.09 ve $0.08 vs $0.12)."
+        },
+        {
+          "step": "R — Range & Trend (Observe Data Trajectory)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. Peki ağır vasıtalar, kamyonlar, ticari araçlar nerede? Tabloda yok!"
+        },
+        {
+          "step": "T — Text-Data Match (Verify Alignment)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. C seçeneği analistin 'all classes' genellemesinin tablodaki sınırlı veriyle kanıtlanamayacağını doğru tespit eder."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice C using the step-by-step framework to avoid deceptive College Board distractors."
+    }
+  ],
+  "1D": [
+    {
+      "id": "1D-G1",
+      "title": "Rehberli Alıştırma 1: Mantıksal Çıkarım (IMPLY)",
+      "difficulty": "medium",
+      "passage": "In the arid Atacama Desert, certain beetle species harvest drinking water from dense morning fogs. The beetles position themselves head-downward on sand dunes, allowing microscopic hydrophilic (water-attracting) bumps on their wing covers to capture airborne moisture droplets. Once droplets coalesce into larger beads, they roll down surrounding hydrophobic (water-repelling) channels directly into the beetle's mouth. Engineers have recently developed atmospheric water-harvesting mesh modeled after this dual-surface structure for drought-prone regions.",
+      "question": "What can be most reasonably inferred about the dual-surface structure of the beetle's wing covers?",
+      "choices": {
+        "A": "It would be ineffective at gathering drinking water if the surface were composed entirely of hydrophilic material.",
+        "B": "It enables the beetle to absorb moisture directly through its internal respiratory system.",
+        "C": "It is unique to insects residing in South American desert ecosystems.",
+        "D": "It was engineered by human scientists before being observed in natural organisms."
+      },
+      "correctAnswer": "A",
+      "strategySteps": [
+        {
+          "step": "I — Identify (Yazılanı Belirle)",
+          "detail": "Metin: Hidrofilik tepecikler suyu çeker; hidrofobik kanallar ise biriken damlaların aşağı ağza akmasını sağlar."
+        },
+        {
+          "step": "M — Move Beyond (İma Edileni Düşün)",
+          "detail": "Eğer tüm yüzey su çekici (hidrofilik) olsaydı ne olurdu? Su yüzeye yapışır, damlalar halinde ağza akıp yuvarlanamazdı!"
+        },
+        {
+          "step": "P — Prove (Kanıtla)",
+          "detail": "A seçeneğindeki 'tamamen hidrofilik olsaydı etkisiz olurdu' çıkarımı, metindeki iki zıt mekanizmanın birlikte çalışma zorunluluğundan mantıksal olarak çıkar."
+        },
+        {
+          "step": "L — Limit (Aşırı Şıkları Ele)",
+          "detail": "C 'unique to South America' aşırı genelleme; D zaman sıralaması olarak tam tersi (doğadan insana kopyalandı); B solunum sisteminden bahsetmiyor."
+        },
+        {
+          "step": "Y — Yield (En Küçük Adımı Seç)",
+          "detail": "A seçeneği metnin fiziksel mantığından doğrudan türeyen en sağlam çıkarımdır."
+        }
+      ],
+      "takeaway": "💡 'Eğer parçalardan biri olmasaydı ne olurdu?' düşünce deneyi, çıkarım sorularının en güçlü anahtarıdır.",
+      "strategyStepsEN": [
+        {
+          "step": "I — Identify (Pinpoint Stated Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. Metin: Hidrofilik tepecikler suyu çeker; hidrofobik kanallar ise biriken damlaların aşağı ağza akmasını sağlar."
+        },
+        {
+          "step": "M — Move Beyond (Logical Next Step)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. Eğer tüm yüzey su çekici (hidrofilik) olsaydı ne olurdu? Su yüzeye yapışır, damlalar halinde ağza akıp yuvarlanamazdı!"
+        },
+        {
+          "step": "P — Prove (Validate Logical Soundness)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. A seçeneğindeki 'tamamen hidrofilik olsaydı etkisiz olurdu' çıkarımı, metindeki iki zıt mekanizmanın birlikte çalışma zorunluluğundan mantıksal olarak çıkar."
+        },
+        {
+          "step": "L — Limit (Filter Absolute Terms)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. C 'unique to South America' aşırı genelleme; D zaman sıralaması olarak tam tersi (doğadan insana kopyalandı); B solunum sisteminden bahsetmiyor."
+        },
+        {
+          "step": "Y — Yield (Smallest Logical Leap Wins)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. A seçeneği metnin fiziksel mantığından doğrudan türeyen en sağlam çıkarımdır."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice A using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "1D-G2",
+      "title": "Rehberli Alıştırma 2: Yazar Tutumu Çıkarımı (IMPLY)",
+      "difficulty": "hard",
+      "passage": "Proponents of open-plan office spaces promised that tearing down cubicle walls would dismantle corporate hierarchies and foster spontaneous collaboration among employees. Yet several recent workplace studies revealed that face-to-face interactions actually plummeted by roughly 70% in open offices, while electronic messaging and noise-canceling headphone usage skyrocketed as workers desperately erected virtual boundaries to protect their focus.",
+      "question": "The passage most strongly implies which of the following regarding open-plan offices?",
+      "choices": {
+        "A": "They completely eradicated workplace communication across all professional sectors.",
+        "B": "Their implementation inadvertently generated employee behaviors that thwarted the original objective of the layout.",
+        "C": "They are universally favored by corporate executives seeking to reduce furniture expenditures.",
+        "D": "They will soon be outlawed by international labor regulatory bodies."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "I — Identify",
+          "detail": "Amaç: Yüz yüze etkileşimi ve iş birliğini artırmak. Gerçekleşen: Yüz yüze iletişim %70 düştü, çalışanlar kulaklık takıp sanal duvar ördü."
+        },
+        {
+          "step": "M — Move Beyond",
+          "detail": "Tasarım ters tepti (inadvertently generated behaviors that thwarted original objective)."
+        },
+        {
+          "step": "P — Prove",
+          "detail": "B seçeneğindeki 'kasıtsız olarak orijinal amacı engelleyen çalışan davranışları üretti' ifadesi bu çelişkiyi birebir özetler."
+        },
+        {
+          "step": "L — Limit",
+          "detail": "A 'completely eradicated' ile aşırı uçtur. C 'universally favored' metinde yoktur. D 'outlawed' aşırı spekülatiftir."
+        },
+        {
+          "step": "Y — Yield",
+          "detail": "B seçeneği temkinli akademik dille yazılmıştır ('inadvertently generated')."
+        }
+      ],
+      "takeaway": "💡 Çıkarım sorularında 'inadvertently', 'partially', 'suggests' gibi esnek ve ölçülü kelimeleri içeren seçenekler genellikle doğrudur.",
+      "strategyStepsEN": [
+        {
+          "step": "I — Identify (Pinpoint Stated Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Amaç: Yüz yüze etkileşimi ve iş birliğini artırmak. Gerçekleşen: Yüz yüze iletişim %70 düştü, çalışanlar kulaklık takıp sanal duvar ördü."
+        },
+        {
+          "step": "M — Move Beyond (Logical Next Step)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Tasarım ters tepti (inadvertently generated behaviors that thwarted original objective)."
+        },
+        {
+          "step": "P — Prove (Validate Logical Soundness)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneğindeki 'kasıtsız olarak orijinal amacı engelleyen çalışan davranışları üretti' ifadesi bu çelişkiyi birebir özetler."
+        },
+        {
+          "step": "L — Limit (Filter Absolute Terms)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A 'completely eradicated' ile aşırı uçtur. C 'universally favored' metinde yoktur. D 'outlawed' aşırı spekülatiftir."
+        },
+        {
+          "step": "Y — Yield (Smallest Logical Leap Wins)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği temkinli akademik dille yazılmıştır ('inadvertently generated')."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "1D-G3",
+      "title": "Rehberli Alıştırma 3: Tarihsel Koşul Çıkarımı (IMPLY)",
+      "difficulty": "medium",
+      "passage": "Before the widespread adoption of domestic refrigeration in the 1930s, urban consumers visited local grocers and butchers almost daily to purchase perishable goods. Because food spoiled within days, households operated without long-term food reserves, leaving city populations exceptionally vulnerable to sudden railway strikes, adverse weather, or supply chain shocks that delayed deliveries by even forty-eight hours.",
+      "question": "Which inference is best supported by the text?",
+      "choices": {
+        "A": "Early refrigerators were unaffordable for the vast majority of rural farming families.",
+        "B": "The widespread introduction of household refrigeration reduced urban communities' immediate susceptibility to short-term transit disruptions.",
+        "C": "Food spoilage rates were substantially lower in urban markets than in coastal fishing ports.",
+        "D": "Railway strikes were organized primarily by urban grocers attempting to manipulate food prices."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "I — Identify",
+          "detail": "Buzdolabı ÖNCESİ: Yiyecek saklanamadığı için 48 saatlik tren grevi bile şehirleri açlıkla yüz yüze bırakıyordu."
+        },
+        {
+          "step": "M — Move Beyond (Ters Çevirme Testi)",
+          "detail": "Buzdolabı SONRASI ne olmuştur? İnsanlar yiyecek stoklayabildiği için kısa süreli ulaşım aksamalarından eskisi kadar etkilenmemişlerdir."
+        },
+        {
+          "step": "P — Prove",
+          "detail": "B seçeneği buzdolabının yaygınlaşmasının 'kısa süreli ulaşım aksamalarına karşı kırılganlığı azalttığı' mantığını tam kurar."
+        },
+        {
+          "step": "L — Limit",
+          "detail": "A kırsal ailelerin bütçesinden bahsetmiyor. C kıyı balıkçılarıyla kıyaslama yok. D grevlerin nedenini tamamen saptırıyor."
+        },
+        {
+          "step": "Y — Yield",
+          "detail": "B seçeneği metindeki neden-sonuç zincirinin doğal ve mantıklı karşıtıdır."
+        }
+      ],
+      "takeaway": "💡 Metin 'X olmadan önce durum şöyleydi' diyorsa, çıkarım genellikle 'X geldikten sonra bu sorun düzeldi' yönünde olur.",
+      "strategyStepsEN": [
+        {
+          "step": "I — Identify (Pinpoint Stated Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Buzdolabı ÖNCESİ: Yiyecek saklanamadığı için 48 saatlik tren grevi bile şehirleri açlıkla yüz yüze bırakıyordu."
+        },
+        {
+          "step": "M — Move Beyond (Logical Next Step)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Buzdolabı SONRASI ne olmuştur? İnsanlar yiyecek stoklayabildiği için kısa süreli ulaşım aksamalarından eskisi kadar etkilenmemişlerdir."
+        },
+        {
+          "step": "P — Prove (Validate Logical Soundness)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği buzdolabının yaygınlaşmasının 'kısa süreli ulaşım aksamalarına karşı kırılganlığı azalttığı' mantığını tam kurar."
+        },
+        {
+          "step": "L — Limit (Filter Absolute Terms)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A kırsal ailelerin bütçesinden bahsetmiyor. C kıyı balıkçılarıyla kıyaslama yok. D grevlerin nedenini tamamen saptırıyor."
+        },
+        {
+          "step": "Y — Yield (Smallest Logical Leap Wins)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği metindeki neden-sonuç zincirinin doğal ve mantıklı karşıtıdır."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    }
+  ],
+  "2A": [
+    {
+      "id": "2A-G1",
+      "title": "Rehberli Alıştırma 1: Mecazi Bağlamda Kelime (SWAP)",
+      "difficulty": "easy",
+      "passage": "The diplomat was known for her **measured** responses during high-stakes negotiations; even when provoked by hostile foreign envoys, she refused to raise her voice or deviate from her prepared talking points.",
+      "question": "As used in the text, 'measured' most nearly means:",
+      "choices": {
+        "A": "calculated using mathematical instruments",
+        "B": "carefully restrained and deliberate",
+        "C": "restricted by legal statutes",
+        "D": "rhythmically metered like poetry"
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "S — Strip (Kelimeyi Çıkar)",
+          "detail": "'The diplomat was known for her [BLANK] responses... she refused to raise her voice...'"
+        },
+        {
+          "step": "W — What Fits? (Kendi Kelimeni Koy)",
+          "detail": "Kışkırtmaya rağmen sesini yükseltmiyor, sakin ve kontrollü kalıyor. Boşluğa 'calm, controlled, careful' kelimeleri oturur."
+        },
+        {
+          "step": "A — Apply Each (Seçenekleri Yerine Koy)",
+          "detail": "A: Matematiksel ölçüm (sözlü yanıta uymaz) / B: Dikkatle dizginlenmiş ve bilinçli (tam oturuyor) / C: Kanunla sınırlı (alakasız) / D: Şiirsel vezinli (alakasız)."
+        },
+        {
+          "step": "P — Pick Best (En İyisini Seç)",
+          "detail": "B seçeneğindeki 'carefully restrained and deliberate' bağlamla %100 uyumludur."
+        }
+      ],
+      "takeaway": "💡 SAT 'measured' kelimesini cetvelle ölçülen değil, 'ölçülü ve temkinli' anlamıyla sorar. Birincil anlam tuzaklarına düşmeyin!",
+      "strategyStepsEN": [
+        {
+          "step": "S — Strip (Remove Target Word)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. 'The diplomat was known for her [BLANK] responses... she refused to raise her voice...'"
+        },
+        {
+          "step": "W — What Fits? (Insert Predictor Word)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Kışkırtmaya rağmen sesini yükseltmiyor, sakin ve kontrollü kalıyor. Boşluğa 'calm, controlled, careful' kelimeleri oturur."
+        },
+        {
+          "step": "A — Apply Each (Test In Context)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A: Matematiksel ölçüm (sözlü yanıta uymaz) / B: Dikkatle dizginlenmiş ve bilinçli (tam oturuyor) / C: Kanunla sınırlı (alakasız) / D: Şiirsel vezinli (alakasız)."
+        },
+        {
+          "step": "P — Pick Best (Confirm Nuance & Tone)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneğindeki 'carefully restrained and deliberate' bağlamla %100 uyumludur."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "2A-G2",
+      "title": "Rehberli Alıştırma 2: İkincil Anlam Tuzağı (SWAP)",
+      "difficulty": "medium",
+      "passage": "While the senator publicly endorsed the infrastructure bill, his speech was **qualified** by sharp warnings regarding the inflationary dangers of unchecked government spending.",
+      "question": "As used in the text, 'qualified' most nearly means:",
+      "choices": {
+        "A": "certified by professional credentials",
+        "B": "limited or moderated by reservations",
+        "C": "rendered legally ineligible",
+        "D": "enthusiastically praised"
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "S — Strip",
+          "detail": "'...his speech was [BLANK] by sharp warnings regarding the inflationary dangers...'"
+        },
+        {
+          "step": "W — What Fits?",
+          "detail": "Tasarıyı destekliyor AMA sert uyarılarla sınırlandırıyor/şart koşuyor. Boşluğa 'limited, restricted, tempered' oturmalı."
+        },
+        {
+          "step": "A — Apply Each",
+          "detail": "A seçeneği 'diplomalı / yetkin' (en bilinen anlam ama burada anlamsız) / B: çekincelerle sınırlandırılmış (harika) / C: ehliyetsiz kılınmış (yanlış) / D: övülmüş (tam tersi)."
+        },
+        {
+          "step": "P — Pick Best",
+          "detail": "B seçeneği akademik dilde 'to qualify a claim' (bir iddiayı sınırlamak/nüanslandırmak) terimini karşılar."
+        }
+      ],
+      "takeaway": "💡 'Qualify' kelimesi SAT'ta '%90 ihtimalle' diploma sahibi olmak DEĞİL, bir iddiayı sınırlandırmak veya şart bağlamak anlamına gelir.",
+      "strategyStepsEN": [
+        {
+          "step": "S — Strip (Remove Target Word)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. '...his speech was [BLANK] by sharp warnings regarding the inflationary dangers...'"
+        },
+        {
+          "step": "W — What Fits? (Insert Predictor Word)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Tasarıyı destekliyor AMA sert uyarılarla sınırlandırıyor/şart koşuyor. Boşluğa 'limited, restricted, tempered' oturmalı."
+        },
+        {
+          "step": "A — Apply Each (Test In Context)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A seçeneği 'diplomalı / yetkin' (en bilinen anlam ama burada anlamsız) / B: çekincelerle sınırlandırılmış (harika) / C: ehliyetsiz kılınmış (yanlış) / D: övülmüş (tam tersi)."
+        },
+        {
+          "step": "P — Pick Best (Confirm Nuance & Tone)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği akademik dilde 'to qualify a claim' (bir iddiayı sınırlamak/nüanslandırmak) terimini karşılar."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "2A-G3",
+      "title": "Rehberli Alıştırma 3: Ton ve İntiba Analizi (SWAP)",
+      "difficulty": "hard",
+      "passage": "The historian described the empire's sudden collapse as an **arresting** spectacle: within months, institutions that had withstood centuries of turmoil evaporated into anarchy.",
+      "question": "As used in the text, 'arresting' most nearly means:",
+      "choices": {
+        "A": "leading to criminal incarceration",
+        "B": "striking and demanding attention",
+        "C": "halting bodily circulation",
+        "D": "legally contested in court"
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "S — Strip",
+          "detail": "'...described the empire's sudden collapse as an [BLANK] spectacle...'"
+        },
+        {
+          "step": "W — What Fits?",
+          "detail": "Yüzyıllık kurumlar aylar içinde yok olmuş. Bu nasıl bir manzaradır? Büyüleyici, son derece dikkat çekici, sarsıcı ('shocking, eye-catching')."
+        },
+        {
+          "step": "A — Apply Each",
+          "detail": "A polisiye tutuklama (tuzak) / B çarpıcı ve dikkat talep eden (kusursuz) / C kalbi durduran (literal fizyoloji tuzağı) / D mahkemede itiraz edilen."
+        },
+        {
+          "step": "P — Pick Best",
+          "detail": "B seçeneği 'striking and demanding attention' görsel bağlamdaki 'spectacle' ile tam oturur."
+        }
+      ],
+      "takeaway": "💡 'Arresting' polisiye anlamında tutuklama değil; gözünüzü veya dikkatinizi 'yakalayan' yani son derece çarpıcı demektir.",
+      "strategyStepsEN": [
+        {
+          "step": "S — Strip (Remove Target Word)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. '...described the empire's sudden collapse as an [BLANK] spectacle...'"
+        },
+        {
+          "step": "W — What Fits? (Insert Predictor Word)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Yüzyıllık kurumlar aylar içinde yok olmuş. Bu nasıl bir manzaradır? Büyüleyici, son derece dikkat çekici, sarsıcı ('shocking, eye-catching')."
+        },
+        {
+          "step": "A — Apply Each (Test In Context)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A polisiye tutuklama (tuzak) / B çarpıcı ve dikkat talep eden (kusursuz) / C kalbi durduran (literal fizyoloji tuzağı) / D mahkemede itiraz edilen."
+        },
+        {
+          "step": "P — Pick Best (Confirm Nuance & Tone)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği 'striking and demanding attention' görsel bağlamdaki 'spectacle' ile tam oturur."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    }
+  ],
+  "2B": [
+    {
+      "id": "2B-G1",
+      "title": "Rehberli Alıştırma 1: Cümlenin Yapısal İşlevi (LABEL)",
+      "difficulty": "medium",
+      "passage": "For decades, ornithologists assumed that bird migration was exclusively guided by genetic programming. (Sentence 1) However, recent experiments tracking juvenile cranes have complicated this view. (Sentence 2) Young cranes raised in isolation failed to navigate southward, while those flying alongside older, experienced birds successfully reached their wintering grounds, demonstrating that migratory routes are culturally transmitted through intergenerational learning. (Sentence 3)",
+      "question": "Which choice best describes the function of Sentence 2 in the overall structure of the passage?",
+      "choices": {
+        "A": "It introduces empirical evidence that contradicts the conclusion reached in Sentence 3.",
+        "B": "It marks a transition from an established scientific assumption to recent evidence that challenges it.",
+        "C": "It provides a technical definition of genetic programming in avian biology.",
+        "D": "It dismisses the hypothesis that young cranes rely on older birds during flight."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "L — Label (Her Cümleye Etiket Ver)",
+          "detail": "Cümle 1: [CLAIM - Geçmişteki yerleşik inanç] / Cümle 2: [TRANSITION / COUNTER - Ancak yeni deneyler bu tabloyu karmaşıklaştırdı] / Cümle 3: [EVIDENCE - Turna kuşlarının öğrenme deneyi]."
+        },
+        {
+          "step": "A — Ask Why (Yazar Bu Cümleyi Neden Koydu?)",
+          "detail": "Eski inançtan yeni kanıta köprü kurmak için."
+        },
+        {
+          "step": "B — Bridge (Neyi Neye Bağlıyor?)",
+          "detail": "Cümle 1'deki 'assumed' fikri ile Cümle 3'teki 'culturally transmitted' bulgusu arasındaki geçişi sağlıyor."
+        },
+        {
+          "step": "E — Eliminate Content Answers (İçerik Tuzaklarını Ele)",
+          "detail": "A Cümle 3 ile çelişmiyor, onu hazırlıyor. C tanım yapmıyor. D turnaların yaşlılara güvendiğini reddetmiyor, aksine destekliyor."
+        },
+        {
+          "step": "L — Lock In (İşlev Şıkkını Kilitle)",
+          "detail": "B seçeneğindeki 'marks a transition from established assumption to recent evidence' etiketi tam oturur."
+        }
+      ],
+      "takeaway": "💡 'However' ile başlayan orta cümlelerin görevi neredeyse her zaman eski iddiadan yeni kanıta yapısal geçişi sağlamaktır.",
+      "strategyStepsEN": [
+        {
+          "step": "L — Label (Assign Functional Role)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Cümle 1: [CLAIM - Geçmişteki yerleşik inanç] / Cümle 2: [TRANSITION / COUNTER - Ancak yeni deneyler bu tabloyu karmaşıklaştırdı] / Cümle 3: [EVIDENCE - Turna kuşlarının öğrenme deneyi]."
+        },
+        {
+          "step": "A — Ask Why (Analyze Author Intent)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Eski inançtan yeni kanıta köprü kurmak için."
+        },
+        {
+          "step": "B — Bridge (Connect Structural Ideas)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Cümle 1'deki 'assumed' fikri ile Cümle 3'teki 'culturally transmitted' bulgusu arasındaki geçişi sağlıyor."
+        },
+        {
+          "step": "E — Eliminate (Filter Extremes / Distortions)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A Cümle 3 ile çelişmiyor, onu hazırlıyor. C tanım yapmıyor. D turnaların yaşlılara güvendiğini reddetmiyor, aksine destekliyor."
+        },
+        {
+          "step": "L — Lock In (Confirm Purpose Verb)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneğindeki 'marks a transition from established assumption to recent evidence' etiketi tam oturur."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "2B-G2",
+      "title": "Rehberli Alıştırma 2: Paragrafın Amacı (LABEL)",
+      "difficulty": "easy",
+      "passage": "Consider the common dandelion. Gardeners routinely uproot this humble weed, deploring its yellow blossoms as eyesores on pristine lawns. Yet ecologists recognize the dandelion as an ecological hero: its deep taproots break up compacted soil and draw nutrients to the surface, while its early spring blooms provide vital nectar to bees when few other flowers have opened.",
+      "question": "The primary purpose of the passage is to:",
+      "choices": {
+        "A": "instruct suburban homeowners on the most effective chemical methods for eradicating lawn weeds.",
+        "B": "contrast the popular perception of a plant with its underlying ecological value.",
+        "C": "argue that dandelions are invasive weeds that threaten indigenous honeybee colonies.",
+        "D": "catalog the nutritional composition of wild dandelion taproots."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "L — Label",
+          "detail": "1. Kısım: Bahçıvanların bakışı (zararlı/çirkin ot) / 2. Kısım: Ekolojistlerin bakışı (ekolojik kahraman)."
+        },
+        {
+          "step": "A — Ask Why",
+          "detail": "Yazar dindelyon hakkında bir çatışma ve algı farkını göstermek istiyor."
+        },
+        {
+          "step": "B — Bridge",
+          "detail": "'Gardeners deplore' VS 'Ecologists recognize as hero'."
+        },
+        {
+          "step": "E — Eliminate",
+          "detail": "A kimyasal yok etme talimatı vermiyor; C arılara tehdit değil tam tersi nektar sağlıyor; D besin değeri kataloglamıyor."
+        },
+        {
+          "step": "L — Lock In",
+          "detail": "B seçeneğindeki 'contrast popular perception with ecological value' yapıyı mükemmel tanımlar."
+        }
+      ],
+      "takeaway": "💡 Metin iki farklı grubun (bahçıvanlar vs. ekologlar) bakışını karşılaştırıyorsa 'contrast perception with reality' kalıbını arayın.",
+      "strategyStepsEN": [
+        {
+          "step": "L — Label (Assign Functional Role)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. 1. Kısım: Bahçıvanların bakışı (zararlı/çirkin ot) / 2. Kısım: Ekolojistlerin bakışı (ekolojik kahraman)."
+        },
+        {
+          "step": "A — Ask Why (Analyze Author Intent)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Yazar dindelyon hakkında bir çatışma ve algı farkını göstermek istiyor."
+        },
+        {
+          "step": "B — Bridge (Connect Structural Ideas)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. 'Gardeners deplore' VS 'Ecologists recognize as hero'."
+        },
+        {
+          "step": "E — Eliminate (Filter Extremes / Distortions)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A kimyasal yok etme talimatı vermiyor; C arılara tehdit değil tam tersi nektar sağlıyor; D besin değeri kataloglamıyor."
+        },
+        {
+          "step": "L — Lock In (Confirm Purpose Verb)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneğindeki 'contrast popular perception with ecological value' yapıyı mükemmel tanımlar."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "2B-G3",
+      "title": "Rehberli Alıştırma 3: Yazarın Tavizi / Concession (LABEL)",
+      "difficulty": "hard",
+      "passage": "There is no denying that electric vehicles produce zero tailpipe emissions during operation, an undeniable benefit in smog-choked metropolitan corridors. However, celebrating electric mobility as entirely green ignores the grim realities of raw material extraction: lithium and cobalt mining in developing nations causes devastating groundwater contamination and soil erosion. A truly candid environmental accounting must evaluate an automobile's total lifecycle rather than merely its tailpipe.",
+      "question": "What is the function of the first sentence in the passage?",
+      "choices": {
+        "A": "It presents the author's primary conclusion regarding the future of metropolitan transportation.",
+        "B": "It acknowledges a genuine advantage of a technology before introducing serious environmental drawbacks.",
+        "C": "It demonstrates that lithium mining produces negligible environmental consequences.",
+        "D": "It provides statistical data comparing gasoline and electric vehicle emissions."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "L — Label",
+          "detail": "Cümle 1: 'There is no denying that...' [CONCESSION / TAVİZ: EV'lerin sıfır egzoz salımı avantajını kabul etme]."
+        },
+        {
+          "step": "A — Ask Why",
+          "detail": "Yazar hemen ardından 'However... ignores grim realities' diyerek asıl eleştirisine geçmeden önce karşı tarafın haklı yönünü teslim ediyor."
+        },
+        {
+          "step": "B — Bridge",
+          "detail": "Avantajı kabul et -> Ancak madencilik felaketini ortaya koy -> Yaşam döngüsü analizini savun."
+        },
+        {
+          "step": "E — Eliminate",
+          "detail": "A yazarın ana sonucu değil, tavizidir. C lityum madenciliğini aklamıyor, aksine yıkıcı diyor. D istatistiki veri vermiyor."
+        },
+        {
+          "step": "L — Lock In",
+          "detail": "B seçeneği 'acknowledges an advantage before introducing drawbacks' yapısını nokta atışı açıklar."
+        }
+      ],
+      "takeaway": "💡 'There is no denying that...', 'Granted,...', 'To be sure,...' kalıpları taviz (concession) sinyalidir; hemen ardından 'However' ile asıl eleştiri gelir.",
+      "strategyStepsEN": [
+        {
+          "step": "L — Label (Assign Functional Role)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Cümle 1: 'There is no denying that...' [CONCESSION / TAVİZ: EV'lerin sıfır egzoz salımı avantajını kabul etme]."
+        },
+        {
+          "step": "A — Ask Why (Analyze Author Intent)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Yazar hemen ardından 'However... ignores grim realities' diyerek asıl eleştirisine geçmeden önce karşı tarafın haklı yönünü teslim ediyor."
+        },
+        {
+          "step": "B — Bridge (Connect Structural Ideas)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Avantajı kabul et -> Ancak madencilik felaketini ortaya koy -> Yaşam döngüsü analizini savun."
+        },
+        {
+          "step": "E — Eliminate (Filter Extremes / Distortions)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A yazarın ana sonucu değil, tavizidir. C lityum madenciliğini aklamıyor, aksine yıkıcı diyor. D istatistiki veri vermiyor."
+        },
+        {
+          "step": "L — Lock In (Confirm Purpose Verb)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği 'acknowledges an advantage before introducing drawbacks' yapısını nokta atışı açıklar."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    }
+  ],
+  "2C": [
+    {
+      "id": "2C-G1",
+      "title": "Rehberli Alıştırma 1: İki Metin Arası İlişki (RELATE)",
+      "difficulty": "medium",
+      "isDoubleText": true,
+      "passage": "Text 1: Cognitive scientist Dr. Liam Vance argues that handwritten note-taking is far superior to typing notes on a laptop. Writing by hand forces students to mentally synthesize and summarize incoming information, fostering deeper conceptual retention than verbatim laptop transcription.\n\nText 2: In a replication study examining 800 university students across technical and humanities courses, researchers found that while handwritten notes yielded slightly higher immediate recall for conceptual questions, students typing notes captured 40% more comprehensive factual details. On cumulative final exams taken weeks later, students with typed notes outperformed handwritten note-takers due to the superior thoroughness of their study material.",
+      "question": "How does Text 2 relate to the argument presented in Text 1?",
+      "choices": {
+        "A": "It completely validates Text 1 by showing handwriting is superior on long-term cumulative examinations.",
+        "B": "It introduces empirical nuances showing that the advantages of note-taking modalities depend on whether evaluation measures immediate recall or delayed exam preparation.",
+        "C": "It proves that laptop note-taking is wholly detrimental to all aspects of student learning.",
+        "D": "It dismisses Text 1's methodology as fundamentally fraudulent and fabricated."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "R — Read Separately",
+          "detail": "Metin 1: El yazısı not tutmak her zaman daha üstündür çünkü sentez yaptırır. Metin 2: Anlık kavramsal hatırlamada el yazısı iyi olsa da, haftalar sonraki final sınavlarında detaylı klavye notları daha başarılı olmuştur."
+        },
+        {
+          "step": "E — Establish Relationship",
+          "detail": "Metin 2, Metin 1'i tamamen reddetmiyor (kavramsal avantajı doğruluyor) ama zaman boyutunu ekleyerek tabloyu karmaşıklaştırıyor/nüanslandırıyor (COMPLICATE / NUANCE)."
+        },
+        {
+          "step": "L & A — Locate Agreement & Disagreement",
+          "detail": "Anlaşma: El yazısı anlık kavramsal anlamayı artırır. Anlaşmazlık: Uzun vadeli final başarısı için kapsamlı klavye notları daha yararlıdır."
+        },
+        {
+          "step": "T — Test Each Answer",
+          "detail": "B seçeneği 'advantages depend on whether evaluation measures immediate recall or delayed exam preparation' ifadesiyle bu ayrımı tam yakalar."
+        },
+        {
+          "step": "E — Eliminate Extremes",
+          "detail": "A 'completely validates' (yanlış, finallerde klavye geçti); C 'wholly detrimental' (tam tersi); D 'fraudulent' (metinde hakaret veya sahtekarlık iddiası yok)."
+        }
+      ],
+      "takeaway": "💡 Çift metin sorularında ikinci metin genellikle ilk metni 'tamamen çürütmez'; 'bazı koşullarda geçerli, bazı koşullarda geçersiz' diyerek nüans (nuance) katar.",
+      "strategyStepsEN": [
+        {
+          "step": "R — Read Separately (Summarize Both Texts)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Metin 1: El yazısı not tutmak her zaman daha üstündür çünkü sentez yaptırır. Metin 2: Anlık kavramsal hatırlamada el yazısı iyi olsa da, haftalar sonraki final sınavlarında detaylı klavye notları daha başarılı olmuştur."
+        },
+        {
+          "step": "E — Establish (Determine Relationship)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Metin 2, Metin 1'i tamamen reddetmiyor (kavramsal avantajı doğruluyor) ama zaman boyutunu ekleyerek tabloyu karmaşıklaştırıyor/nüanslandırıyor (COMPLICATE / NUANCE)."
+        },
+        {
+          "step": "L — Locate Agreement (Find Consensus)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Anlaşma: El yazısı anlık kavramsal anlamayı artırır. Anlaşmazlık: Uzun vadeli final başarısı için kapsamlı klavye notları daha yararlıdır."
+        },
+        {
+          "step": "T — Test Each Answer",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği 'advantages depend on whether evaluation measures immediate recall or delayed exam preparation' ifadesiyle bu ayrımı tam yakalar."
+        },
+        {
+          "step": "E — Eliminate (Filter Extremes / Distortions)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A 'completely validates' (yanlış, finallerde klavye geçti); C 'wholly detrimental' (tam tersi); D 'fraudulent' (metinde hakaret veya sahtekarlık iddiası yok)."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "2C-G2",
+      "title": "Rehberli Alıştırma 2: Varsayımsal Tepki (RELATE)",
+      "difficulty": "hard",
+      "isDoubleText": true,
+      "passage": "Text 1: Literary critic Arthur Finch argues that poetry must adhere to established formal constraints—such as meter, rhyme schemes, and structured stanzaic forms—in order to achieve enduring artistic resonance. Without these formal guardrails, he insists, verse degenerates into unstructured prose with arbitrary line breaks.\n\nText 2: Poet Maya Lin contends that twentieth-century free verse represents an organic liberation of poetic expression. By rejecting rigid European meters, free verse allows poets to mirror the unpredictable cadences of everyday human speech and authentically capture the anxieties of the modern era.",
+      "question": "Based on the texts, how would Arthur Finch (Text 1) most likely respond to Maya Lin's view of free verse in Text 2?",
+      "choices": {
+        "A": "By enthusiastically adopting free verse in his own upcoming collections of lyric poetry.",
+        "B": "By arguing that everyday human speech lacks the disciplined structure necessary to elevate verse to lasting art.",
+        "C": "By agreeing that rigid European meters are inherently unsuited to contemporary themes.",
+        "D": "By demonstrating that free verse poets secretly follow traditional Shakespearean sonnet structures."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "R — Read Separately",
+          "detail": "Finch (Text 1): Biçimsel kurallar (ölçü, kafiye) yoksa şiir düzyazıya düşer, kalıcı olamaz. Lin (Text 2): Serbest vezin kuralları yıkar, günlük konuşma dilini yakalar."
+        },
+        {
+          "step": "E — Establish Relationship",
+          "detail": "Finch gelenekçi/biçimci; Lin serbestlik yanlısı. Doğrudan estetik zıtlaşma."
+        },
+        {
+          "step": "L & A — Predict Finch's Critique",
+          "detail": "Lin 'günlük konuşma dilini yansıtıyor' dediğinde Finch ne der? 'Günlük konuşma dili kuralsızdır, disiplinsizdir; şiir biçimsel disiplin olmadan kalıcı sanat olamaz!'"
+        },
+        {
+          "step": "T — Test Each Answer",
+          "detail": "B seçeneği tam olarak bu argümanı sunar: günlük konuşma dili kalıcı sanata yükselmek için gereken disiplinli yapıdan yoksundur."
+        },
+        {
+          "step": "E — Eliminate",
+          "detail": "A tam teslimiyet (Finch serbest vezne karşı); C Finch'in görüşünün tam tersi; D spekülatif komplo iddiası."
+        }
+      ],
+      "takeaway": "💡 'Yazar 1, Yazar 2'ye nasıl tepki verir?' sorularında, Yazar 1'in temel ilkesini Yazar 2'nin gerekçesine filtre olarak uygulayın.",
+      "strategyStepsEN": [
+        {
+          "step": "R — Read Separately (Summarize Both Texts)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Finch (Text 1): Biçimsel kurallar (ölçü, kafiye) yoksa şiir düzyazıya düşer, kalıcı olamaz. Lin (Text 2): Serbest vezin kuralları yıkar, günlük konuşma dilini yakalar."
+        },
+        {
+          "step": "E — Establish (Determine Relationship)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Finch gelenekçi/biçimci; Lin serbestlik yanlısı. Doğrudan estetik zıtlaşma."
+        },
+        {
+          "step": "L & A — Predict Finch's Critique",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Lin 'günlük konuşma dilini yansıtıyor' dediğinde Finch ne der? 'Günlük konuşma dili kuralsızdır, disiplinsizdir; şiir biçimsel disiplin olmadan kalıcı sanat olamaz!'"
+        },
+        {
+          "step": "T — Test Each Answer",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği tam olarak bu argümanı sunar: günlük konuşma dili kalıcı sanata yükselmek için gereken disiplinli yapıdan yoksundur."
+        },
+        {
+          "step": "E — Eliminate (Filter Extremes / Distortions)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A tam teslimiyet (Finch serbest vezne karşı); C Finch'in görüşünün tam tersi; D spekülatif komplo iddiası."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "2C-G3",
+      "title": "Rehberli Alıştırma 3: Ortak Zemin / Consensus (RELATE)",
+      "difficulty": "medium",
+      "isDoubleText": true,
+      "passage": "Text 1: Reintroducing apex predators like the gray wolf to national parks is vital for ecological equilibrium. By curbing overgrown herbivore populations, wolves prevent overgrazing, allowing willow groves and riverbank forests to regenerate naturally.\n\nText 2: While predator reintroduction can undeniably trigger positive trophic cascades, conservationists frequently underestimate the economic toll on surrounding ranching communities. Wolf predation on livestock causes severe financial losses, generating fierce political opposition that undermines long-term park conservation initiatives.",
+      "question": "On which point do the authors of Text 1 and Text 2 most clearly agree?",
+      "choices": {
+        "A": "Ranching communities should receive unlimited government compensation for livestock losses.",
+        "B": "Apex predators have the capacity to initiate beneficial environmental changes within national parks.",
+        "C": "Gray wolves are more ecologically significant than all other North American predator species.",
+        "D": "Political opposition to park conservation initiatives is unjustified and should be legally banned."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "R — Read Separately",
+          "detail": "Text 1: Kurtlar ekolojik denge sağlar, ormanları kurtarır. Text 2: Evet, olumlu kaskadlar başlatırlar ('can undeniably trigger positive trophic cascades') AMA çevre çiftçilere ekonomik zarar verirler."
+        },
+        {
+          "step": "E — Establish Relationship",
+          "detail": "Her iki yazar da yırtıcıların park içinde çevresel fayda sağladığını kabul ediyor (Text 2'nin 'undeniably' kelimesine dikkat!)."
+        },
+        {
+          "step": "L — Locate Agreement",
+          "detail": "Ortak nokta: Yırtıcıların ekosistem üzerinde faydalı değişiklikler başlatabilme kapasitesi."
+        },
+        {
+          "step": "T — Test B",
+          "detail": "B seçeneğindeki 'Apex predators have the capacity to initiate beneficial environmental changes' her iki metnin de onayladığı ortak paydadır."
+        },
+        {
+          "step": "E — Eliminate",
+          "detail": "A 'unlimited compensation' metinlerde yok. C 'more significant than all other' hiyerarşisi yapılmamış. D 'legally banned' yazar 2'nin endişesini yok sayan aşırı bir iddiadır."
+        }
+      ],
+      "takeaway": "💡 Ortak zemin sorularında ikinci metindeki 'undeniably', 'admittedly', 'to be sure' gibi taviz cümlelerini arayın; ortak payda orada gizlidir.",
+      "strategyStepsEN": [
+        {
+          "step": "R — Read Separately (Summarize Both Texts)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Text 1: Kurtlar ekolojik denge sağlar, ormanları kurtarır. Text 2: Evet, olumlu kaskadlar başlatırlar ('can undeniably trigger positive trophic cascades') AMA çevre çiftçilere ekonomik zarar verirler."
+        },
+        {
+          "step": "E — Establish (Determine Relationship)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Her iki yazar da yırtıcıların park içinde çevresel fayda sağladığını kabul ediyor (Text 2'nin 'undeniably' kelimesine dikkat!)."
+        },
+        {
+          "step": "L — Locate Agreement (Find Consensus)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Ortak nokta: Yırtıcıların ekosistem üzerinde faydalı değişiklikler başlatabilme kapasitesi."
+        },
+        {
+          "step": "T — Test B",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneğindeki 'Apex predators have the capacity to initiate beneficial environmental changes' her iki metnin de onayladığı ortak paydadır."
+        },
+        {
+          "step": "E — Eliminate (Filter Extremes / Distortions)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A 'unlimited compensation' metinlerde yok. C 'more significant than all other' hiyerarşisi yapılmamış. D 'legally banned' yazar 2'nin endişesini yok sayan aşırı bir iddiadır."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    }
+  ],
+  "3A": [
+    {
+      "id": "3A-G1",
+      "title": "Rehberli Alıştırma 1: Karşılaştırma Hedefi (ATC)",
+      "difficulty": "medium",
+      "notes": [
+        "The Hubble Space Telescope was launched into low Earth orbit in 1990.",
+        "Hubble observes primarily in ultraviolet, visible, and near-infrared wavelengths.",
+        "The James Webb Space Telescope (JWST) was launched in 2021 to the L2 Lagrange point, 1.5 million kilometers from Earth.",
+        "JWST specializes in high-resolution infrared astronomy, allowing it to penetrate cosmic dust clouds."
+      ],
+      "goal": "The student wants to compare the observation capabilities of the two space telescopes.",
+      "question": "Which choice best accomplishes this goal?",
+      "choices": {
+        "A": "Launched in 1990 into low Earth orbit, the Hubble Space Telescope was followed in 2021 by the James Webb Space Telescope.",
+        "B": "While Hubble observes primarily across ultraviolet and visible spectra, the James Webb Space Telescope specializes in infrared wavelengths that can penetrate dense cosmic dust.",
+        "C": "The James Webb Space Telescope orbits 1.5 million kilometers from Earth at the L2 Lagrange point.",
+        "D": "Hubble has orbited Earth since 1990, capturing ultraviolet and visible light images of galaxies."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "A — Aim (Hedefi Altını Çiz)",
+          "detail": "HEDEF: 'compare the observation capabilities of the two space telescopes' (Gözlem kabiliyetlerini karşılaştırmak). Fırlatma tarihi ya da yörünge yeri değil!"
+        },
+        {
+          "step": "T — Truth (Notlarla Uyumlu mu?)",
+          "detail": "B seçeneği notlardaki dalga boylarını (Hubble: UV/visible vs. JWST: infrared/dust penetration) harfiyen doğru aktarıyor."
+        },
+        {
+          "step": "C — Complete (Hedefi Tam Karşılıyor mu?)",
+          "detail": "A seçeneği fırlatma yıllarını karşılaştırıyor (gözlem kabiliyeti değil). C ve D sadece tek bir teleskobu anlatıyor (karşılaştırma yok). B her iki teleskobun spektrum kabiliyetini doğrudan kıyaslıyor."
+        }
+      ],
+      "takeaway": "💡 Doğru bilgi içeren şıklara aldanmayın! Şık ne kadar doğru olursa olsun, sorudaki 'hedef'e (observation capabilities vs. launch dates) uymuyorsa yanlıştır.",
+      "strategyStepsEN": [
+        {
+          "step": "A — Aim (Underline Target Goal)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. HEDEF: 'compare the observation capabilities of the two space telescopes' (Gözlem kabiliyetlerini karşılaştırmak). Fırlatma tarihi ya da yörünge yeri değil!"
+        },
+        {
+          "step": "T — Truth (Check Facts Against Notes)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği notlardaki dalga boylarını (Hubble: UV/visible vs. JWST: infrared/dust penetration) harfiyen doğru aktarıyor."
+        },
+        {
+          "step": "C — Complete (Ensure Goal Is Fully Met)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A seçeneği fırlatma yıllarını karşılaştırıyor (gözlem kabiliyeti değil). C ve D sadece tek bir teleskobu anlatıyor (karşılaştırma yok). B her iki teleskobun spektrum kabiliyetini doğrudan kıyaslıyor."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "3A-G2",
+      "title": "Rehberli Alıştırma 2: Giriş ve Önem Vurgusu (ATC)",
+      "difficulty": "easy",
+      "notes": [
+        "Ada Lovelace was an English mathematician born in 1815.",
+        "She collaborated with Charles Babbage on his mechanical computer design, the Analytical Engine.",
+        "In 1843, she published an algorithm intended for execution by the Analytical Engine.",
+        "Historians widely recognize this algorithm as the world's first published computer program."
+      ],
+      "goal": "The student wants to introduce Ada Lovelace to an audience unfamiliar with her work, emphasizing her historic legacy.",
+      "question": "Which choice best accomplishes this goal?",
+      "choices": {
+        "A": "Ada Lovelace, who was born in England in 1815, worked with Charles Babbage during the nineteenth century.",
+        "B": "In 1843, English mathematician Ada Lovelace published an algorithm for Charles Babbage's Analytical Engine, earning her recognition as the world's first computer programmer.",
+        "C": "Charles Babbage designed the Analytical Engine, a mechanical computer that required complex mathematical algorithms.",
+        "D": "Ada Lovelace's algorithm was published in 1843 after years of study in mathematics."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "A — Aim",
+          "detail": "HEDEF: (1) Ada Lovelace'ı tanıt (introduce) VE (2) tarihsel mirasını/önemini vurgula (historic legacy)."
+        },
+        {
+          "step": "T — Truth",
+          "detail": "B seçeneğinde 1843 yılı, Charles Babbage'ın Analytical Engine'i ve ilk bilgisayar programcısı unvanı notlarla birebir örtüşüyor."
+        },
+        {
+          "step": "C — Complete",
+          "detail": "B seçeneği Lovelace'ı hem matematikçi olarak tanıtıyor hem de 'world's first computer programmer' mirasını öne çıkarıyor. A mirası vermiyor; C Babbage'ı tanıtıyor; D mirası vurgulamıyor."
+        }
+      ],
+      "takeaway": "💡 'Introduce and emphasize legacy' hedeflerinde kişinin adını, unvanını ve neden tarihe geçtiğini (first programmer) tek cümlede birleştiren şıkkı arayın.",
+      "strategyStepsEN": [
+        {
+          "step": "A — Aim (Underline Target Goal)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. HEDEF: (1) Ada Lovelace'ı tanıt (introduce) VE (2) tarihsel mirasını/önemini vurgula (historic legacy)."
+        },
+        {
+          "step": "T — Truth (Check Facts Against Notes)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneğinde 1843 yılı, Charles Babbage'ın Analytical Engine'i ve ilk bilgisayar programcısı unvanı notlarla birebir örtüşüyor."
+        },
+        {
+          "step": "C — Complete (Ensure Goal Is Fully Met)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneği Lovelace'ı hem matematikçi olarak tanıtıyor hem de 'world's first computer programmer' mirasını öne çıkarıyor. A mirası vermiyor; C Babbage'ı tanıtıyor; D mirası vurgulamıyor."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "3A-G3",
+      "title": "Rehberli Alıştırma 3: Tehdit ve Aciliyet Vurgusu (ATC)",
+      "difficulty": "hard",
+      "notes": [
+        "Lake Baikal in southern Siberia contains 20% of the world's unfrozen freshwater.",
+        "It is estimated to be 25 million years old, making it the oldest lake on Earth.",
+        "Over 80% of its thousands of animal species are endemic, found nowhere else.",
+        "Recent industrial discharge and warming surface waters are fueling massive algal blooms that threaten its delicate ecosystem."
+      ],
+      "goal": "The student wants to emphasize the irreplaceable nature of Lake Baikal while establishing an urgent environmental concern.",
+      "question": "Which choice best accomplishes this goal?",
+      "choices": {
+        "A": "Lake Baikal, which contains one-fifth of Earth's unfrozen freshwater, has thousands of animal species living within its waters.",
+        "B": "Home to thousands of unique species found nowhere else, the 25-million-year-old Lake Baikal faces an urgent threat as industrial pollution and warming waters trigger devastating algal blooms.",
+        "C": "Industrial discharge and warming temperatures cause toxic algal blooms in freshwater bodies around the world.",
+        "D": "The oldest lake on Earth is Lake Baikal, situated in southern Siberia and containing 20% of the planet's unfrozen freshwater."
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "A — Aim",
+          "detail": "HEDEF: (1) Baikal'in yeri doldurulamaz benzersizliğini vurgula ('irreplaceable nature') VE (2) acil bir çevre sorununu ortaya koy ('urgent environmental concern')."
+        },
+        {
+          "step": "T — Truth",
+          "detail": "B seçeneğindeki endemik türler, 25 milyon yıllık yaş ve alg patlaması notlarla %100 uyumludur."
+        },
+        {
+          "step": "C — Complete",
+          "detail": "B hem 'unique species nowhere else + 25 million years' ile eşsizliği hem de 'urgent threat... devastating algal blooms' ile aciliyeti eksiksiz verir. A tehdidi vermiyor; C Baikal'i öne çıkarmıyor; D tehditten bahsetmiyor."
+        }
+      ],
+      "takeaway": "💡 İki bileşenli hedeflerde ('irreplaceable' AND 'urgent concern') her iki parçanın da seçenekte var olduğunu matematiksel olarak teyit edin.",
+      "strategyStepsEN": [
+        {
+          "step": "A — Aim (Underline Target Goal)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. HEDEF: (1) Baikal'in yeri doldurulamaz benzersizliğini vurgula ('irreplaceable nature') VE (2) acil bir çevre sorununu ortaya koy ('urgent environmental concern')."
+        },
+        {
+          "step": "T — Truth (Check Facts Against Notes)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B seçeneğindeki endemik türler, 25 milyon yıllık yaş ve alg patlaması notlarla %100 uyumludur."
+        },
+        {
+          "step": "C — Complete (Ensure Goal Is Fully Met)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. B hem 'unique species nowhere else + 25 million years' ile eşsizliği hem de 'urgent threat... devastating algal blooms' ile aciliyeti eksiksiz verir. A tehdidi vermiyor; C Baikal'i öne çıkarmıyor; D tehditten bahsetmiyor."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    }
+  ],
+  "3B": [
+    {
+      "id": "3B-G1",
+      "title": "Rehberli Alıştırma 1: Zıtlık Geçişi (3-STEP)",
+      "difficulty": "easy",
+      "passage": "Eighteenth-century alchemists spent lifetimes attempting to synthesize gold from base metals using chemical catalysts. ______, twentieth-century nuclear physicists demonstrated that elemental transmutation requires altering atomic nuclei through particle acceleration, an impossible feat with chemical reactions alone.",
+      "question": "Which choice completes the text with the most logical transition?",
+      "choices": {
+        "A": "Furthermore,",
+        "B": "In contrast,",
+        "C": "Consequently,",
+        "D": "For example,"
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "1 — Identify Relationship (Cümleler Arası İlişkiyi Tanı)",
+          "detail": "1. Cümle: 18. yüzyıl simyacıları kimyasal yolla altın yapmaya çalıştı. 2. Cümle: 20. yüzyıl nükleer fizikçileri bunun sadece atom çekirdeğini nükleer yolla değiştirerek mümkün olduğunu, kimyayla imkansız olduğunu gösterdi. (Geçmiş simya inancı VS Modern fizik kanıtı = ZITLIK / KARŞITLIK)."
+        },
+        {
+          "step": "2 — Select Family (İlişki Ailesini Seç)",
+          "detail": "Zıtlık aileleri: In contrast, However, On the other hand, Conversely."
+        },
+        {
+          "step": "3 — Check Tone & Grammar (Kontrol Et)",
+          "detail": "A (Furthermore) ekleme yapar; C (Consequently) neden-sonuçtur; D (For example) örnektir. B seçeneğindeki 'In contrast' iki farklı dönemin zıt anlayışını mükemmel bağlar."
+        }
+      ],
+      "takeaway": "💡 Birinci cümle geçmişteki yanlış bir inancı, ikinci cümle günümüzdeki bilimsel gerçeği veriyorsa kesinlikle zıtlık (In contrast / However) seçilir.",
+      "strategyStepsEN": [
+        {
+          "step": "I — Identify (Pinpoint Stated Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. 1. Cümle: 18. yüzyıl simyacıları kimyasal yolla altın yapmaya çalıştı. 2. Cümle: 20. yüzyıl nükleer fizikçileri bunun sadece atom çekirdeğini nükleer yolla değiştirerek mümkün olduğunu, kimyayla imkansız olduğunu gösterdi. (Geçmiş simya inancı VS Modern fizik kanıtı = ZITLIK / KARŞITLIK)."
+        },
+        {
+          "step": "2 — Select Family (Choose Transition Group)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Zıtlık aileleri: In contrast, However, On the other hand, Conversely."
+        },
+        {
+          "step": "3 — Check Tone & Grammar (Verify Sentence Flow)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A (Furthermore) ekleme yapar; C (Consequently) neden-sonuçtur; D (For example) örnektir. B seçeneğindeki 'In contrast' iki farklı dönemin zıt anlayışını mükemmel bağlar."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "3B-G2",
+      "title": "Rehberli Alıştırma 2: Neden-Sonuç Geçişi (3-STEP)",
+      "difficulty": "medium",
+      "passage": "Bees communicate the distance and direction of rich nectar sources by performing an intricate 'waggle dance' inside the hive. ______, foraging bees that observe this dance can navigate directly to flowers located kilometers away without prior visual scouting.",
+      "question": "Which choice completes the text with the most logical transition?",
+      "choices": {
+        "A": "As a result,",
+        "B": "Nevertheless,",
+        "C": "In addition,",
+        "D": "Similarly,"
+      },
+      "correctAnswer": "A",
+      "strategySteps": [
+        {
+          "step": "1 — Identify Relationship",
+          "detail": "Cümle 1: Arılar nektar yönünü dans ederek aktarır (NEDEN / SEBEP). Cümle 2: Bu dansı izleyen arılar doğrudan kilometrelerce uzaktaki çiçeğe nokta atışı uçabilir (SONUÇ)."
+        },
+        {
+          "step": "2 — Select Family",
+          "detail": "Neden-sonuç ailesi: As a result, Therefore, Thus, Consequently."
+        },
+        {
+          "step": "3 — Check Tone & Grammar",
+          "detail": "B (Nevertheless) zıtlık, C (In addition) ekleme, D (Similarly) benzerlik. A (As a result) mantık zincirini kusursuzca tamamlar."
+        }
+      ],
+      "takeaway": "💡 'Bu olay oldu, bu yüzden diğeri gerçekleşti' ilişkisini gördüğünüz an 'As a result' veya 'Therefore' seçeneğine gidin.",
+      "strategyStepsEN": [
+        {
+          "step": "I — Identify (Pinpoint Stated Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. Cümle 1: Arılar nektar yönünü dans ederek aktarır (NEDEN / SEBEP). Cümle 2: Bu dansı izleyen arılar doğrudan kilometrelerce uzaktaki çiçeğe nokta atışı uçabilir (SONUÇ)."
+        },
+        {
+          "step": "2 — Select Family (Choose Transition Group)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. Neden-sonuç ailesi: As a result, Therefore, Thus, Consequently."
+        },
+        {
+          "step": "3 — Check Tone & Grammar (Verify Sentence Flow)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. B (Nevertheless) zıtlık, C (In addition) ekleme, D (Similarly) benzerlik. A (As a result) mantık zincirini kusursuzca tamamlar."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice A using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "3B-G3",
+      "title": "Rehberli Alıştırma 3: Somutlaştırma / Örnek Geçişi (3-STEP)",
+      "difficulty": "hard",
+      "passage": "Many deep-sea organisms have developed specialized physiological mechanisms to withstand hydrostatic pressures exceeding 1,000 atmospheres. ______, the hadal snailfish incorporates high concentrations of trimethylamine N-oxide into its cellular tissue, a molecule that stabilizes cell membranes and prevents structural proteins from distorting under crushing water weight.",
+      "question": "Which choice completes the text with the most logical transition?",
+      "choices": {
+        "A": "Specifically,",
+        "B": "On the other hand,",
+        "C": "Therefore,",
+        "D": "Ultimately,"
+      },
+      "correctAnswer": "A",
+      "strategySteps": [
+        {
+          "step": "1 — Identify Relationship",
+          "detail": "Cümle 1: Birçok derin deniz canlısı basınca dayanmak için fizyolojik mekanizmalar geliştirdi (GENEL İDDİA). Cümle 2: Hadal salyangoz balığı hücresel dokusunda TMAO molekülü kullanarak basıncı dengeler (ÖZEL / SOMUT ÖRNEK)."
+        },
+        {
+          "step": "2 — Select Family",
+          "detail": "Örnekleme / Somutlaştırma ailesi: Specifically, For example, For instance, To illustrate."
+        },
+        {
+          "step": "3 — Check Tone & Grammar",
+          "detail": "A seçeneğindeki 'Specifically' genel kuraldan tek bir türe ve moleküle iniş yapan odağı tam karşılar. B zıtlık, C neden-sonuç, D nihai özetleme (buraya uymaz)."
+        }
+      ],
+      "takeaway": "💡 'Genelden özele' inişlerde SAT sıklıkla 'Specifically' veya 'For instance' kullanır.",
+      "strategyStepsEN": [
+        {
+          "step": "I — Identify (Pinpoint Stated Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. Cümle 1: Birçok derin deniz canlısı basınca dayanmak için fizyolojik mekanizmalar geliştirdi (GENEL İDDİA). Cümle 2: Hadal salyangoz balığı hücresel dokusunda TMAO molekülü kullanarak basıncı dengeler (ÖZEL / SOMUT ÖRNEK)."
+        },
+        {
+          "step": "2 — Select Family (Choose Transition Group)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. Örnekleme / Somutlaştırma ailesi: Specifically, For example, For instance, To illustrate."
+        },
+        {
+          "step": "3 — Check Tone & Grammar (Verify Sentence Flow)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. A seçeneğindeki 'Specifically' genel kuraldan tek bir türe ve moleküle iniş yapan odağı tam karşılar. B zıtlık, C neden-sonuç, D nihai özetleme (buraya uymaz)."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice A using the step-by-step framework to avoid deceptive College Board distractors."
+    }
+  ],
+  "4A": [
+    {
+      "id": "4A-G1",
+      "title": "Rehberli Alıştırma 1: Comma Splice vs. FANBOYS (IC-TEST)",
+      "difficulty": "easy",
+      "passage": "Volcanologists deployed seismometers around the active crater in early spring, ______ continuous tremors indicated that magma was rising toward the surface.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "for",
+        "B": "however",
+        "C": "therefore",
+        "D": "furthermore"
+      },
+      "correctAnswer": "A",
+      "strategySteps": [
+        {
+          "step": "1 — Identify ICs (Cümle Parçalarını Say)",
+          "detail": "IC 1: 'Volcanologists deployed seismometers around the active crater in early spring' (Tam cümle, özne+yüklem). IC 2: 'continuous tremors indicated that magma was rising...' (Tam cümle, özne+yüklem)."
+        },
+        {
+          "step": "2 — Check Connector (Bağlantı Noktasını İncele)",
+          "detail": "Araya bir virgül (`,`) konulmuş. İki bağımsız cümleyi (IC) tek bir virgülle birleştirecek tek şey FANBOYS bağlacıdır (For, And, Nor, But, Or, Yet, So)."
+        },
+        {
+          "step": "3 — Apply Rule",
+          "detail": "'for' bağlacı FANBOYS üyesidir ve 'çünkü' (because) anlamında iki IC'yi `, for` olarak birleştirir. B, C ve D ise bağlaç zarfıdır (conjunctive adverb); virgülle bağlanamazlar, önlerine noktalı virgül (`; however,`) gerekir."
+        }
+      ],
+      "takeaway": "💡 İki tam cümle arasında sadece virgül varsa, o boşluğa SADECE bir FANBOYS bağlacı gelebilir. 'However' veya 'therefore' gelirse Comma Splice hatası oluşur!",
+      "strategyStepsEN": [
+        {
+          "step": "I — Identify (Pinpoint Stated Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. IC 1: 'Volcanologists deployed seismometers around the active crater in early spring' (Tam cümle, özne+yüklem). IC 2: 'continuous tremors indicated that magma was rising...' (Tam cümle, özne+yüklem)."
+        },
+        {
+          "step": "2 — Check Connector (Comma, Semicolon, FANBOYS)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. Araya bir virgül (`,`) konulmuş. İki bağımsız cümleyi (IC) tek bir virgülle birleştirecek tek şey FANBOYS bağlacıdır (For, And, Nor, But, Or, Yet, So)."
+        },
+        {
+          "step": "A — Apply Each (Test In Context)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. 'for' bağlacı FANBOYS üyesidir ve 'çünkü' (because) anlamında iki IC'yi `, for` olarak birleştirir. B, C ve D ise bağlaç zarfıdır (conjunctive adverb); virgülle bağlanamazlar, önlerine noktalı virgül (`; however,`) gerekir."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice A using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "4A-G2",
+      "title": "Rehberli Alıştırma 2: Noktalı Virgül ve Bağımsız Cümle (IC-TEST)",
+      "difficulty": "medium",
+      "passage": "The international space station orbits Earth at approximately 28,000 kilometers per hour ______ astronauts on board witness sixteen sunrises and sunsets every single day.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "; consequently,",
+        "B": ", consequently",
+        "C": "consequently",
+        "D": "; consequently"
+      },
+      "correctAnswer": "A",
+      "strategySteps": [
+        {
+          "step": "1 — Identify ICs",
+          "detail": "IC 1: 'The international space station orbits Earth at...' (Tam cümle). IC 2: 'astronauts on board witness sixteen sunrises...' (Tam cümle)."
+        },
+        {
+          "step": "2 — Check Connector",
+          "detail": "'consequently' bir geçiş zarfıdır. İki tam cümleyi bağlamak için standart İngilizce kuralı: `; consequently,` (Noktalı virgül + zarf + virgül) şeklindedir."
+        },
+        {
+          "step": "3 — Apply Rule",
+          "detail": "B seçeneği virgülle bağladığı için comma splice'tır. C hiçbir noktalama koymadığı için run-on cümledir. D seçeneğinde 'consequently' sonrasındaki zorunlu virgül eksiktir. A hem noktalı virgülü hem de peşinden gelen virgülü doğru kullanır."
+        }
+      ],
+      "takeaway": "💡 Kalıp: [IC] + `; therefore,` / `; however,` / `; consequently,` + [IC]. Bu formülü ezberleyin!",
+      "strategyStepsEN": [
+        {
+          "step": "I — Identify (Pinpoint Stated Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. IC 1: 'The international space station orbits Earth at...' (Tam cümle). IC 2: 'astronauts on board witness sixteen sunrises...' (Tam cümle)."
+        },
+        {
+          "step": "2 — Check Connector (Comma, Semicolon, FANBOYS)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. 'consequently' bir geçiş zarfıdır. İki tam cümleyi bağlamak için standart İngilizce kuralı: `; consequently,` (Noktalı virgül + zarf + virgül) şeklindedir."
+        },
+        {
+          "step": "A — Apply Each (Test In Context)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice A. B seçeneği virgülle bağladığı için comma splice'tır. C hiçbir noktalama koymadığı için run-on cümledir. D seçeneğinde 'consequently' sonrasındaki zorunlu virgül eksiktir. A hem noktalı virgülü hem de peşinden gelen virgülü doğru kullanır."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice A using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "4A-G3",
+      "title": "Rehberli Alıştırma 3: Dangling Modifier / Sarkan Sıfat (IC-TEST)",
+      "difficulty": "hard",
+      "passage": "Having spent eight months excavating the limestone cavern in southern France, ______.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "a series of prehistoric cave paintings depicting woolly mammoths was discovered by the archaeology team",
+        "B": "the archaeology team discovered a series of prehistoric cave paintings depicting woolly mammoths",
+        "C": "prehistoric cave paintings were painstakingly documented by the expedition",
+        "D": "the discovery of prehistoric cave paintings astonished researchers across Europe"
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "1 — Identify Modifier",
+          "detail": "Giriş yan cümleciği: 'Having spent eight months excavating the limestone cavern...' (Güney Fransa'daki kireçtaşı mağarasını kazarak 8 ay geçiren...)"
+        },
+        {
+          "step": "2 — Ask Who?",
+          "detail": "Mağarayı 8 ay boyunca kim kazdı? Mağara resimleri kazamaz (A ve C elenir)! Keşif kazamaz (D elenir)! Kazıyı yapan 'the archaeology team' (arkeoloji ekibi) olmak zorundadır."
+        },
+        {
+          "step": "3 — Apply Rule",
+          "detail": "Virgülden hemen sonra eylemi bizzat yapan özne gelmelidir. B seçeneğinde virgülden sonra doğrudan 'the archaeology team' geldiği için modifier hatası çözülür."
+        }
+      ],
+      "takeaway": "💡 Virgülden önce eylem bildiren bir giriş (`Having done X...`, `Walking down...`) varsa, virgülden sonra MUTLAKA o işi yapan canlı/özne gelmelidir.",
+      "strategyStepsEN": [
+        {
+          "step": "I — Identify (Pinpoint Stated Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Giriş yan cümleciği: 'Having spent eight months excavating the limestone cavern...' (Güney Fransa'daki kireçtaşı mağarasını kazarak 8 ay geçiren...)"
+        },
+        {
+          "step": "2 — Ask Who?",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Mağarayı 8 ay boyunca kim kazdı? Mağara resimleri kazamaz (A ve C elenir)! Keşif kazamaz (D elenir)! Kazıyı yapan 'the archaeology team' (arkeoloji ekibi) olmak zorundadır."
+        },
+        {
+          "step": "A — Apply Each (Test In Context)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Virgülden hemen sonra eylemi bizzat yapan özne gelmelidir. B seçeneğinde virgülden sonra doğrudan 'the archaeology team' geldiği için modifier hatası çözülür."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    }
+  ],
+  "4B": [
+    {
+      "id": "4B-G1",
+      "title": "Rehberli Alıştırma 1: Araya Giren İfade ve Özne Uyumu (4-TEST)",
+      "difficulty": "easy",
+      "passage": "The collection of rare Mesoamerican textiles, which was donated by private collectors alongside several ceramic vessels, ______ on display at the museum until the end of November.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "remain",
+        "B": "remains",
+        "C": "are remaining",
+        "D": "have remained"
+      },
+      "correctAnswer": "B",
+      "strategySteps": [
+        {
+          "step": "1 — Find Real Subject (Gerçek Özneyi Bul)",
+          "detail": "Cümlenin öznesi 'textiles' veya 'vessels' değildir! Edat öbeğini ('of rare Mesoamerican textiles') ve relative clause'u (', which was donated...') paranteze alıp silin. Geriye kalan gerçek özne: 'The collection' (Tekil)."
+        },
+        {
+          "step": "2 — Match Verb (Fiili Eşleştir)",
+          "detail": "Tekil özne 'The collection' tekil fiil ister (fiilin sonuna -s takısı gelir: 'remains')."
+        },
+        {
+          "step": "3 — Eliminate Plural Verbs",
+          "detail": "A (remain), C (are remaining) ve D (have remained) çoğul fiillerdir; textiles veya collectors çoğuluna aldananlar için tuzaktır."
+        }
+      ],
+      "takeaway": "💡 'The [Singular Noun] of [Plural Noun]' yapısında özne HER ZAMAN ilk isimdir. Araya giren çoğul kelimeleri elinizle kapatın!",
+      "strategyStepsEN": [
+        {
+          "step": "1 — Find Real Subject (Ignore Intervening Phrases)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Cümlenin öznesi 'textiles' veya 'vessels' değildir! Edat öbeğini ('of rare Mesoamerican textiles') ve relative clause'u (', which was donated...') paranteze alıp silin. Geriye kalan gerçek özne: 'The collection' (Tekil)."
+        },
+        {
+          "step": "2 — Match Verb (Singular vs Plural)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. Tekil özne 'The collection' tekil fiil ister (fiilin sonuna -s takısı gelir: 'remains')."
+        },
+        {
+          "step": "E — Eliminate (Filter Extremes / Distortions)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice B. A (remain), C (are remaining) ve D (have remained) çoğul fiillerdir; textiles veya collectors çoğuluna aldananlar için tuzaktır."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice B using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "4B-G2",
+      "title": "Rehberli Alıştırma 2: Paralel Yapı / Parallelism (4-TEST)",
+      "difficulty": "medium",
+      "passage": "During the intensive flight training program, prospective astronauts must master orbital navigation, ______ under extreme gravitational pressures, and practice emergency spacewalk protocols.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "to endure physical stress",
+        "B": "enduring physical stress",
+        "C": "endure physical stress",
+        "D": "they endure physical stress"
+      },
+      "correctAnswer": "C",
+      "strategySteps": [
+        {
+          "step": "1 — Identify the List (Liste Öğelerini Bul)",
+          "detail": "Öğe 1: 'must [master] orbital navigation' (Base verb: master) / Öğe 2: '______ under extreme gravitational pressures' / Öğe 3: 'and [practice] emergency spacewalk protocols' (Base verb: practice)."
+        },
+        {
+          "step": "2 — Match Grammatical Form",
+          "detail": "Listede 'master' ve 'practice' yalın fiil (bare infinitive) halindedir. Dolayısıyla ikinci öğe de aynı biçimde 'endure' olmak zorundadır."
+        },
+        {
+          "step": "3 — Eliminate Mismatches",
+          "detail": "A (to endure) mastar 'to' eklemiş; B (enduring) gerund yapmış; D (they endure) gereksiz zamir ekleyip yapıyı bozmuştur. C seçeneği 'endure' tam paralellik sağlar."
+        }
+      ],
+      "takeaway": "💡 Virgülle ayrılan eylem listelerinde 've' (and) bağlacından önceki ve sonraki fiillerin gramer kalıbı ayna gibi birbirinin kopyası olmalıdır.",
+      "strategyStepsEN": [
+        {
+          "step": "I — Identify (Pinpoint Stated Evidence)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. Öğe 1: 'must [master] orbital navigation' (Base verb: master) / Öğe 2: '______ under extreme gravitational pressures' / Öğe 3: 'and [practice] emergency spacewalk protocols' (Base verb: practice)."
+        },
+        {
+          "step": "2 — Match Grammatical Form",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. Listede 'master' ve 'practice' yalın fiil (bare infinitive) halindedir. Dolayısıyla ikinci öğe de aynı biçimde 'endure' olmak zorundadır."
+        },
+        {
+          "step": "E — Eliminate (Filter Extremes / Distortions)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. A (to endure) mastar 'to' eklemiş; B (enduring) gerund yapmış; D (they endure) gereksiz zamir ekleyip yapıyı bozmuştur. C seçeneği 'endure' tam paralellik sağlar."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice C using the step-by-step framework to avoid deceptive College Board distractors."
+    },
+    {
+      "id": "4B-G3",
+      "title": "Rehberli Alıştırma 3: Zamir Referansı / Pronoun Ambiguity (4-TEST)",
+      "difficulty": "hard",
+      "passage": "When urban planners replaced traditional asphalt streets with permeable pavers, ______ reduced stormwater runoff by over 60% and mitigated localized flash flooding.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "it",
+        "B": "they",
+        "C": "the pavers",
+        "D": "this"
+      },
+      "correctAnswer": "C",
+      "strategySteps": [
+        {
+          "step": "1 — Check Pronoun Candidates",
+          "detail": "Yağmur suyu akışını %60 kim azalttı? Planners mı, streets mi, pavers mı?"
+        },
+        {
+          "step": "2 — Detect Ambiguity (Belirsizliği Gör)",
+          "detail": "Eğer 'they' (B) seçilirse, cümlenin başındaki 'urban planners' (çoğul insan) mı yoksa 'permeable pavers' (çoğul nesne) mı kastettiği gramatik olarak belirsiz kalır (Pronoun Ambiguity)."
+        },
+        {
+          "step": "3 — Eliminate Vague Pronouns",
+          "detail": "'it' (A) ve 'this' (D) tekil olduğu için çoğul 'pavers'ı karşılayamaz. En açık, kesin ve hatasız çözüm ismi doğrudan tekrar eden C seçeneğidir ('the pavers')."
+        }
+      ],
+      "takeaway": "💡 SAT zamir belirsizliğini sevmez; iki çoğul ismin geçtiği yerde 'they' yerine nesnenin adını doğrudan söyleyen şık daima üstündür.",
+      "strategyStepsEN": [
+        {
+          "step": "1 — Check Pronoun Antecedents (Eliminate Ambiguity)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. Yağmur suyu akışını %60 kim azalttı? Planners mı, streets mi, pavers mı?"
+        },
+        {
+          "step": "2 — Detect Ambiguity (Belirsizliği Gör)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. Eğer 'they' (B) seçilirse, cümlenin başındaki 'urban planners' (çoğul insan) mı yoksa 'permeable pavers' (çoğul nesne) mı kastettiği gramatik olarak belirsiz kalır (Pronoun Ambiguity)."
+        },
+        {
+          "step": "E — Eliminate (Filter Extremes / Distortions)",
+          "detail": "[Step Analysis] Focus directly on applying this step to eliminate distractors and substantiate choice C. 'it' (A) ve 'this' (D) tekil olduğu için çoğul 'pavers'ı karşılayamaz. En açık, kesin ve hatasız çözüm ismi doğrudan tekrar eden C seçeneğidir ('the pavers')."
+        }
+      ],
+      "takeawayEN": "💡 Key SAT Strategy Takeaway: Always apply Choice C using the step-by-step framework to avoid deceptive College Board distractors."
+    }
+  ]
+}

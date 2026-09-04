@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SAT Reading & Writing Akademi — Web Servisi</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Plus Jakarta Sans', sans-serif; }
+    code, pre { font-family: 'JetBrains Mono', monospace; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900 min-h-screen flex flex-col">
+
+  <!-- Header -->
+  <header class="bg-white border-b border-slate-200 sticky top-0 z-30 shadow-sm">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+      <div class="flex items-center space-x-3">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-indigo-600 to-violet-600 flex items-center justify-center text-white text-xl font-bold shadow-md shadow-indigo-200">
+          🎯
+        </div>
+        <div>
+          <span class="font-extrabold text-lg tracking-tight text-slate-900">SAT Reading & Writing</span>
+          <span class="text-xs ml-1.5 px-2 py-0.5 rounded-md bg-indigo-50 text-indigo-700 font-semibold border border-indigo-200/60">Ders Platformu</span>
+        </div>
+      </div>
+
+      <div class="flex items-center space-x-3 text-sm">
+        <a href="/api/quality/report" target="_blank" class="text-slate-600 hover:text-indigo-600 font-medium px-3 py-1.5 rounded-lg border border-slate-200 hover:border-indigo-200 transition-colors flex items-center gap-1.5">
+          <span>🛡️ Kalite Raporu</span>
+        </a>
+        <button onclick="resetProgress()" class="text-xs text-slate-400 hover:text-rose-600 px-2 py-1 transition-colors">
+          İlerlemeyi Sıfırla
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero & Progress Banner -->
+  <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 w-full">
+    
+    <div class="bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 rounded-3xl p-6 sm:p-10 text-white shadow-xl shadow-slate-900/10 mb-10 relative overflow-hidden">
+      <div class="relative z-10 max-w-3xl">
+        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-500/20 border border-indigo-400/30 text-indigo-300 text-xs font-semibold mb-4 backdrop-blur-sm">
+          <span>⚡ College Board Digital SAT Uyumlu</span>
+        </div>
+        <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3 leading-tight">
+          SAT Reading Sınavına En Üst Düzeyde Hazırlık
+        </h1>
+        <p class="text-slate-300 text-base sm:text-lg mb-6 leading-relaxed">
+          11 soru tipinin her biri için özel çözüm çerçeveleri, beceri haritaları, tuzak analizleri ve 5'er özgün soru ile gerçek sınav deneyimi.
+        </p>
+
+        <!-- Stats Grid -->
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 sm:gap-4 pt-4 border-t border-slate-800">
+          <div class="bg-slate-800/60 backdrop-blur-sm rounded-2xl p-3 border border-slate-700/60">
+            <div class="text-2xl font-bold text-indigo-400" id="statCompleted">0/11</div>
+            <div class="text-xs text-slate-400 font-medium">Tamamlanan Ders</div>
+          </div>
+          <div class="bg-slate-800/60 backdrop-blur-sm rounded-2xl p-3 border border-slate-700/60">
+            <div class="text-2xl font-bold text-emerald-400" id="statAvgScore">-%</div>
+            <div class="text-xs text-slate-400 font-medium">Ortalama Skor</div>
+          </div>
+          <div class="bg-slate-800/60 backdrop-blur-sm rounded-2xl p-3 border border-slate-700/60">
+            <div class="text-2xl font-bold text-amber-400">55</div>
+            <div class="text-xs text-slate-400 font-medium">Özgün Soru</div>
+          </div>
+          <div class="bg-slate-800/60 backdrop-blur-sm rounded-2xl p-3 border border-slate-700/60">
+            <div class="text-2xl font-bold text-violet-400">100%</div>
+            <div class="text-xs text-slate-400 font-medium">Kalite Doğrulanmış</div>
+          </div>
+        </div>
+
+        <!-- Overall Progress Bar -->
+        <div class="mt-6">
+          <div class="flex justify-between text-xs text-slate-300 font-medium mb-1.5">
+            <span>Genel Kurs İlerlemesi</span>
+            <span id="statPercentText">0%</span>
+          </div>
+          <div class="w-full bg-slate-800 rounded-full h-2.5 overflow-hidden">
+            <div id="statProgressBar" class="bg-gradient-to-r from-indigo-500 to-emerald-400 h-2.5 rounded-full transition-all duration-500" style="width: 0%"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Category Filters -->
+    <div class="flex flex-wrap items-center justify-between gap-4 mb-6">
+      <div class="flex flex-wrap gap-2" id="filterButtons">
+        <button onclick="filterCategory('')" class="filter-btn active px-4 py-2 rounded-xl text-sm font-semibold transition-all bg-indigo-600 text-white shadow-sm shadow-indigo-200">
+          Tüm Dersler (11)
+        </button>
+        <button onclick="filterCategory('Information and Ideas')" class="filter-btn px-4 py-2 rounded-xl text-sm font-semibold transition-all bg-white border border-slate-200 text-slate-700 hover:bg-slate-100">
+          1. Information & Ideas (4)
+        </button>
+        <button onclick="filterCategory('Craft and Structure')" class="filter-btn px-4 py-2 rounded-xl text-sm font-semibold transition-all bg-white border border-slate-200 text-slate-700 hover:bg-slate-100">
+          2. Craft & Structure (3)
+        </button>
+        <button onclick="filterCategory('Expression of Ideas')" class="filter-btn px-4 py-2 rounded-xl text-sm font-semibold transition-all bg-white border border-slate-200 text-slate-700 hover:bg-slate-100">
+          3. Expression of Ideas (2)
+        </button>
+        <button onclick="filterCategory('Standard English Conventions')" class="filter-btn px-4 py-2 rounded-xl text-sm font-semibold transition-all bg-white border border-slate-200 text-slate-700 hover:bg-slate-100">
+          4. English Conventions (2)
+        </button>
+      </div>
+
+      <a href="/quiz?random=true" class="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-violet-50 border border-violet-200 text-violet-700 hover:bg-violet-100 font-semibold text-sm transition-colors">
+        <span>🎲 Karışık Mini Test Çöz</span>
+      </a>
+    </div>
+
+    <!-- Lessons Grid -->
+    <div id="lessonsGrid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Loading Skeleton -->
+      <div class="col-span-full py-16 text-center text-slate-400">
+        <div class="inline-block animate-spin rounded-full h-8 w-8 border-4 border-indigo-500 border-t-transparent mb-3"></div>
+        <p>Dersler yükleniyor...</p>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-white border-t border-slate-200 py-6 mt-12 text-sm text-slate-500 text-center">
+    <div class="max-w-7xl mx-auto px-4">
+      <p>SAT Reading & Writing Akademi © 2026 — Entegre Web Servisi API & Öğrenim Platformu</p>
+      <p class="text-xs text-slate-400 mt-1">Her soru özgün olarak hazırlanmış ve kalite kontrol standartları ile doğrulanmıştır.</p>
+    </div>
+  </footer>
+
+  <script src="/js/app.js"></script>
+  <script>
+    let allLessons = [];
+    let currentCategory = '';
+
+    async function init() {
+      try {
+        const data = await SATApp.fetchLessons();
+        allLessons = data.lessons;
+        renderStats();
+        renderLessons();
+      } catch (err) {
+        document.getElementById('lessonsGrid').innerHTML = `
+          <div class="col-span-full p-8 bg-rose-50 border border-rose-200 rounded-2xl text-rose-800 text-center">
+            <p class="font-bold">Veriler yüklenirken hata oluştu.</p>
+            <p class="text-sm mt-1">${err.message}</p>
+          </div>
+        `;
+      }
+    }
+
+    function renderStats() {
+      const stats = SATApp.calculateOverallStats(allLessons);
+      document.getElementById('statCompleted').textContent = `${stats.completedCount}/${stats.totalLessons}`;
+      document.getElementById('statAvgScore').textContent = stats.completedCount > 0 ? `%${stats.avgScore}` : '-%';
+      document.getElementById('statPercentText').textContent = `%${stats.percentage}`;
+      document.getElementById('statProgressBar').style.width = `${stats.percentage}%`;
+    }
+
+    function filterCategory(cat) {
+      currentCategory = cat;
+      const btns = document.querySelectorAll('.filter-btn');
+      btns.forEach(b => {
+        const text = b.textContent;
+        const match = (!cat && text.includes('Tüm')) || (cat && text.includes(cat.split(' ')[0]));
+        if (match) {
+          b.className = 'filter-btn active px-4 py-2 rounded-xl text-sm font-semibold transition-all bg-indigo-600 text-white shadow-sm shadow-indigo-200';
+        } else {
+          b.className = 'filter-btn px-4 py-2 rounded-xl text-sm font-semibold transition-all bg-white border border-slate-200 text-slate-700 hover:bg-slate-100';
+        }
+      });
+      renderLessons();
+    }
+
+    function renderLessons() {
+      const grid = document.getElementById('lessonsGrid');
+      const filtered = currentCategory 
+        ? allLessons.filter(l => l.category === currentCategory)
+        : allLessons;
+
+      if (filtered.length === 0) {
+        grid.innerHTML = '<div class="col-span-full text-center py-12 text-slate-400">Bu kategoride ders bulunamadı.</div>';
+        return;
+      }
+
+      grid.innerHTML = filtered.map(l => {
+        const prog = SATApp.getLessonProgress(l.id);
+        const isCompleted = prog !== null;
+
+        return `
+          <div class="bg-white rounded-2xl border border-slate-200 p-6 flex flex-col justify-between hover:shadow-lg hover:border-indigo-300 transition-all group">
+            <div>
+              <!-- Top Row -->
+              <div class="flex items-start justify-between gap-3 mb-3">
+                <div class="flex items-center gap-2.5">
+                  <span class="text-2xl">${l.icon}</span>
+                  <div>
+                    <div class="text-xs font-bold text-indigo-600 uppercase tracking-wider">${l.id} · ${l.categoryTR}</div>
+                    <h3 class="font-extrabold text-lg text-slate-900 group-hover:text-indigo-600 transition-colors leading-snug">
+                      ${l.titleTR}
+                    </h3>
+                  </div>
+                </div>
+                ${SATApp.getDifficultyBadge(l.difficulty)}
+              </div>
+
+              <div class="text-xs text-slate-400 font-medium mb-3 italic">
+                "${l.title}"
+              </div>
+
+              <!-- Signal phrases badge preview -->
+              <div class="mb-4">
+                <div class="text-xs font-semibold text-slate-500 mb-1.5">Soru Kökü İpuçları:</div>
+                <div class="flex flex-wrap gap-1.5">
+                  ${(l.signalPhrases || []).slice(0, 2).map(sp => `
+                    <span class="text-xs px-2 py-0.5 rounded-md bg-slate-100 text-slate-600 border border-slate-200 font-mono">
+                      ${sp}
+                    </span>
+                  `).join('')}
+                </div>
+              </div>
+            </div>
+
+            <!-- Bottom Progress & Action -->
+            <div class="pt-4 border-t border-slate-100 mt-2">
+              <div class="flex items-center justify-between mb-3 text-xs">
+                <span class="text-slate-500 font-medium">Durum:</span>
+                ${isCompleted ? `
+                  <span class="font-bold text-emerald-600 flex items-center gap-1">
+                    <span>✅ Tamamlandı</span>
+                    <span class="px-1.5 py-0.5 bg-emerald-50 rounded text-emerald-700 border border-emerald-200">%${prog.score}</span>
+                  </span>
+                ` : `
+                  <span class="text-slate-400">Henüz başlanmadı</span>
+                `}
+              </div>
+
+              <div class="grid grid-cols-2 gap-2">
+                <a href="/lesson?id=${l.id}" class="text-center px-3 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold text-xs transition-colors">
+                  📖 Dersi Çalış
+                </a>
+                <a href="/quiz?id=${l.id}" class="text-center px-3 py-2 rounded-xl bg-indigo-600 hover:bg-indigo-700 text-white font-semibold text-xs shadow-sm shadow-indigo-100 transition-colors">
+                  🎯 Soruları Çöz (5)
+                </a>
+              </div>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function resetProgress() {
+      if (confirm('Tüm çözülmüş quiz skorlarınızı ve ilerlemenizi sıfırlamak istediğinize emin misiniz?')) {
+        localStorage.removeItem(SATApp.getProgressKey());
+        renderStats();
+        renderLessons();
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>

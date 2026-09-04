@@ -1,0 +1,1720 @@
+{
+  "1A": [
+    {
+      "id": "1A-Q1",
+      "lessonId": "1A",
+      "difficulty": "medium",
+      "passage": "The deep ocean floor, once thought to be a barren environment, is now recognized as one of Earth's most biodiverse ecosystems. Hydrothermal vents, discovered in 1977, support complex food webs through chemosynthesis. Organisms such as tube worms and blind shrimp thrive in complete darkness. These discoveries have fueled speculation about life on ocean-bearing moons such as Europa.",
+      "question": "The main idea of the passage is best described as:",
+      "choices": {
+        "A": "Hydrothermal vents were discovered in 1977 and support tube worms and blind shrimp.",
+        "B": "Discoveries in deep ocean ecosystems have expanded scientific understanding of where life can exist.",
+        "C": "Chemosynthesis is more efficient than photosynthesis for energy production.",
+        "D": "Europa may have life because it contains a subsurface ocean similar to Earth's."
+      },
+      "correctAnswer": "B",
+      "explanation": "B tüm paragrafı kapsayan en geniş doğru ifadedir. A sadece tek bir ayrıntıyı (too specific) kapsıyor. C ve D metinde ana fikir olarak ele alınmamış — bunlar yalnızca destekleyici detaylar.",
+      "trapExplanation": {
+        "A": "TOO SPECIFIC — Sadece 1977 keşfini ve iki hayvan türünü kapsıyor; metnin büyük resmini görmüyor.",
+        "C": "NOT MENTIONED — Metin iki süreç arasında verimlilik karşılaştırması yapmıyor.",
+        "D": "TOO NARROW — Europa spekülasyonu son cümledeki bir ipucudur, ana fikir değildir."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B is the best response because it encapsulates the overarching claim of the passage: discoveries at hydrothermal vents and deep ocean floors have broadened the scientific paradigm regarding where life can flourish and persist.",
+      "trapExplanationEN": {
+        "A": "TOO SPECIFIC — Focuses solely on the 1977 discovery and two organisms, missing the broader scientific significance.",
+        "C": "NOT MENTIONED — The text makes no comparison regarding the thermodynamic efficiency of chemosynthesis versus photosynthesis.",
+        "D": "TOO NARROW — Europa's ocean is merely an illustrative implication mentioned at the end, not the central thesis."
+      }
+    },
+    {
+      "id": "1A-Q2",
+      "lessonId": "1A",
+      "difficulty": "medium",
+      "passage": "Early twentieth-century urban planners in American cities designed streets primarily for automobiles. Sidewalks were narrow; parks were seen as luxuries. By mid-century, reformers like Jane Jacobs argued that vibrant city life depended on human-scale design—short blocks, mixed uses, and active street life. Her 1961 book helped inspire a generation of planners who prioritized walkability.",
+      "question": "Which choice best describes what the passage is about?",
+      "choices": {
+        "A": "Jane Jacobs wrote an important book in 1961 that changed urban planning.",
+        "B": "American cities in the early 1900s had narrow sidewalks and few parks.",
+        "C": "A shift occurred in urban planning philosophy from car-centered to human-centered design.",
+        "D": "Walkability is the most important factor in determining a city's success."
+      },
+      "correctAnswer": "C",
+      "explanation": "C, metnin bütününü doğru şekilde özetliyor: araç merkezli → insan ölçekli tasarım geçişi. A ve B birer ayrıntıdır; D ise metinde iddia edilmeyen bir değer yargısıdır.",
+      "trapExplanation": {
+        "A": "TOO SPECIFIC — Jane Jacobs önemli bir figür ama pasajın tek konusu değil.",
+        "B": "TOO SPECIFIC — Erken dönem sorunlar sadece bir giriş bağlamıdır.",
+        "D": "NOT STATED — Metin walkability'nin 'en önemli faktör' olduğunu söylemiyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C accurately summarizes the complete passage: the transformation in urban design paradigms from an automobile-dominated philosophy to human-scaled, walkable neighborhood environments.",
+      "trapExplanationEN": {
+        "A": "TOO SPECIFIC — Jane Jacobs's book is an important turning point, but not the entirety of the text.",
+        "B": "TOO SPECIFIC — Early 20th-century urban conditions merely establish initial historical context.",
+        "D": "NOT STATED — The author does not assert walkability as the single most critical determinant of municipal success."
+      }
+    },
+    {
+      "id": "1A-Q3",
+      "lessonId": "1A",
+      "difficulty": "easy",
+      "passage": "The Columbian Exchange—the transfer of plants, animals, and ideas between the Americas and the Old World—transformed global agriculture. Tomatoes, potatoes, and maize became staples of European and Asian cuisines. Conversely, horses and wheat reshaped indigenous practices. The Exchange was not simply ecological; it was a social and economic upheaval with lasting consequences.",
+      "question": "The passage primarily argues that:",
+      "choices": {
+        "A": "The Columbian Exchange was primarily beneficial for global agriculture.",
+        "B": "Sugarcane was the most significant crop introduced to the Americas.",
+        "C": "The Columbian Exchange had broad ecological, social, and economic impacts on both hemispheres.",
+        "D": "Columbus's voyages were motivated by a desire to transform agriculture."
+      },
+      "correctAnswer": "C",
+      "explanation": "Metin açıkça 'sadece ekolojik değil, sosyal ve ekonomik bir altüst oluştu' diyor. C bu üç boyutu kapsıyor. A tek yönlü (metin negatif etkileri de anlatıyor). B ve D metinde hiç geçmiyor.",
+      "trapExplanation": {
+        "A": "DISTORTION — Metin hem olumlu hem olumsuz etkileri anlatıyor; 'primarily beneficial' tek yönlü.",
+        "B": "NOT MENTIONED — Şeker kamışından metin söz etmiyor; bu dışarıdan bilgi.",
+        "D": "NOT MENTIONED — Columbus'un motivasyonları bu pasajın konusu değil."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C best captures the author's primary argument that the Columbian Exchange was a multifaceted phenomenon encompassing ecological, social, and economic transformations across both hemispheres.",
+      "trapExplanationEN": {
+        "A": "DISTORTION — The passage underscores both advantageous and devastating outcomes; calling it 'primarily beneficial' is one-sided.",
+        "B": "NOT MENTIONED — Sugarcane is cited as driving the slave trade, but the text does not rank it as the single most significant crop.",
+        "D": "NOT MENTIONED — Columbus's personal agricultural intentions are never addressed."
+      }
+    },
+    {
+      "id": "1A-Q4",
+      "lessonId": "1A",
+      "difficulty": "hard",
+      "passage": "While most people associate coral reefs with tropical waters, cold-water coral ecosystems exist in deep Atlantic, Pacific, and Indian Oceans at depths of 200–4,000 meters, supporting biodiversity comparable to their tropical counterparts. Unlike tropical corals, cold-water corals do not rely on photosynthesis. They are, however, particularly vulnerable to ocean acidification, which weakens the calcium carbonate structures of their skeletons.",
+      "question": "According to the passage, which of the following is true about cold-water corals?",
+      "choices": {
+        "A": "They exist only in the Atlantic Ocean at depths below 4,000 meters.",
+        "B": "They require sunlight to survive, unlike tropical corals.",
+        "C": "They support biodiversity and are threatened by ocean acidification.",
+        "D": "They are more resilient to climate change than tropical corals."
+      },
+      "correctAnswer": "C",
+      "explanation": "Metin iki şeyi açıkça söylüyor: biyoçeşitlilik destekliyor VE okyanus asitlenmesine karşı savunmasız. C her ikisini de doğru ifade ediyor.",
+      "trapExplanation": {
+        "A": "WRONG DETAIL — Metin üç okyanustan söz ediyor; derinlik 200–4000 metre arası.",
+        "B": "OPPOSITE — Metin tam tersini söylüyor: fotosenteze ihtiyaç duymuyor.",
+        "D": "NOT STATED — Metin böyle bir karşılaştırma yapmıyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C correctly combines two explicit facts stated in the passage: cold-water corals sustain rich biodiversity and are acutely threatened by ocean acidification dissolving their calcium carbonate skeletons.",
+      "trapExplanationEN": {
+        "A": "WRONG DETAIL — Cold-water corals inhabit three oceans at depths between 200 and 4,000 meters, not exclusively below 4,000 meters.",
+        "B": "OPPOSITE — The text explicitly states they do not rely on photosynthesis or sunlight.",
+        "D": "NOT STATED — No comparative climate resilience between cold-water and tropical corals is asserted."
+      }
+    },
+    {
+      "id": "1A-Q5",
+      "lessonId": "1A",
+      "difficulty": "hard",
+      "passage": "The digitization of ancient texts and AI-assisted translation tools have democratized classical scholarship, making it accessible beyond academic institutions. While scholars debate whether AI achieves human nuance, the technology has enabled decipherment of previously unreadable scripts and accelerated cataloguing of fragmentary texts. The boundaries of who can participate in classical scholarship are being redrawn.",
+      "question": "The main claim of the passage is that:",
+      "choices": {
+        "A": "AI translation tools are superior to human scholars in translating ancient languages.",
+        "B": "The digitization of texts has made ancient language study more widely accessible and productive.",
+        "C": "Academic institutions no longer play a role in the study of ancient languages.",
+        "D": "Previously unreadable scripts can now be fully deciphered using modern AI."
+      },
+      "correctAnswer": "B",
+      "explanation": "Metin 'demokratikleştirdi' ve 'kimin katılabileceğine dair sınırlar yeniden çiziliyor' diyor. B bu iki fikri doğru kapsıyor. A aşırı iddia (tartışmalı olduğu söyleniyor). C aşırı (sadece genişledi, kurumlar ortadan kalkmadı). D 'fully' aşırı.",
+      "trapExplanation": {
+        "A": "OVERSTATEMENT — Metin aksine 'scholars debate' diyerek tartışmalı olduğunu kabul ediyor.",
+        "C": "EXTREME — 'No longer' çok güçlü; metin kurumların ortadan kalktığını söylemiyor.",
+        "D": "EXTREME — 'Fully deciphered' ifadesi metindeki 'enabled decipherment' ifadesinden çok daha güçlü."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B conveys the main assertion: digital archives and AI translation technologies have expanded scholarly access and accelerated productivity across classical language studies.",
+      "trapExplanationEN": {
+        "A": "OVERSTATEMENT — The text explicitly notes scholars debate whether AI matches human interpretive nuance.",
+        "C": "EXTREME — 'No longer play a role' is overly absolute; academic institutions remain central to scholarship.",
+        "D": "EXTREME — 'Fully deciphered' exaggerates the preliminary decipherment progress described."
+      }
+    }
+  ],
+  "1B": [
+    {
+      "id": "1B-Q1",
+      "lessonId": "1B",
+      "difficulty": "medium",
+      "passage": "A researcher concludes that social media use does not necessarily reduce time teenagers spend reading. Many teenagers use social media to discover book recommendations and participate in reading communities, which actually increases their overall reading engagement.",
+      "question": "Which finding would most directly support the researcher's conclusion?",
+      "choices": {
+        "A": "Teenagers who use social media spend fewer hours on homework.",
+        "B": "Teenagers active in online book clubs read more books per year than those who are not.",
+        "C": "The most popular platforms do not have dedicated book recommendation features.",
+        "D": "Reading comprehension scores have declined among teenagers over the past decade."
+      },
+      "correctAnswer": "B",
+      "explanation": "Araştırmacının iddiası: sosyal medya okumayı azaltmıyor, hatta artırıyor. B, sosyal medya kitap toplulukları → daha fazla kitap okuyan somut kanıt zincirini kuruyor. C iddianın tersini ima ediyor. D alakasız.",
+      "trapExplanation": {
+        "A": "IRRELEVANT — Ödev süresi okuma miktarını doğrudan kanıtlamıyor.",
+        "C": "CONTRADICTS — Kitap öneri özellikleri yoksa argüman zayıflıyor.",
+        "D": "IRRELEVANT — Anlama skoru ile okuma süresi farklı şeyler."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B directly validates the researcher's conclusion by establishing that adolescents participating in online book communities read a significantly higher volume of books annually.",
+      "trapExplanationEN": {
+        "A": "IRRELEVANT — Time dedicated to homework does not substantiate reading engagement.",
+        "C": "CONTRADICTS — Absence of recommendation features would weaken, rather than support, the researcher's thesis.",
+        "D": "IRRELEVANT — Declining reading comprehension does not directly measure the volume of reading or social media engagement."
+      }
+    },
+    {
+      "id": "1B-Q2",
+      "lessonId": "1B",
+      "difficulty": "easy",
+      "passage": "Urban heat islands occur when cities experience higher temperatures than surrounding rural areas. Studies show that areas with higher tree canopy coverage consistently record lower ambient temperatures. City planners in Phoenix piloted a tree-planting initiative, and early data show a 3–5°C reduction in surface temperatures.",
+      "question": "Which quotation best supports the claim that vegetation can mitigate urban heat island effects?",
+      "choices": {
+        "A": "Urban heat islands occur when cities experience higher temperatures than rural areas.",
+        "B": "Studies show that areas with higher tree canopy coverage consistently record lower ambient temperatures.",
+        "C": "City planners in Phoenix piloted a tree-planting initiative.",
+        "D": "heat-absorbing surfaces like asphalt and concrete, and the lack of vegetation"
+      },
+      "correctAnswer": "B",
+      "explanation": "B doğrudan ağaç örtüsü = düşük sıcaklık ilişkisini kuruyor. A sadece urban heat island'ı tanımlıyor. C sadece uygulamayı belirtiyor, kanıt vermiyor. D bitki örtüsünün yokluğunun sorunu kötüleştirdiğini ima ediyor ama çözümü desteklemiyor.",
+      "trapExplanation": {
+        "A": "DEFINES PROBLEM — Problemi tanımlıyor, çözümü (bitkiler) desteklemiyor.",
+        "C": "DESCRIBES ACTION — Uygulama başlatıldı, ama etki kanıtlanmıyor.",
+        "D": "INDIRECT — Bitki örtüsü yokluğu sorunu ima eder, ama doğrudan destekleme için yeterli değil."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B provides the direct empirical link between vegetation and cooling, showing areas with higher canopy density systematically register lower temperatures.",
+      "trapExplanationEN": {
+        "A": "DEFINES PROBLEM — Merely establishes the definition of urban heat islands without proving a mitigation mechanism.",
+        "C": "DESCRIBES ACTION — Notes that an initiative was piloted, but does not provide the supporting causal evidence.",
+        "D": "INDIRECT — Citing lack of vegetation explains vulnerability, but does not provide direct positive evidence of mitigation."
+      }
+    },
+    {
+      "id": "1B-Q3",
+      "lessonId": "1B",
+      "difficulty": "hard",
+      "isDoubleText": true,
+      "passage": "Text 1: Martha Nussbaum argues that humanities are essential to democratic citizenship. By cultivating empathy and the capacity to imagine lives different from our own, these disciplines prepare citizens to engage with diverse perspectives.\n\nText 2: Bryan Caplan contends that employers value degrees primarily as signals of preexisting ability. Resources invested in humanities education yield minimal measurable returns.",
+      "question": "How would Nussbaum most likely respond to Caplan's position?",
+      "choices": {
+        "A": "By agreeing that humanities education provides limited economic value but arguing it serves other important functions.",
+        "B": "By conceding that employer preferences are the best measure of educational value.",
+        "C": "By arguing that humanities education increases measurable productivity in the workplace.",
+        "D": "By claiming that economic analysis is inappropriate for evaluating any education."
+      },
+      "correctAnswer": "A",
+      "explanation": "Nussbaum'un argümanı ekonomik değer üzerine değil, demokratik yurttaşlık ve empati üzerine kurulu. Caplan'ın 'ölçülebilir getiri yok' argümanına karşı Nussbaum 'ama başka önemli işlevler var' derdi. Bu tam A'nın ifade ettiği şey.",
+      "trapExplanation": {
+        "B": "OPPOSITE — Nussbaum işveren tercihlerini eğitimin ölçüsü olarak görmez.",
+        "C": "NOT HER ARGUMENT — Nussbaum ölçülebilir üretkenlikten söz etmiyor.",
+        "D": "OVERREACH — Nussbaum ekonomik analizi tamamen reddediyor değil; sadece farklı bir değer çerçevesi sunuyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice A reflects Nussbaum's philosophy: she would concede that humanities offer limited narrow vocational utility while vigorously defending their indispensable role in democratic deliberation and empathy.",
+      "trapExplanationEN": {
+        "B": "OPPOSITE — Nussbaum rejects employer market signals as the definitive metric of educational purpose.",
+        "C": "NOT HER ARGUMENT — Nussbaum does not ground her defense in quantifiable economic productivity.",
+        "D": "OVERREACH — Nussbaum does not categorically reject economic analysis, but offers a distinct moral framework."
+      }
+    },
+    {
+      "id": "1B-Q4",
+      "lessonId": "1B",
+      "difficulty": "hard",
+      "passage": "A biologist claims birds navigate primarily using Earth's magnetic field. Birds fitted with magnets that disrupt magnetic field perception become significantly disoriented during migration, even in areas they have previously visited.",
+      "question": "Which, if true, would most directly challenge the biologist's claim?",
+      "choices": {
+        "A": "Some bird species memorize specific landmarks along their migration routes.",
+        "B": "The tiny magnets added weight that may have impaired normal flight.",
+        "C": "Birds raised in captivity without migration exposure become disoriented regardless of magnets.",
+        "D": "Earth's magnetic field varies slightly by geographic region."
+      },
+      "correctAnswer": "B",
+      "explanation": "B metodolojik bir sorun ortaya koyuyor: yönelim bozukluğunun manyetik alan bozulmasından değil, eklenen mıknatıs ağırlığından kaynaklanıyor olabileceğini söylüyor. Bu çalışmanın geçerliliğini doğrudan sorgular.",
+      "trapExplanation": {
+        "A": "WEAKLY CHALLENGES — Landmark kullanımı alternatif olabilir ama magnets deneyi sonucunu çürütmüyor.",
+        "C": "IRRELEVANT — Kafes kuşlarının davranışı deneysel grubu doğrudan etkilemiyor.",
+        "D": "IRRELEVANT — Coğrafi varyasyon, manyetik alan navigasyonunu çürütmüyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B poses a direct methodological critique: if magnets introduced substantial physical drag or flight impairment, the disorientation was caused by weight rather than disrupted magnetic reception.",
+      "trapExplanationEN": {
+        "A": "WEAK CHALLENGE — Using visual landmarks does not eliminate magnetic field sensing as the primary mechanism.",
+        "C": "IRRELEVANT — Captive bird disorientation does not invalidate experimental findings in wild migrants.",
+        "D": "IRRELEVANT — Natural regional magnetic variance is consistent with magnetic navigation."
+      }
+    },
+    {
+      "id": "1B-Q5",
+      "lessonId": "1B",
+      "difficulty": "medium",
+      "passage": "Patients who receive placebo treatments often experience genuine physiological improvements. Interestingly, even when patients are told the treatment is a placebo, measurable benefits can still occur—the 'open-label placebo effect.' This challenges the assumption that deception is necessary for placebos to work.",
+      "question": "Which choice best supports the claim that the placebo effect does not require deception?",
+      "choices": {
+        "A": "patients who receive placebo treatments often experience genuine physiological improvements",
+        "B": "even when patients are told the treatment is a placebo, measurable benefits can still occur",
+        "C": "sugar pills presented as real medication",
+        "D": "This challenges the assumption that deception is necessary"
+      },
+      "correctAnswer": "B",
+      "explanation": "B kandırılmadan da plasebo etkisinin görülebildiğine dair doğrudan veri sunuyor. A genel plasebo etkisini anlatıyor ama kandırma içeriyor. C kandırmayı tanımlıyor (tam tersi). D yorum cümlesi, veri değil.",
+      "trapExplanation": {
+        "A": "INCLUDES DECEPTION — Bu alıntı genel plasebo etkisinden söz ediyor, aldatmayı içeriyor.",
+        "C": "SUPPORTS DECEPTION — Sahte ilaç sunmak = kandırmak; iddiayı çürütüyor.",
+        "D": "INTERPRETATION — Bu cümle bir yorum, doğrudan kanıt değil."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B directly proves the claim by documenting that measurable clinical benefits occur even when patients are explicitly informed that they are receiving an inert placebo.",
+      "trapExplanationEN": {
+        "A": "INCLUDES DECEPTION — Pertains to traditional blind placebos where patients mistakenly believe they are receiving real drugs.",
+        "C": "SUPPORTS DECEPTION — Presenting sugar pills as medication is the very definition of deception.",
+        "D": "INTERPRETATION — A concluding assertion rather than the empirical data supporting the claim."
+      }
+    }
+  ],
+  "1C": [
+    {
+      "id": "1C-Q1",
+      "lessonId": "1C",
+      "difficulty": "medium",
+      "passage": "Scientists report that the rate of sea level rise has been accelerating over three decades.",
+      "tableData": {
+        "headers": [
+          "Yıl",
+          "Deniz Seviyesi Yükselmesi (mm)"
+        ],
+        "rows": [
+          [
+            "1993",
+            "0"
+          ],
+          [
+            "1998",
+            "12"
+          ],
+          [
+            "2003",
+            "22"
+          ],
+          [
+            "2008",
+            "34"
+          ],
+          [
+            "2013",
+            "48"
+          ],
+          [
+            "2018",
+            "60"
+          ],
+          [
+            "2023",
+            "76"
+          ]
+        ]
+      },
+      "question": "Which data best supports the claim about acceleration?",
+      "choices": {
+        "A": "Sea levels rose 12 mm between 1993–1998, but 16 mm between 2018–2023.",
+        "B": "Total sea level rise from 1993 to 2023 was 76 mm.",
+        "C": "Sea levels rose consistently every five years throughout the period.",
+        "D": "The largest single five-year increase occurred between 2013 and 2018."
+      },
+      "correctAnswer": "A",
+      "explanation": "İvmelenme = artış HIZININ artması. A erken dönemde 12mm/5yıl, geç dönemde 16mm/5yıl gösteriyor — bu hız artışı. B sadece toplam. C sürekliliği gösteriyor ama hız artışını değil. D yanlış: 2018-23 farkı 16, 2013-18 farkı 12 — en büyük son dönemde.",
+      "trapExplanation": {
+        "B": "TOTAL NOT RATE — Toplam 76mm, ivmelenmeyi kanıtlamıyor.",
+        "C": "CONSISTENCY NOT ACCELERATION — Tutarlılık ≠ hızlanma.",
+        "D": "FACTUALLY WRONG — Tabloya göre 2018-2023 aralığı (16mm) en büyük artış, 2013-2018 (12mm) değil."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice A demonstrates acceleration by contrasting the earlier rate (12 mm over 5 years) with the substantially faster recent rate (16 mm over 5 years).",
+      "trapExplanationEN": {
+        "B": "TOTAL NOT RATE — Cumulative sea level rise does not by itself prove that the rate of increase is accelerating.",
+        "C": "CONSISTENCY NOT ACCELERATION — Demonstrating steady five-year increases does not show a growing rate of change.",
+        "D": "FACTUALLY WRONG — The table shows the largest five-year surge occurred between 2018 and 2023 (16 mm), not 2013-2018."
+      }
+    },
+    {
+      "id": "1C-Q2",
+      "lessonId": "1C",
+      "difficulty": "hard",
+      "passage": "A policy analyst argues that European nations have made significantly greater strides in expanding renewable energy than other regions between 2015 and 2023.",
+      "tableData": {
+        "headers": [
+          "Ülke",
+          "Yenilenebilir % 2015",
+          "Yenilenebilir % 2023"
+        ],
+        "rows": [
+          [
+            "Almanya",
+            "31",
+            "59"
+          ],
+          [
+            "ABD",
+            "13",
+            "22"
+          ],
+          [
+            "Hindistan",
+            "14",
+            "29"
+          ],
+          [
+            "Çin",
+            "24",
+            "34"
+          ],
+          [
+            "Brezilya",
+            "42",
+            "48"
+          ]
+        ]
+      },
+      "question": "Do the data support the analyst's argument?",
+      "choices": {
+        "A": "Yes, because Germany's renewable share more than doubled, the largest proportional increase.",
+        "B": "Yes, because Germany has the highest renewable share in 2023.",
+        "C": "No, because the table does not include enough European countries to make a valid comparison.",
+        "D": "No, because Brazil's share is already higher than Germany's in 2015."
+      },
+      "correctAnswer": "C",
+      "explanation": "Tabloda sadece tek bir Avrupa ülkesi var (Almanya). Bir ülkeden 'Avrupa ülkeleri' genellemesi yapmak için yeterli veri yok. Bu, grafik soruların en önemli tuzağı: veriden fazlasını iddia etme.",
+      "trapExplanation": {
+        "A": "INSUFFICIENT DATA — Almanya büyüdü ama bu tek başına tüm Avrupa'yı temsil etmiyor.",
+        "B": "WRONG DIRECTION — Bu 'Yes' cevabı destekliyor gibi görünse de yeterli kanıt yok.",
+        "D": "IRRELEVANT — Brezilya'nın 2015 payı analistin argümanını doğrudan çürütmüyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C correctly identifies the methodological flaw: Germany is the sole European nation in the dataset, making a broad regional generalization about 'European nations' empirically invalid.",
+      "trapExplanationEN": {
+        "A": "INSUFFICIENT DATA — Germany's individual progress cannot be extrapolated to represent all of Europe.",
+        "B": "WRONG DIRECTION — Citing Germany's top ranking overlooks the regional sample size limitation.",
+        "D": "IRRELEVANT — Brazil's baseline share does not refute the comparative progress argument."
+      }
+    },
+    {
+      "id": "1C-Q3",
+      "lessonId": "1C",
+      "difficulty": "medium",
+      "passage": "A sleep researcher claims the relationship between sleep and cognitive performance is not simply linear—beyond a threshold, additional sleep no longer improves and may reduce performance.",
+      "tableData": {
+        "headers": [
+          "Uyku Süresi (saat)",
+          "Bilişsel Skor"
+        ],
+        "rows": [
+          [
+            "4",
+            "52"
+          ],
+          [
+            "5",
+            "61"
+          ],
+          [
+            "6",
+            "74"
+          ],
+          [
+            "7",
+            "88"
+          ],
+          [
+            "8",
+            "91"
+          ],
+          [
+            "9",
+            "89"
+          ],
+          [
+            "10",
+            "84"
+          ]
+        ]
+      },
+      "question": "Which data best supports this claim?",
+      "choices": {
+        "A": "Cognitive scores increase from 52 at 4 hours to 91 at 8 hours.",
+        "B": "Cognitive scores peak at 8 hours (91) and decline at 9 and 10 hours (89 and 84).",
+        "C": "There is a 37-point difference between 4 and 7 hours of sleep.",
+        "D": "Participants who sleep 6 hours score higher than those who sleep 5 hours."
+      },
+      "correctAnswer": "B",
+      "explanation": "İddia iki parçalı: (1) eşik var, (2) sonrasında düşüş var. B hem zirveyi (8 saat, 91 puan) hem de sonrasındaki düşüşü (9→89, 10→84) gösteriyor. A sadece artışı gösteriyor, eşik+düşüş yok.",
+      "trapExplanation": {
+        "A": "INCOMPLETE — Sadece artış var, 'doğrusal olmayan' kısmı (eşik sonrası düşüş) eksik.",
+        "C": "IRRELEVANT DETAIL — 37 puanlık fark, eşik ve düşüş iddiasını desteklemiyor.",
+        "D": "TOO NARROW — Tek bir karşılaştırma, genel iddiayı kanıtlamak için yetersiz."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B provides empirical evidence for the non-linear threshold: cognitive scores peak at 8 hours (91 points) and progressively decline with additional sleep (89 at 9h, 84 at 10h).",
+      "trapExplanationEN": {
+        "A": "INCOMPLETE — Only illustrates the ascending phase without documenting the subsequent performance decline.",
+        "C": "IRRELEVANT DETAIL — The 37-point gain between 4 and 7 hours does not substantiate the upper-threshold drop.",
+        "D": "TOO NARROW — A single pairwise comparison fails to substantiate the overarching non-linear claim."
+      }
+    },
+    {
+      "id": "1C-Q4",
+      "lessonId": "1C",
+      "difficulty": "medium",
+      "passage": "A marketing analyst argues that e-mail marketing offers the best combination of low cost and high effectiveness.",
+      "tableData": {
+        "headers": [
+          "Reklam Kanalı",
+          "Maliyet/Müşteri ($)",
+          "Dönüşüm (%)"
+        ],
+        "rows": [
+          [
+            "Sosyal Medya",
+            "8.20",
+            "4.1"
+          ],
+          [
+            "E-posta",
+            "2.10",
+            "6.8"
+          ],
+          [
+            "Arama Motoru",
+            "12.40",
+            "8.5"
+          ],
+          [
+            "TV",
+            "45.00",
+            "1.2"
+          ],
+          [
+            "Podcast",
+            "6.80",
+            "3.9"
+          ]
+        ]
+      },
+      "question": "Which most accurately evaluates this claim using the table?",
+      "choices": {
+        "A": "Fully supported: e-mail has the lowest cost and the highest conversion rate.",
+        "B": "Partially supported: e-mail has the second-lowest cost and the second-highest conversion rate.",
+        "C": "Not supported: search engine marketing has the highest conversion at the lowest cost.",
+        "D": "Not supported: social media has a lower cost than e-mail."
+      },
+      "correctAnswer": "B",
+      "explanation": "E-posta: $2.10 maliyet (en düşük ✓) ama dönüşüm %6.8 (ikinci — arama motoru %8.5 birinci). 'En iyi kombinasyon' savunulabilir ama 'en yüksek dönüşüm' yanlış. B bu nüansı doğru yakalıyor.",
+      "trapExplanation": {
+        "A": "FACTUALLY WRONG — E-postanın dönüşüm oranı (%6.8) en yüksek değil; arama motoru (%8.5) daha yüksek.",
+        "C": "FACTUALLY WRONG — Arama motoru en yüksek maliyete sahip ($12.40), en düşüğe değil.",
+        "D": "FACTUALLY WRONG — Sosyal medya $8.20 ile e-postadan ($2.10) daha pahalı."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B accurately evaluates the metrics: e-mail achieves the lowest acquisition cost ($2.10) while securing the second-highest conversion rate (6.8%, behind search engines at 8.5%).",
+      "trapExplanationEN": {
+        "A": "FACTUALLY WRONG — E-mail does not possess the highest conversion rate; search engines rank higher at 8.5%.",
+        "C": "FACTUALLY WRONG — Search engine marketing is the most expensive channel ($12.40), not the lowest.",
+        "D": "FACTUALLY WRONG — Social media is more expensive ($8.20) than e-mail ($2.10)."
+      }
+    },
+    {
+      "id": "1C-Q5",
+      "lessonId": "1C",
+      "difficulty": "easy",
+      "passage": "An economist concludes that higher education is consistently associated with both greater income and greater job security.",
+      "tableData": {
+        "headers": [
+          "Öğrenim",
+          "Medyan Gelir ($)",
+          "İşsizlik (%)"
+        ],
+        "rows": [
+          [
+            "Lise",
+            "40500",
+            "5.8"
+          ],
+          [
+            "Önlisans",
+            "51200",
+            "4.2"
+          ],
+          [
+            "Lisans",
+            "67800",
+            "3.5"
+          ],
+          [
+            "Yüksek Lisans",
+            "81400",
+            "2.8"
+          ],
+          [
+            "Doktora",
+            "98700",
+            "1.9"
+          ]
+        ]
+      },
+      "question": "Which statement best supports this conclusion?",
+      "choices": {
+        "A": "Doctoral holders earn more than twice the median income of high school graduates.",
+        "B": "Income and employment stability both improve at every successive level of education.",
+        "C": "The unemployment rate drops by approximately 4 percentage points from high school to doctoral level.",
+        "D": "A master's degree holder earns $13,600 more per year than a bachelor's degree holder."
+      },
+      "correctAnswer": "B",
+      "explanation": "Sonucun iki bileşeni var: gelir artışı VE iş güvencesi artışı. B her ikisini de her seviyede kapsıyor. A, C ve D sadece tek bir veri noktasına odaklanıyor.",
+      "trapExplanation": {
+        "A": "ONE METRIC ONLY — Sadece geliri karşılaştırıyor, iş güvencesini değil.",
+        "C": "ONE METRIC ONLY — Sadece işsizlik oranını ele alıyor.",
+        "D": "TOO SPECIFIC — Tek bir karşılaştırma noktası; 'consistent' iddiasını desteklemiyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B comprehensively supports the economist's dual conclusion by affirming that both median income increases and unemployment rates decrease at every successive educational credential.",
+      "trapExplanationEN": {
+        "A": "ONE METRIC ONLY — Focuses exclusively on doctoral income while omitting job security metrics.",
+        "C": "ONE METRIC ONLY — Examines only unemployment rate without integrating income data.",
+        "D": "TOO SPECIFIC — Highlights a single isolated comparison between master's and bachelor's degrees."
+      }
+    }
+  ],
+  "1D": [
+    {
+      "id": "1D-Q1",
+      "lessonId": "1D",
+      "difficulty": "medium",
+      "passage": "During the Great Depression, many middle-class Americans became dependent on government relief for the first time. Men who had defined their identity through their roles as providers experienced significant declines in self-worth. Sociologists noted increases in family tensions, social withdrawal, and domestic conflict.",
+      "question": "What can most reasonably be inferred?",
+      "choices": {
+        "A": "The Great Depression caused a permanent decline in the American middle class.",
+        "B": "Government relief programs were insufficient to meet the needs of struggling families.",
+        "C": "Cultural expectations around gender and financial provision influenced how individuals experienced economic hardship.",
+        "D": "Women were less affected by the psychological consequences of the Depression than men."
+      },
+      "correctAnswer": "C",
+      "explanation": "Metin erkeklerin 'sağlayıcı rolü üzerine kurulu kimliklerinden' bahsediyor. Bu, kültürel beklentilerin psikolojik deneyimi şekillendirdiğini ima ediyor. A ve B metinde desteklenmiyor. D aşırı çıkarım.",
+      "trapExplanation": {
+        "A": "NOT SUPPORTED — Metin kalıcı bir orta sınıf çöküşünden söz etmiyor.",
+        "B": "NOT SUPPORTED — Programların yetersizliği metin tarafından ima edilmiyor.",
+        "D": "OVERINFERENCE — Metin kadınları doğrudan ele almıyor; karşılaştırma yapılamaz."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C is logically deduced from the text's observation that men who defined their self-worth through their provider roles suffered severe identity distress during economic hardship.",
+      "trapExplanationEN": {
+        "A": "NOT SUPPORTED — The passage does not claim that the American middle class suffered permanent dissolution.",
+        "B": "NOT SUPPORTED — The adequacy or inadequacy of government relief is never evaluated in the text.",
+        "D": "OVERINFERENCE — The text makes no comparative psychological assessment regarding female experiences."
+      }
+    },
+    {
+      "id": "1D-Q2",
+      "lessonId": "1D",
+      "difficulty": "hard",
+      "passage": "The reintroduction of wolves to Yellowstone in 1995 triggered a trophic cascade. Wolves preyed on elk, altering elk grazing behavior. Elk avoided riverbanks where they were vulnerable, allowing vegetation to recover. Recovered vegetation stabilized riverbanks, reduced erosion, and altered river courses. The physical landscape changed because wolves were present.",
+      "question": "Which inference is best supported?",
+      "choices": {
+        "A": "Wolves are the most important species in any ecosystem they inhabit.",
+        "B": "The absence of a predator species can have effects beyond changes in prey population numbers.",
+        "C": "Elk populations in Yellowstone had become unsustainably large before 1995.",
+        "D": "River erosion in Yellowstone was caused solely by elk overgrazing."
+      },
+      "correctAnswer": "B",
+      "explanation": "Kurt yokluğu → elk davranışı → bitki örtüsü → nehirler → fiziksel peyzaj. Bu zincir, yırtıcı etkisinin sayı ötesinde fiziksel peyzaja uzandığını gösteriyor. A 'any ecosystem' aşırı. C metin desteklemiyor. D 'solely' aşırı.",
+      "trapExplanation": {
+        "A": "OVERREACH — 'Most important' ve 'any ecosystem' → metin bunu iddia etmiyor.",
+        "C": "NOT STATED — Elk nüfus büyüklüğü hakkında bilgi yok.",
+        "D": "EXTREME — 'Solely' çok güçlü; başka faktörler de olabilir."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B logically follows from the ecological cascade: the return of predators altered elk grazing patterns, which stabilized riverbanks and reconfigured the physical landscape.",
+      "trapExplanationEN": {
+        "A": "OVERREACH — 'The most important species in any ecosystem' is an extreme, unsupported generalization.",
+        "C": "NOT STATED — Historical elk population capacity prior to 1995 is not documented.",
+        "D": "EXTREME — 'Solely' is unwarranted; river erosion involves diverse hydrological factors."
+      }
+    },
+    {
+      "id": "1D-Q3",
+      "lessonId": "1D",
+      "difficulty": "medium",
+      "passage": "Unlike Egyptian or Mesopotamian cities, Indus Valley cities lack monumental structures such as temples, palaces, or royal tombs. Homes across different neighborhoods show relatively similar sizes. No clear evidence of a warrior class or military hierarchy has been found.",
+      "question": "What does the passage most strongly imply about monumental architecture and ancient societies?",
+      "choices": {
+        "A": "Monumental architecture was the primary means by which rulers demonstrated military power.",
+        "B": "Ancient civilizations that built monuments were always more advanced than those that did not.",
+        "C": "The presence of monumental architecture may indicate significant social hierarchies.",
+        "D": "The Indus Civilization deliberately destroyed its monuments to appear egalitarian."
+      },
+      "correctAnswer": "C",
+      "explanation": "Anıtsal yapı yok = eşitlikçi yapı bağlantısı kurulmuş. Tersten: anıtsal yapı var → hiyerarşi mevcut. Bu en küçük ve desteklenebilir çıkarım adımı.",
+      "trapExplanation": {
+        "A": "OVERSPECIFIC — Metin anıtsal mimariyi askerî güçle özellikle bağlamıyor.",
+        "B": "EXTREME — 'Always more advanced' çok güçlü; metin böyle bir hiyerarşi kurmadı.",
+        "D": "NOT STATED — Bilinçli yıkım iddiası tamamen spekülatif."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C reasonably infers that because egalitarian Indus cities lacked palaces and monuments, the presence of monumental architecture elsewhere correlates with stratified social hierarchies.",
+      "trapExplanationEN": {
+        "A": "OVERSPECIFIC — Monumental architecture is not identified as an exclusively military display.",
+        "B": "EXTREME — 'Always more advanced' is an unsubstantiated value judgment.",
+        "D": "NOT STATED — Deliberate destruction of monuments is pure historical speculation."
+      }
+    },
+    {
+      "id": "1D-Q4",
+      "lessonId": "1D",
+      "difficulty": "hard",
+      "passage": "Linguists note that when a language disappears, it takes with it unique ways of categorizing the world. The Hopi language has no grammatical tense in the conventional sense—speakers encode time through other means. Several Arctic languages have extensive vocabularies for ice conditions with no European equivalent.",
+      "question": "Which can most reasonably be inferred?",
+      "choices": {
+        "A": "Speakers of Hopi cannot understand the concept of past, present, and future events.",
+        "B": "European languages are less sophisticated than Arctic languages in describing natural phenomena.",
+        "C": "A language's structure may reflect and shape its speakers' perception of the world.",
+        "D": "All endangered languages should be preserved regardless of the cost."
+      },
+      "correctAnswer": "C",
+      "explanation": "Hopi zaman kodlaması + Arktik kar kelime dağarcığı → dil yapısı dünya algısını hem yansıtıyor hem şekillendirebiliyor. C bu çıkarımı destekliyor. A 'cannot understand' aşırı. B değer yargısı. D normatif, metinde yok.",
+      "trapExplanation": {
+        "A": "OVERINFERENCE — Hopi dili zamanı farklı kodluyor, ama bu 'anlayamaz' anlamına gelmiyor.",
+        "B": "VALUE JUDGMENT — Metin sofistike karşılaştırması yapmıyor.",
+        "D": "NORMATIVE — Metin bir koruma çağrısı yapmıyor; bu çıkarım yapılamaz."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C captures the linguistic relativity principle implied by the text: grammatical structures (like Hopi time) and specialized lexicons reflect and influence cultural perceptions of reality.",
+      "trapExplanationEN": {
+        "A": "OVERINFERENCE — Encoding time differently does not imply an inability to perceive temporal events.",
+        "B": "VALUE JUDGMENT — The passage draws descriptive distinctions without ranking language sophistication.",
+        "D": "NORMATIVE — The text does not advocate policy recommendations regarding preservation costs."
+      }
+    },
+    {
+      "id": "1D-Q5",
+      "lessonId": "1D",
+      "difficulty": "medium",
+      "passage": "Children given free choice of reading material read on average 40% more pages per week and scored higher on reading enjoyment. However, the assigned-text group showed slightly stronger performance on comprehension assessments of unfamiliar texts, suggesting structured exposure to challenging material builds transferable skills.",
+      "question": "What can most reasonably be inferred?",
+      "choices": {
+        "A": "Elementary teachers should always allow students to choose their own reading material.",
+        "B": "Reading enjoyment and reading comprehension skill are mutually exclusive goals.",
+        "C": "The most effective reading instruction may require balancing student autonomy with structured challenge.",
+        "D": "Children who read more pages per week will always develop stronger comprehension skills."
+      },
+      "correctAnswer": "C",
+      "explanation": "Her grubun farklı avantajları var: serbest seçim → daha fazla okuma; atanan metin → daha iyi anlama. Bu, denge kurmanın gerekebileceğini ima ediyor.",
+      "trapExplanation": {
+        "A": "EXTREME — 'Always' çok güçlü; çalışma tek bir yaklaşımı önermedi.",
+        "B": "DISTORTION — 'Mutually exclusive' çok güçlü; her ikisi de geliştirilebilir.",
+        "D": "OVERINFERENCE — Metin sayfa sayısı ile anlama arasında doğrudan nedensellik kurmadı."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C reconciles the contrasting findings: free choice enhances volume and enjoyment, while assigned reading strengthens rigorous comprehension, suggesting a balanced instructional strategy.",
+      "trapExplanationEN": {
+        "A": "EXTREME — 'Always allow' contradicts the finding that structured assigned texts provide distinct benefits.",
+        "B": "DISTORTION — Enjoyment and comprehension are not shown to be mutually exclusive.",
+        "D": "OVERINFERENCE — Page volume does not automatically guarantee superior analytical comprehension."
+      }
+    }
+  ],
+  "2A": [
+    {
+      "id": "2A-Q1",
+      "lessonId": "2A",
+      "difficulty": "easy",
+      "passage": "The scientist's initial hypothesis was elegant but fragile: a single contradictory finding could shatter it entirely. She knew she would need to gather substantial evidence before presenting her theory.",
+      "question": "As used in the text, \"fragile\" most nearly means:",
+      "choices": {
+        "A": "physically delicate",
+        "B": "easily disproven",
+        "C": "incomplete",
+        "D": "poorly reasoned"
+      },
+      "correctAnswer": "B",
+      "explanation": "Metindeki 'a single contradictory finding could shatter it entirely' ifadesi, hipotezin en ufak bir çelişkili bulguyla kolayca çürütülebileceğini ve yıkılabileceğini açıkça ortaya koymaktadır.",
+      "trapExplanation": {
+        "A": "LITERAL — Fiziksel kırılganlık; bağlam bilimsel argüman hakkında.",
+        "C": "CLOSE BUT WRONG — Eksik değil, kolayca yıkılabilir.",
+        "D": "UNSUBSTANTIATED — Metin mantık kalitesinden söz etmiyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B correctly interprets 'fragile' in an academic context: a single contradictory finding could shatter it, meaning the hypothesis is easily disproven or vulnerable to falsification.",
+      "trapExplanationEN": {
+        "A": "LITERAL — Pertains to physical brittleness, which is inapplicable to an abstract scientific theory.",
+        "C": "CLOSE BUT WRONG — The hypothesis was structurally elegant, not merely incomplete.",
+        "D": "UNSUBSTANTIATED — The text praises its elegance rather than criticizing its reasoning."
+      }
+    },
+    {
+      "id": "2A-Q2",
+      "lessonId": "2A",
+      "difficulty": "easy",
+      "passage": "Nineteenth-century critics largely dismissed the impressionist painters, viewing their loose brushwork and focus on fleeting light as a lack of technical discipline rather than an intentional artistic choice.",
+      "question": "As used in the text, \"dismissed\" most nearly means:",
+      "choices": {
+        "A": "fired from a job",
+        "B": "sent away",
+        "C": "disregarded as unworthy",
+        "D": "briefly considered"
+      },
+      "correctAnswer": "C",
+      "explanation": "Metinde eleştirmenlerin empresyonist ressamları 'teknik disiplinsizlik' olarak nitelemesi, onların eserlerini ciddiye almayıp değersiz bularak reddettiklerini (disregarded as unworthy) net şekilde göstermektedir.",
+      "trapExplanation": {
+        "A": "LITERAL — İşten çıkarmak; burada sanat eleştirisi bağlamı.",
+        "B": "LITERAL — Fiziksel uzaklaştırma; mecazi kullanım.",
+        "D": "CLOSE BUT WRONG — 'Briefly considered' değil, tamamen görmezden gelme."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C accurately reflects the critical reception: viewing Impressionist brushwork as undisciplined meant critics disregarded the artists as unworthy of serious artistic acclaim.",
+      "trapExplanationEN": {
+        "A": "LITERAL — Refers to employment termination, which does not fit an art critique context.",
+        "B": "LITERAL — Refers to physical removal from a room or location.",
+        "D": "CLOSE BUT WRONG — 'Briefly considered' contradicts the categorical rejection implied."
+      }
+    },
+    {
+      "id": "2A-Q3",
+      "lessonId": "2A",
+      "difficulty": "medium",
+      "passage": "The documentary offered a searing portrait of inequality in post-industrial cities, drawing on interviews with workers who had lost their livelihoods. Critics praised its unflinching honesty.",
+      "question": "As used in the text, \"searing\" most nearly means:",
+      "choices": {
+        "A": "extremely hot",
+        "B": "cooking at high heat",
+        "C": "intensely critical and vivid",
+        "D": "technically impressive"
+      },
+      "correctAnswer": "C",
+      "explanation": "'Unflinching honesty' ve 'portrait of inequality' bağlamında 'searing' = acı verici derecede dürüst ve canlı.",
+      "trapExplanation": {
+        "A": "LITERAL — Fiziksel ısı; burada mecazi kullanım.",
+        "B": "LITERAL — Pişirme anlamı; bu SAT'ın klasik birincil anlam tuzağı.",
+        "D": "NOT SUPPORTED — Teknik mükemmellik bağlamda yok."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C captures the figurative force of 'searing': praised for 'unflinching honesty,' the documentary offered an intensely critical, vivid, and piercing depiction of inequality.",
+      "trapExplanationEN": {
+        "A": "LITERAL — Pertains to physical temperature, a classic SAT distractor trap.",
+        "B": "LITERAL — Culinary definition of flash-cooking at high heat.",
+        "D": "NOT SUPPORTED — Focuses on emotional intensity and candor rather than technical craftsmanship."
+      }
+    },
+    {
+      "id": "2A-Q4",
+      "lessonId": "2A",
+      "difficulty": "medium",
+      "passage": "Although the treaty was hailed as a diplomatic triumph at signing, its provisions proved hollow in practice: enforcement mechanisms were weak and signatory nations routinely ignored their commitments.",
+      "question": "As used in the text, \"hollow\" most nearly means:",
+      "choices": {
+        "A": "empty in the center",
+        "B": "having a low, resonant sound",
+        "C": "lacking real substance or sincerity",
+        "D": "difficult to understand"
+      },
+      "correctAnswer": "C",
+      "explanation": "'Weak enforcement + nations ignored commitments' bağlamı → anlamsız, boş bir zafer. Fiziksel 'boş' anlamı (A) ya da ses (B) burada geçersiz.",
+      "trapExplanation": {
+        "A": "LITERAL — Fiziksel boşluk; mecazi bağlamda yanlış.",
+        "B": "LITERAL — Akustik anlam; tamamen alakasız.",
+        "D": "NOT SUPPORTED — Anlaşılmazlık bağlamda ima edilmiyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C correctly identifies the metaphorical meaning: with weak enforcement and ignored commitments, the treaty's promises lacked genuine substance and proved completely empty.",
+      "trapExplanationEN": {
+        "A": "LITERAL — Physical emptiness inside an object; inapplicable to legal statutes.",
+        "B": "LITERAL — Acoustic description of low-frequency reverberant sound.",
+        "D": "NOT SUPPORTED — The provisions were not intellectually confusing; they were simply ignored."
+      }
+    },
+    {
+      "id": "2A-Q5",
+      "lessonId": "2A",
+      "difficulty": "hard",
+      "passage": "The philosopher's argument was slippery—each time a critic seemed to pin down a flaw, the position shifted subtly, making a definitive refutation nearly impossible.",
+      "question": "As used in the text, \"slippery\" most nearly means:",
+      "choices": {
+        "A": "physically smooth",
+        "B": "deceitful and untrustworthy",
+        "C": "difficult to grasp or definitively address",
+        "D": "loosely constructed"
+      },
+      "correctAnswer": "C",
+      "explanation": "Metindeki 'pin down... nearly impossible' ifadesi, filozofun argümanının her eleştiride yön değiştirmesi nedeniyle eleştirmenler tarafından kesin olarak yakalanıp çürütülmesinin neredeyse imkansız olduğunu vurgulamaktadır.",
+      "trapExplanation": {
+        "A": "LITERAL — Fiziksel pürüzsüzlük; mecazi bağlamda yanlış.",
+        "B": "CLOSE BUT WRONG — Yanıltıcı olabilir ama metin kasıtlı aldatmadan değil, argümanın kaygan yapısından söz ediyor.",
+        "D": "NOT SUPPORTED — Gevşek yapı metin tarafından ima edilmiyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C fits the intellectual maneuvering described: because the philosopher's stance shifted whenever critics approached a flaw, the argument was difficult to grasp or definitively refute.",
+      "trapExplanationEN": {
+        "A": "LITERAL — Physical lubricity or smoothness.",
+        "B": "CLOSE BUT WRONG — 'Deceitful' implies moral dishonesty, whereas the text highlights intellectual elusiveness.",
+        "D": "NOT SUPPORTED — The issue was evasiveness rather than loose construction."
+      }
+    }
+  ],
+  "2B": [
+    {
+      "id": "2B-Q1",
+      "lessonId": "2B",
+      "difficulty": "medium",
+      "passage": "Many scholars argue social media algorithms primarily drive political polarization. However, research by Levi and Morales (2021) complicates this picture. Their analysis across twelve countries found heavy social media users were not consistently more polarized. These findings don't exonerate social media, but suggest the relationship is far more context-dependent than simple narratives imply.",
+      "question": "The primary purpose of the passage is to:",
+      "choices": {
+        "A": "argue that social media has no effect on political polarization.",
+        "B": "summarize Levi and Morales' research methods in detail.",
+        "C": "challenge an oversimplified narrative about social media and polarization by presenting complicating evidence.",
+        "D": "call for government regulation of social media algorithms."
+      },
+      "correctAnswer": "C",
+      "explanation": "'However + complicates + context-dependent than simple narratives' → [COUNTER/QUALIFY] yapısı. Yazar kesin bir karşı argüman değil, nüanslı bir itiraz sunuyor.",
+      "trapExplanation": {
+        "A": "EXTREME — Metin 'no effect' değil, 'more complex than assumed' diyor.",
+        "B": "TOO SPECIFIC — Araştırma yöntemleri odak noktası değil.",
+        "D": "NOT STATED — Düzenleme çağrısı metinde yok."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C defines the overarching rhetorical objective: presenting nuanced survey data to challenge an oversimplified narrative that algorithms unconditionally drive political polarization.",
+      "trapExplanationEN": {
+        "A": "EXTREME — The author explicitly notes the findings 'do not exonerate social media entirely.'",
+        "B": "TOO SPECIFIC — Methodological descriptions serve only as supporting background.",
+        "D": "NOT STATED — The author does not propose legislative or regulatory mandates."
+      }
+    },
+    {
+      "id": "2B-Q2",
+      "lessonId": "2B",
+      "difficulty": "easy",
+      "passage": "To understand the scale of the crisis, consider the plight of the Aral Sea. Once the fourth-largest lake, spanning 68,000 km², it has shrunk to less than 10% of its original size. Fishing communities now live miles from the water's edge, and the exposed seabed generates toxic dust storms affecting millions.",
+      "question": "The main purpose of this paragraph is to:",
+      "choices": {
+        "A": "explain the technical details of Soviet irrigation policy.",
+        "B": "provide a concrete example illustrating the severity of water mismanagement.",
+        "C": "argue that all large lakes are at risk from agricultural practices.",
+        "D": "describe the health consequences of toxic dust storms."
+      },
+      "correctAnswer": "B",
+      "explanation": "'To understand the scale of the crisis, consider...' girişi, yazarın su kaynaklarının kötü yönetiminin yıkıcı sonuçlarını okuyucunun zihninde somutlaştırmak için Aral Gölü örneğini bir illüstrasyon olarak sunduğunu kanıtlar.",
+      "trapExplanation": {
+        "A": "TOO SPECIFIC — Teknik politika detayları odak değil.",
+        "C": "OVERREACH — 'All large lakes' genellemesi metinde yok.",
+        "D": "TOO NARROW — Toz fırtınaları sadece son detay."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B identifies the illustrative function of the paragraph: the Aral Sea's dramatic desiccation serves as a concrete case study highlighting the catastrophic scale of water mismanagement.",
+      "trapExplanationEN": {
+        "A": "TOO SPECIFIC — Detailed irrigation policies are secondary to the ecological outcome.",
+        "C": "OVERREACH — The text does not claim every large lake faces imminent desiccation.",
+        "D": "TOO NARROW — Dust storms represent only the concluding consequence mentioned."
+      }
+    },
+    {
+      "id": "2B-Q3",
+      "lessonId": "2B",
+      "difficulty": "hard",
+      "passage": "Most early studies of sleep deprivation focused on cognitive consequences. More recently, researchers turned to metabolic effects—links between sleep loss and type 2 diabetes, obesity, and cardiovascular disease. This shift reflects a growing recognition that sleep is not merely neural recovery but a physiologically active state with systemic health implications.",
+      "question": "What does the third sentence primarily do in the passage?",
+      "choices": {
+        "A": "It introduces a new research finding about sleep deprivation.",
+        "B": "It explains why early researchers focused on cognitive effects.",
+        "C": "It interprets the significance of the research shift described in the passage.",
+        "D": "It challenges the findings of recent metabolic research."
+      },
+      "correctAnswer": "C",
+      "explanation": "Üçüncü cümledeki 'This shift reflects a growing recognition...' ifadesi, araştırmaların bilişsel alandan metabolik alana kaymasının bilim dünyasında ne anlama geldiğini açıklayan ve yorumlayan bir işlev üstlenmektedir.",
+      "trapExplanation": {
+        "A": "WRONG FUNCTION — Yeni bir bulgu değil, yorumlama cümlesi.",
+        "B": "WRONG DIRECTION — Erken araştırmacıları değil, geçiş nedenini açıklıyor.",
+        "D": "OPPOSITE — Çürütme değil, destekleyici yorum."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C correctly characterizes the third sentence's interpretive role: it explains what the scientific shift toward metabolic impacts signifies for our conceptual understanding of sleep.",
+      "trapExplanationEN": {
+        "A": "WRONG FUNCTION — It provides an overarching interpretation rather than reporting a novel data point.",
+        "B": "WRONG DIRECTION — It contextualizes the modern shift rather than analyzing historical motives.",
+        "D": "OPPOSITE — It corroborates and validates the significance of metabolic findings."
+      }
+    },
+    {
+      "id": "2B-Q4",
+      "lessonId": "2B",
+      "difficulty": "medium",
+      "passage": "The novel's opening chapter plunges readers into catastrophe's aftermath without explanation. Ruins smolder; survivors move silently. Only gradually, through flashbacks, does the reader piece together what destroyed the city. This structural choice—withholding information while saturating the text with consequences—creates grief that precedes understanding.",
+      "question": "The passage primarily argues that:",
+      "choices": {
+        "A": "the novel's plot structure is confusing and poorly organized.",
+        "B": "the opening chapter's lack of explanation is an intentional structural decision creating a specific emotional effect.",
+        "C": "flashbacks are the most effective literary device for conveying backstory.",
+        "D": "readers must understand a catastrophe before they can feel grief about it."
+      },
+      "correctAnswer": "B",
+      "explanation": "Yazar açılış bölümünde felaketin nedenini açıklamayarak doğrudan sonuçlarına odaklanmanın, okuyucuda anlama sürecinden önce güçlü bir yas ve keder duygusu uyandırmayı hedefleyen bilinçli bir yapısal tercih olduğunu savunmaktadır.",
+      "trapExplanation": {
+        "A": "OPPOSITE — Yazar yapıyı 'bilinçli seçim' olarak kastediyor, 'karışıklık' değil.",
+        "C": "OVERGENERALIZATION — Flashback'ler 'most effective' olarak sunulmuyor.",
+        "D": "OPPOSITE — Metin 'grief precedes understanding' diyor, tersi değil."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B articulates the literary critique: withholding narrative exposition in the opening chapter was a deliberate aesthetic strategy designed to evoke grief before intellectual comprehension.",
+      "trapExplanationEN": {
+        "A": "OPPOSITE — The author commends the structural strategy rather than criticizing it as disoriented.",
+        "C": "OVERGENERALIZATION — The author evaluates this specific novel rather than declaring flashbacks the single best device.",
+        "D": "OPPOSITE — The text emphasizes that grief preceded understanding in this work."
+      }
+    },
+    {
+      "id": "2B-Q5",
+      "lessonId": "2B",
+      "difficulty": "hard",
+      "passage": "Critics of the gig economy focus on the lack of benefits and job security. This is a legitimate concern. Yet the flexibility critics decry is precisely what draws many workers to platforms. Surveys show a significant portion report high satisfaction with autonomy. A complete assessment must weigh both structural vulnerabilities and the genuine value participants derive.",
+      "question": "What is the function of \"This is a legitimate concern.\"?",
+      "choices": {
+        "A": "It introduces the author's main argument.",
+        "B": "It acknowledges the validity of the opposing view before presenting a counterpoint.",
+        "C": "It provides evidence for the claim that gig workers lack benefits.",
+        "D": "It signals the author agrees completely with critics."
+      },
+      "correctAnswer": "B",
+      "explanation": "Klasik [CONCEDE] cümlesi → 'Yet' ile karşı argümana geçiş yapıyor. Yazar karşı görüşü kısmen kabul edip ardından kendi argümanını sunuyor.",
+      "trapExplanation": {
+        "A": "WRONG POSITION — Bu ana argüman değil, bir taviz.",
+        "C": "WRONG FUNCTION — Kanıt değil, kabul cümlesi.",
+        "D": "INCOMPLETE — 'Completely agrees' yanlış; yazar hemen ardından itiraz ediyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B captures the concessionary function: acknowledging that gig workers face legitimate vulnerabilities allows the author to build a balanced, nuanced counterpoint regarding autonomy.",
+      "trapExplanationEN": {
+        "A": "WRONG POSITION — It constitutes a concession rather than the author's primary thesis.",
+        "C": "WRONG FUNCTION — It concedes a point rather than introducing statistical evidence.",
+        "D": "INCOMPLETE — 'Agrees completely' overlooks the author's subsequent defense of worker autonomy."
+      }
+    }
+  ],
+  "2C": [
+    {
+      "id": "2C-Q1",
+      "lessonId": "2C",
+      "difficulty": "medium",
+      "isDoubleText": true,
+      "passage": "Text 1: Developmental psychologists argue free, unstructured play is essential to healthy childhood development—building problem-solving, emotional regulation, and social competence.\n\nText 2: A 2023 longitudinal study tracked 1,200 children from preschool through third grade. Children in structured academic preschool demonstrated stronger literacy and numeracy at school entry. By third grade, however, the gap had largely closed, with no significant differences in academic performance.",
+      "question": "How does Text 2 relate to Text 1's argument?",
+      "choices": {
+        "A": "It directly contradicts Text 1 by proving free play has no developmental benefits.",
+        "B": "It partially supports Text 1 by showing early academic advantages from structured programs are temporary.",
+        "C": "It fully supports Text 1 by demonstrating structured preparation is harmful.",
+        "D": "It is unrelated because it focuses on academic performance rather than social development."
+      },
+      "correctAnswer": "B",
+      "explanation": "Gap kapanıyor → yapılandırılmış avantaj geçici → Metin 1'i dolaylı destekliyor (serbest oyun uzun vadede aynı sonucu üretiyor). 'Directly contradicts' veya 'fully supports' aşırı.",
+      "trapExplanation": {
+        "A": "OVERCLAIM — 'No benefits' yok; metin sadece akademik avantajın geçici olduğunu gösteriyor.",
+        "C": "OPPOSITE — 'Harmful' demiyor; gap kapandı diyor.",
+        "D": "CONNECTED — Akademik performans, Metin 1'in iddiasıyla ilgili."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B captures the nuanced empirical relationship: Text 2 shows structured preschool advantages fade by third grade, partially supporting Text 1's thesis that early academic drills offer no lasting superiority over play.",
+      "trapExplanationEN": {
+        "A": "OVERCLAIM — Text 2 does not prove play lacks benefits; it confirms equal long-term outcomes.",
+        "C": "OPPOSITE — Text 2 does not demonstrate that structured preparation causes harm.",
+        "D": "CONNECTED — Academic readiness is directly relevant to the developmental debate in Text 1."
+      }
+    },
+    {
+      "id": "2C-Q2",
+      "lessonId": "2C",
+      "difficulty": "hard",
+      "isDoubleText": true,
+      "passage": "Text 1: Historian Amara Diallo argues the narrative of the slave trade as purely European overlooks African political elites who actively participated in capture and sale. Acknowledging this complexity is essential for historical accuracy.\n\nText 2: Scholar Marcus Webb contends that while African participation was real, framing it as equivalent to European agency misrepresents power dynamics. European demand created commercial incentive, and European military power structured the trade in ways African actors couldn't unilaterally alter.",
+      "question": "What would Webb most likely say about Diallo's argument?",
+      "choices": {
+        "A": "It is completely accurate and should be adopted without modification.",
+        "B": "It raises a valid historical point but risks creating a misleading equivalence between African and European agency.",
+        "C": "It ignores the economic incentives that drove European slave traders.",
+        "D": "It overstates African participation to an indefensible degree."
+      },
+      "correctAnswer": "B",
+      "explanation": "Webb Afrika katılımını kabul ediyor (Diallo'ya kısmen hak veriyor) ama güç eşitsizliğini göz ardı etmenin yanıltıcı olduğunu ekliyor.",
+      "trapExplanation": {
+        "A": "OPPOSITE — Webb Diallo'yu tam onaylamıyor; itirazı var.",
+        "C": "WRONG DIRECTION — Webb bu argümanı Diallo'ya yöneltmiyor.",
+        "D": "OVERREACH — Webb 'indefensible' demiyor; sadece 'misrepresents power dynamics' diyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B accurately frames Webb's critique: while accepting African participation as historical fact, he warns that Diallo's framing risks creating a false moral and structural equivalence between African and European power.",
+      "trapExplanationEN": {
+        "A": "OPPOSITE — Webb explicitly qualifies and critiques Diallo's thesis.",
+        "C": "WRONG DIRECTION — Webb argues European economic demand was the primary driving engine.",
+        "D": "OVERREACH — Webb acknowledges African participation rather than labeling Diallo's claims indefensible."
+      }
+    },
+    {
+      "id": "2C-Q3",
+      "lessonId": "2C",
+      "difficulty": "medium",
+      "isDoubleText": true,
+      "passage": "Text 1: Chomsky proposed all humans are born with an innate language acquisition device—a biological predisposition explaining why children across cultures acquire language rapidly despite limited instruction.\n\nText 2: When deaf children lacking a shared language were brought together in Nicaraguan schools in the 1970s, they spontaneously developed a new, complex sign language within one generation—without adult instruction. Later generations refined its grammatical complexity.",
+      "question": "How does Text 2 function in relation to Text 1?",
+      "choices": {
+        "A": "It contradicts Text 1 by showing language acquisition requires social interaction, not innate mechanisms.",
+        "B": "It provides empirical evidence supporting the existence of an innate language acquisition capacity.",
+        "C": "It demonstrates grammatical complexity can only develop over multiple generations.",
+        "D": "It is unrelated because it discusses sign language rather than spoken language."
+      },
+      "correctAnswer": "B",
+      "explanation": "Öğretim olmadan dil oluşturmak → doğuştan gelen mekanizmayı destekliyor. Metin 2, Chomsky'nin teorisine somut bir vaka çalışması sunuyor.",
+      "trapExplanation": {
+        "A": "MISREADS — NSL vakası sosyal etkileşimi gösteriyor ama bu biyolojik mekanizmayı reddetmiyor.",
+        "C": "DISTORTION — Metin 2, bir nesilde temel dil oluştuğunu gösteriyor.",
+        "D": "IRRELEVANT DISTINCTION — İşaret dili de dil edinim mekanizmasının kanıtı olabilir."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B recognizes that deaf children spontaneously inventing Nicaraguan Sign Language without adult tutoring provides powerful real-world support for Chomsky's innate language acquisition device.",
+      "trapExplanationEN": {
+        "A": "MISREADS — The spontaneous emergence of grammar supports an innate biological predisposition.",
+        "C": "DISTORTION — Fundamental grammatical syntax emerged rapidly within a single generation.",
+        "D": "IRRELEVANT DISTINCTION — Sign languages adhere to universal linguistic grammar systems."
+      }
+    },
+    {
+      "id": "2C-Q4",
+      "lessonId": "2C",
+      "difficulty": "easy",
+      "isDoubleText": true,
+      "passage": "Text 1: Proponents of UBI argue an unconditional monthly payment reduces poverty, eliminates welfare stigma, and gives workers security to leave exploitative jobs. Pilot programs in Finland and Kenya show promising results.\n\nText 2: Economists critical of UBI raise concerns about fiscal sustainability. Providing meaningful payments to every citizen would require significant tax increases or reallocation of existing welfare spending. Critics argue targeted programs are more efficient.",
+      "question": "Which best describes the relationship between the two texts?",
+      "choices": {
+        "A": "Text 2 proves UBI programs have failed in all pilot studies.",
+        "B": "Both texts present complementary arguments that support UBI implementation.",
+        "C": "Text 1 advocates for UBI while Text 2 raises fiscal and efficiency-based objections.",
+        "D": "Text 2 argues that targeted welfare programs cause social stigma."
+      },
+      "correctAnswer": "C",
+      "explanation": "Metin 1 evrensel temel gelirin yoksulluğu azaltıcı ve özgürleştirici avantajlarını savunurken, Metin 2 kamu bütçesi ve mali sürdürülebilirlik açısından bu politikaya yönelik ciddi eleştiriler ve hedefe yönelik program alternatifleri sunmaktadır.",
+      "trapExplanation": {
+        "A": "OVERCLAIM — 'All failed' yok; metin pilot başarısından değil, sürdürülebilirlikten söz ediyor.",
+        "B": "OPPOSITE — İki metin destekleyici değil, tartışmalı.",
+        "D": "WRONG TEXT — Damgalanma argümanı Metin 1'e ait."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C succinctly contrasts the competing frameworks: Text 1 champions UBI for poverty alleviation, while Text 2 highlights fiscal deficits and advocates targeted welfare efficiency.",
+      "trapExplanationEN": {
+        "A": "OVERCLAIM — Text 2 raises macro-fiscal concerns rather than claiming all pilots failed.",
+        "B": "OPPOSITE — The two texts present conflicting ideological and economic stances.",
+        "D": "WRONG TEXT — The social stigma of targeted welfare is argued in Text 1, not Text 2."
+      }
+    },
+    {
+      "id": "2C-Q5",
+      "lessonId": "2C",
+      "difficulty": "hard",
+      "isDoubleText": true,
+      "passage": "Text 1: Marine biologist Dr. Chen Wei argues large no-take marine protected areas are the most effective strategy for rebuilding fish populations. When fishing is prohibited, ecosystems recover rapidly and fish spill over into adjacent areas.\n\nText 2: A review of 87 MPA studies found effectiveness varied dramatically based on enforcement, local ecological conditions, and target species mobility. Well-enforced tropical MPAs showed strong recovery, but several high-latitude MPAs showed minimal improvement despite fishing bans.",
+      "question": "How does Text 2 affect Text 1's argument?",
+      "choices": {
+        "A": "It refutes Text 1 by proving MPAs are ineffective.",
+        "B": "It fully supports Text 1 by confirming no-take MPAs always lead to recovery.",
+        "C": "It complicates Text 1 by showing MPA effectiveness depends on factors beyond simply banning fishing.",
+        "D": "It is irrelevant because it focuses only on high-latitude regions."
+      },
+      "correctAnswer": "C",
+      "explanation": "Bazı MPA'lar işe yarıyor, bazıları yaramıyor → bağlam önemli. Bu Metin 1'i tamamen çürütmüyor ama basitleştirici argümanı sınırlandırıyor → [COMPLICATE].",
+      "trapExplanation": {
+        "A": "OVERCLAIM — 'Ineffective' değil; bazıları etkili, bazıları değil.",
+        "B": "OPPOSITE — 'Always' yanlış; Metin 2 tam tersini gösteriyor.",
+        "D": "MISREAD — Metin 2 tropikal MPA'ları da kapsıyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C correctly identifies the complicating effect: by demonstrating that MPA outcomes hinge on enforcement and species mobility, Text 2 shows that establishing no-take zones is not an automatic panacea.",
+      "trapExplanationEN": {
+        "A": "OVERCLAIM — Text 2 confirms tropical MPAs succeeded; it does not declare MPAs ineffective.",
+        "B": "OPPOSITE — 'Always lead to recovery' is directly contradicted by high-latitude results.",
+        "D": "MISREAD — Text 2 evaluates MPAs across both tropical and high-latitude ecosystems."
+      }
+    }
+  ],
+  "3A": [
+    {
+      "id": "3A-Q1",
+      "lessonId": "3A",
+      "difficulty": "easy",
+      "notes": [
+        "Amazon rainforest covers ≈5.5 million km²",
+        "Contains roughly 10% of all Earth's species",
+        "Deforestation eliminated ≈17% since 1970",
+        "Produces about 20% of world's oxygen"
+      ],
+      "goal": "Emphasize ecological importance while noting the threat.",
+      "question": "Which choice best accomplishes this goal?",
+      "choices": {
+        "A": "The Amazon covers 5.5 million km² and has experienced 17% deforestation since 1970.",
+        "B": "Home to roughly 10% of Earth's species and producing 20% of world's oxygen, the Amazon faces a serious threat: approximately 17% has been lost to deforestation since 1970.",
+        "C": "Since 1970, approximately 17% of the Amazon has been deforested, and the forest covers 5.5 million km².",
+        "D": "The Amazon produces 20% of world's oxygen and contains 10% of Earth's species."
+      },
+      "correctAnswer": "B",
+      "explanation": "Amaç: Önce ekolojik önem → sonra tehdit. B iki önem verisi + tehdidin kombinasyonu ile amacı tam gerçekleştiriyor.",
+      "trapExplanation": {
+        "A": "PARTIAL — Boyut + tehdit; önem verileri eksik.",
+        "C": "WRONG ORDER — Tehditten başlıyor, önem vurgusunu öne almıyor.",
+        "D": "INCOMPLETE — Tehditten hiç bahsetmiyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B perfectly fulfills the dual objective by fronting the Amazon's immense biodiversity and oxygen output, followed immediately by the threat of 17% deforestation.",
+      "trapExplanationEN": {
+        "A": "PARTIAL — Mentions physical area and deforestation, omitting explicit biodiversity importance.",
+        "C": "WRONG ORDER — Focuses on deforestation history without highlighting ecological significance.",
+        "D": "INCOMPLETE — Emphasizes ecological statistics but completely ignores the environmental threat."
+      }
+    },
+    {
+      "id": "3A-Q2",
+      "lessonId": "3A",
+      "difficulty": "medium",
+      "notes": [
+        "Marie Curie won Nobel Physics 1903 (shared)",
+        "Won Nobel Chemistry 1911",
+        "First woman to win Nobel Prize",
+        "Only person to win Nobel Prizes in two different sciences"
+      ],
+      "goal": "Introduce Curie by highlighting what makes her achievement historically unique.",
+      "question": "Which choice best accomplishes this goal?",
+      "choices": {
+        "A": "Marie Curie won the Nobel Prize in Physics in 1903 and in Chemistry in 1911.",
+        "B": "Marie Curie, who worked alongside Pierre Curie, made important contributions to physics.",
+        "C": "Marie Curie was not only the first woman to win a Nobel Prize but also remains the only person ever to win Nobel Prizes in two different scientific disciplines.",
+        "D": "Marie Curie won two Nobel Prizes over her career, one in 1903 and one in 1911."
+      },
+      "correctAnswer": "C",
+      "explanation": "'Historically unique' → iki eşsiz özellik bir arada: ilk kadın + iki farklı bilim dalında tek kişi.",
+      "trapExplanation": {
+        "A": "NO UNIQUENESS — Sadece yılları veriyor; tarihsel eşsizliği göstermiyor.",
+        "B": "VAGUE — 'Important contributions' yeterince özgün değil.",
+        "D": "PARTIAL — İki Nobel var ama benzersizlik vurgusu yok."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C introduces Marie Curie while highlighting her historically unique double-distinction: the first woman to win a Nobel Prize and the only person to win across two different scientific fields.",
+      "trapExplanationEN": {
+        "A": "NO UNIQUENESS — Merely lists the years without communicating her historical uniqueness.",
+        "B": "VAGUE — 'Important contributions' is generic and fails to articulate her singular legacy.",
+        "D": "PARTIAL — Notes two Nobel Prizes but omits that they were awarded in two distinct sciences."
+      }
+    },
+    {
+      "id": "3A-Q3",
+      "lessonId": "3A",
+      "difficulty": "medium",
+      "notes": [
+        "Tokyo city proper: ≈13.96 million",
+        "Greater Tokyo Area: ≈37.4 million",
+        "World's most populous metropolitan area",
+        "Public transit: ≈8 million passengers/day"
+      ],
+      "goal": "Compare city proper and metro area to illustrate Tokyo's scale.",
+      "question": "Which choice best accomplishes this goal?",
+      "choices": {
+        "A": "Tokyo is the world's most populous metro area, with transit carrying 8 million daily passengers.",
+        "B": "While approximately 14 million people live within Tokyo proper, the Greater Tokyo Area is home to more than 37 million—making it the world's most populous metropolitan area.",
+        "C": "Tokyo's population of nearly 14 million and its transit system demonstrate its status as a world city.",
+        "D": "The Greater Tokyo Area is home to approximately 37.4 million people."
+      },
+      "correctAnswer": "B",
+      "explanation": "Amaç: şehir (**14M**) vs. büyük metro (**37M**) tam karşılaştırması. B her iki rakamı da kullanıyor.",
+      "trapExplanation": {
+        "A": "WRONG DATA — Transit verisini kullanıyor; karşılaştırma yok.",
+        "C": "INCOMPLETE COMPARISON — Büyük metro rakamı yok.",
+        "D": "ONE SIDE — Sadece metro rakamı, şehir rakamı yok."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B executes a clear comparative structure: contrasting Tokyo's city proper population (14M) directly with the Greater Tokyo Area (37M) to demonstrate metropolitan scale.",
+      "trapExplanationEN": {
+        "A": "WRONG DATA — Integrates transit passenger volume rather than contrasting the two population boundaries.",
+        "C": "INCOMPLETE — Cites city proper and transit data while omitting the greater metropolitan comparison.",
+        "D": "ONE-SIDED — Provides only metropolitan numbers, missing the required internal comparative contrast."
+      }
+    },
+    {
+      "id": "3A-Q4",
+      "lessonId": "3A",
+      "difficulty": "easy",
+      "notes": [
+        "Coffee = 2nd most traded commodity after petroleum",
+        "Brazil = world's largest producer (38% of supply)",
+        "Ethiopia = birthplace of coffee",
+        "Global industry: ≈$460 billion/year"
+      ],
+      "goal": "Highlight coffee's economic significance to a business audience.",
+      "question": "Which choice best accomplishes this goal?",
+      "choices": {
+        "A": "Ethiopia is considered the birthplace of coffee, and Brazil is the world's largest producer.",
+        "B": "Coffee, the world's second most traded commodity after petroleum, supports a global industry worth approximately $460 billion annually.",
+        "C": "Brazil produces approximately 38% of the world's coffee supply.",
+        "D": "Coffee is a historically significant beverage with origins in Ethiopia and a production center in Brazil."
+      },
+      "correctAnswer": "B",
+      "explanation": "İş dünyası → ekonomik büyüklük. B en büyük iki ekonomik veriyi (2. emtia + 460 milyar $) bir araya getiriyor.",
+      "trapExplanation": {
+        "A": "WRONG FOCUS — Tarihsel/coğrafi, ekonomik değil.",
+        "C": "TOO NARROW — Sadece tek bir üretim verisi.",
+        "D": "HISTORICAL NOT ECONOMIC — 'Historically significant' iş odağına uymuyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B targets a business audience by linking commodity market rank (second only to petroleum) with global industry valuation ($460 billion annually).",
+      "trapExplanationEN": {
+        "A": "WRONG FOCUS — Highlights geographical origins and agricultural production rather than market value.",
+        "C": "TOO NARROW — Mentions Brazil's single market share without establishing overarching industry worth.",
+        "D": "HISTORICAL NOT COMMERCIAL — Discusses cultural significance rather than business and fiscal scale."
+      }
+    },
+    {
+      "id": "3A-Q5",
+      "lessonId": "3A",
+      "difficulty": "hard",
+      "notes": [
+        "Great Barrier Reef: ≈2,300 km along Australia's northeast coast",
+        "Over 1,500 fish species; 4,000 mollusk species",
+        "≈50% of coral cover lost since 1995",
+        "Primary driver: ocean warming from climate change"
+      ],
+      "goal": "Introduce the reef and immediately establish urgency.",
+      "question": "Which choice best accomplishes this goal?",
+      "choices": {
+        "A": "The Great Barrier Reef, stretching 2,300 km along Australia's coast, has seen approximately half its coral cover disappear since 1995, driven primarily by climate-change-induced ocean warming.",
+        "B": "The Great Barrier Reef is home to over 1,500 fish species and 4,000 mollusk species.",
+        "C": "Climate change causes ocean warming, which leads to coral bleaching worldwide, including the Great Barrier Reef.",
+        "D": "The Great Barrier Reef spans 2,300 km and contains extraordinary biodiversity."
+      },
+      "correctAnswer": "A",
+      "explanation": "Amaç: tanıtım + aciliyeti hemen vurgulamak. A reef'i tanıtıp hemen kayıp oranını ve sebebini veriyor.",
+      "trapExplanation": {
+        "A": "CORRECT — Tanıtım + %50 kayıp + iklim değişikliği = aciliyet.",
+        "B": "NO URGENCY — Biyoçeşitlilik var ama tehdit yok.",
+        "C": "WRONG START — Reef'i tanıtmak yerine genel iklim sorunuyla başlıyor.",
+        "D": "NO THREAT — Tehditten hiç bahsetmiyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice A effectively introduces the Great Barrier Reef (2,300 km expanse) and establishes immediate urgency by citing 50% coral loss driven by ocean warming.",
+      "trapExplanationEN": {
+        "B": "NO URGENCY — Catalogs species diversity while omitting any mention of degradation or crisis.",
+        "C": "WRONG START — Focuses on global climate dynamics before introducing the reef itself.",
+        "D": "NO THREAT — Praises biological diversity while ignoring recent environmental loss."
+      }
+    }
+  ],
+  "3B": [
+    {
+      "id": "3B-Q1",
+      "lessonId": "3B",
+      "difficulty": "easy",
+      "passage": "Early clinical trials of the new drug showed remarkable efficacy in reducing tumor size. ______, a Phase III trial involving 3,000 patients revealed the drug also caused severe cardiovascular side effects in approximately 12% of participants.",
+      "question": "Which choice completes the text with the most logical transition?",
+      "choices": {
+        "A": "Furthermore,",
+        "B": "Therefore,",
+        "C": "However,",
+        "D": "For instance,"
+      },
+      "correctAnswer": "C",
+      "explanation": "İlk cümledeki ilacın tümörleri küçültmedeki olumlu etkisi ile ikinci cümledeki hastaların yüzde 12'sinde ciddi kardiyovasküler yan etkiler görülmesi arasında açık bir zıtlık ilişkisi olduğundan 'However' doğru geçiş kelimesidir.",
+      "trapExplanation": {
+        "A": "WRONG DIRECTION — 'Furthermore' ekleme; burada zıtlık var.",
+        "B": "WRONG RELATION — 'Therefore' neden-sonuç; burada zıtlık.",
+        "D": "WRONG RELATION — 'For instance' örnek; bu bir zıtlık cümlesi."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C provides the appropriate contrastive transition: tumor reduction was remarkably effective, 'However,' serious cardiovascular side effects emerged in Phase III trials.",
+      "trapExplanationEN": {
+        "A": "WRONG DIRECTION — 'Furthermore' introduces cumulative support rather than an adverse development.",
+        "B": "WRONG RELATION — 'Therefore' indicates logical consequence, whereas the side effects represent a contrast.",
+        "D": "WRONG RELATION — 'For instance' indicates an example rather than a contradictory trial result."
+      }
+    },
+    {
+      "id": "3B-Q2",
+      "lessonId": "3B",
+      "difficulty": "easy",
+      "passage": "Crop rotation prevents depletion of specific nutrients from the soil. ______, rotating crops reduces the buildup of pests and diseases that target specific plant species.",
+      "question": "Which choice completes the text with the most logical transition?",
+      "choices": {
+        "A": "In contrast,",
+        "B": "However,",
+        "C": "Additionally,",
+        "D": "Consequently,"
+      },
+      "correctAnswer": "C",
+      "explanation": "İlk cümlede ekim rotasyonunun topraktaki besin tükenmesini önlemesi, ikinci cümlede ise haşere ve hastalık birikimini azaltması sıralanmaktadır; iki olumlu fayda birbirine eklendiği için 'Additionally' kullanılmalıdır.",
+      "trapExplanation": {
+        "A": "WRONG — İki cümle zıt değil, aynı yönde.",
+        "B": "WRONG — 'However' zıtlık; iki fayda zıt değil.",
+        "D": "WRONG — 'Consequently' neden-sonuç; ikinci cümle birincinin sonucu değil."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C provides the additive transition: crop rotation conserves soil nutrients, and 'Additionally,' it suppresses pest and pathogen accumulation.",
+      "trapExplanationEN": {
+        "A": "WRONG RELATION — 'In contrast' indicates opposition, whereas both sentences cite agricultural benefits.",
+        "B": "WRONG RELATION — 'However' signals contrast rather than cumulative advantages.",
+        "D": "WRONG RELATION — 'Consequently' indicates cause-and-effect; pest reduction is a distinct benefit, not a consequence of soil nutrients."
+      }
+    },
+    {
+      "id": "3B-Q3",
+      "lessonId": "3B",
+      "difficulty": "medium",
+      "passage": "Ocean acidification is caused by CO₂ absorption by seawater, forming carbonic acid. ______, shellfish and corals struggle to form and maintain their structures as the water becomes more acidic.",
+      "question": "Which choice completes the text with the most logical transition?",
+      "choices": {
+        "A": "In contrast,",
+        "B": "As a result,",
+        "C": "For example,",
+        "D": "That said,"
+      },
+      "correctAnswer": "B",
+      "explanation": "İlk cümlede okyanus suyunun CO2 emerek karbonik asit oluşturması sebebi, ikinci cümlede ise kabuklu deniz canlılarının yapılarını korumakta zorlanması sonucu açıklandığından neden-sonuç belirten 'As a result' seçilmelidir.",
+      "trapExplanation": {
+        "A": "WRONG — Zıtlık yok; ikinci cümle birincinin sonucu.",
+        "C": "WRONG — 'For example' örnek ister; bu özel bir örnek değil, genel sonuç.",
+        "D": "WRONG — 'That said' kabul-itiraz yapısı; burada neden-sonuç."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B signals the cause-and-effect relationship: ocean absorption of CO2 creates carbonic acid, and 'As a result,' shell-building organisms struggle to maintain calcium structures.",
+      "trapExplanationEN": {
+        "A": "WRONG RELATION — 'In contrast' is invalid because the second clause is the direct consequence of the first.",
+        "C": "WRONG RELATION — 'For example' requires introducing an isolated specimen rather than an overarching ecological result.",
+        "D": "WRONG RELATION — 'That said' signals a concession rather than direct chemical causality."
+      }
+    },
+    {
+      "id": "3B-Q4",
+      "lessonId": "3B",
+      "difficulty": "medium",
+      "passage": "Proponents of four-day work weeks argue that reduced hours increase employee productivity. ______, a pilot program by Microsoft Japan showed a 40% increase in productivity when employees worked four-day weeks.",
+      "question": "Which choice completes the text with the most logical transition?",
+      "choices": {
+        "A": "Nevertheless,",
+        "B": "Conversely,",
+        "C": "For instance,",
+        "D": "Therefore,"
+      },
+      "correctAnswer": "C",
+      "explanation": "İlk cümlede haftada 4 gün çalışmanın çalışan verimliliğini artırdığı genel tezi öne sürülmüş, ikinci cümlede ise Microsoft Japonya'nın verimliliği yüzde 40 artıran pilot programı bu tezin somut bir örneği olarak sunulmuştur.",
+      "trapExplanation": {
+        "A": "WRONG — 'Nevertheless' kabul-itiraz; burada destek.",
+        "B": "WRONG — 'Conversely' zıtlık; Microsoft verisi destekliyor, çürütmüyor.",
+        "D": "WRONG — 'Therefore' neden-sonuç; Microsoft verisi genel argümanın nedeni değil, kanıtı."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C provides the illustrative transition: following the broad claim that four-day weeks boost productivity, Microsoft Japan's 40% surge serves as a concrete instance ('For instance').",
+      "trapExplanationEN": {
+        "A": "WRONG RELATION — 'Nevertheless' signals an unexpected concession rather than supporting evidence.",
+        "B": "WRONG RELATION — 'Conversely' indicates an antithetical outcome, but Microsoft's data confirms the claim.",
+        "D": "WRONG RELATION — 'Therefore' implies logical deduction rather than presenting experimental case data."
+      }
+    },
+    {
+      "id": "3B-Q5",
+      "lessonId": "3B",
+      "difficulty": "hard",
+      "passage": "Many researchers believed ancient humans and Neanderthals never interbred, viewing them as entirely separate species. ______, advances in ancient DNA analysis have revealed most people of non-African descent carry approximately 1–4% Neanderthal DNA, conclusively demonstrating interbreeding did occur.",
+      "question": "Which choice completes the text with the most logical transition?",
+      "choices": {
+        "A": "Similarly,",
+        "B": "As a result,",
+        "C": "In addition,",
+        "D": "However,"
+      },
+      "correctAnswer": "D",
+      "explanation": "İlk cümledeki insanların ve Neandertallerin asla çiftleşmediğine dair geçmişteki yaygın inanış, ikinci cümledeki modern DNA analizlerinin Afrika dışı topluluklarda Neandertal geni bulmasıyla çürütülmektedir; bu zıtlık için 'However' gerekir.",
+      "trapExplanation": {
+        "A": "WRONG — 'Similarly' benzerlik; burada zıtlık var.",
+        "B": "WRONG — 'As a result' neden-sonuç; DNA analizi eski inancın sonucu değil.",
+        "C": "WRONG — 'In addition' ekleme; iki fikir birbirinin tersi."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice D signals the contrastive relationship: the longstanding belief that Neanderthals and humans never interbred is directly challenged ('However') by modern DNA evidence.",
+      "trapExplanationEN": {
+        "A": "WRONG RELATION — 'Similarly' suggests parallelism, whereas the two sentences present opposing positions.",
+        "B": "WRONG RELATION — 'As a result' indicates causality; modern DNA discoveries are not caused by ancient beliefs.",
+        "C": "WRONG RELATION — 'In addition' introduces supplementary facts rather than refuting previous assumptions."
+      }
+    }
+  ],
+  "4A": [
+    {
+      "id": "4A-Q1",
+      "lessonId": "4A",
+      "difficulty": "easy",
+      "passage": "The city implemented a new recycling program in January, ______ participation rates have already exceeded 70% of households.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "and",
+        "B": "however",
+        "C": "therefore,",
+        "D": "because"
+      },
+      "correctAnswer": "A",
+      "explanation": "İki IC var. ', and' = FANBOYS ile doğru birleştirme. 'However' tek başına IC'leri birleştiremez (noktalı virgül gerekir). 'Because' bağımlı yapar.",
+      "trapExplanation": {
+        "B": "MISSING SEMICOLON — 'however' için '; however,' gerekir.",
+        "C": "COMMA SPLICE — 'therefore' bağımsız connector değil.",
+        "D": "CHANGES MEANING — 'Because' neden-sonuç ilişkisi kuruyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice A correctly joins two independent clauses using a comma accompanied by the coordinating conjunction 'and' (FANBOYS comma rule).",
+      "trapExplanationEN": {
+        "B": "MISSING SEMICOLON — 'However' is a conjunctive adverb that requires a semicolon ('; however,') to link clauses.",
+        "C": "COMMA SPLICE — 'Therefore' cannot link two independent clauses with only a preceding comma.",
+        "D": "CHANGES MEANING — Subordinating with 'because' reverses the causal relationship."
+      }
+    },
+    {
+      "id": "4A-Q2",
+      "lessonId": "4A",
+      "difficulty": "medium",
+      "passage": "______ the evidence was compelling, the jury deliberated for three days before reaching a verdict.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "Despite",
+        "B": "Although",
+        "C": "Because",
+        "D": "Since"
+      },
+      "correctAnswer": "B",
+      "explanation": "'Despite' → noun phrase ister (Despite the compelling evidence). 'Although' → tam DC cümlesi. Bağlam zıtlık (kanıt güçlü AMA uzun tartışma) → Although.",
+      "trapExplanation": {
+        "A": "WRONG GRAMMAR — 'Despite' + gerundive/noun; burada tam cümle var.",
+        "C": "WRONG LOGIC — 'Because' kanıt = uzun tartışma neden-sonucu → anlam yanlış.",
+        "D": "WRONG LOGIC — 'Since' zaman/neden; zıtlık ilişkisi kurulamıyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B correctly uses the subordinating conjunction 'Although' to introduce a dependent concession clause followed by the main independent clause.",
+      "trapExplanationEN": {
+        "A": "WRONG GRAMMAR — 'Despite' is a preposition requiring a noun phrase, not a full subject-verb clause.",
+        "C": "WRONG LOGIC — 'Because' implies jury deliberation lasted three days because the evidence was compelling, contradicting the contrast.",
+        "D": "WRONG LOGIC — 'Since' signals causal reasoning, which is inconsistent with the concessive context."
+      }
+    },
+    {
+      "id": "4A-Q3",
+      "lessonId": "4A",
+      "difficulty": "hard",
+      "passage": "The archaeologists uncovered pottery fragments, carved tools, and remnants of a hearth ______ evidence of continuous habitation spanning at least two centuries.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": ", these were",
+        "B": "—all of which constituted",
+        "C": ", they constituted",
+        "D": "; constituting"
+      },
+      "correctAnswer": "B",
+      "explanation": "A ve C comma splice. D noktalı virgül + gerund hatalı yapı. B em dash + 'all of which' açıklayıcı relative clause → doğru.",
+      "trapExplanation": {
+        "A": "COMMA SPLICE — İki IC arasına virgül.",
+        "C": "COMMA SPLICE — 'they constituted' yeni IC; virgülle bağlanamaz.",
+        "D": "INCORRECT STRUCTURE — '; constituting' geçerli bir yapı değil."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B correctly uses an em dash to introduce an appositive relative clause ('—all of which constituted') modifying the preceding artifacts without creating a comma splice.",
+      "trapExplanationEN": {
+        "A": "COMMA SPLICE — Links two independent clauses with only a comma.",
+        "C": "COMMA SPLICE — 'they constituted' initiates a new independent clause without a coordinating conjunction.",
+        "D": "INCORRECT STRUCTURE — A semicolon cannot be followed by a participial phrase fragment."
+      }
+    },
+    {
+      "id": "4A-Q4",
+      "lessonId": "4A",
+      "difficulty": "medium",
+      "passage": "Dr. Martinez has published over forty peer-reviewed articles ______ she is considered one of the leading authorities in her field.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": ",",
+        "B": "; consequently,",
+        "C": "because",
+        "D": ", despite this,"
+      },
+      "correctAnswer": "B",
+      "explanation": "İki IC + neden-sonuç ilişkisi → '; consequently,' doğru. A = comma splice. C 'because' anlam ilişkisini tersine çevirir.",
+      "trapExplanation": {
+        "A": "COMMA SPLICE — Yalnızca virgül iki IC'yi birleştiremez.",
+        "C": "LOGIC INVERSION — 'Because' yön bilgisi tersine döner.",
+        "D": "CONTRADICTION — 'Despite this' zıtlık ima ediyor; anlam uyumsuz."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B correctly links two independent clauses with a semicolon followed by the transitional adverb 'consequently' and a comma ('; consequently,').",
+      "trapExplanationEN": {
+        "A": "COMMA SPLICE — A lone comma cannot separate two independent clauses.",
+        "C": "LOGIC INVERSION — Placing 'because' before the second clause reverses the causal direction.",
+        "D": "CONTRADICTION — 'Despite this' introduces an illogical contrast between scholarly publishing and authority."
+      }
+    },
+    {
+      "id": "4A-Q5",
+      "lessonId": "4A",
+      "difficulty": "hard",
+      "passage": "______ by two years of drought, the region's agricultural output fell to its lowest level in decades.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "Devastated",
+        "B": "Having devastated",
+        "C": "Devastation",
+        "D": "To devastate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Participial phrase: 'Devastated by drought' → 'the region's output' (output = devastate EDİLEN) doğru modifier ilişkisi. B aktif anlam. C isim → yapı bozuluyor. D amaç anlamı.",
+      "trapExplanation": {
+        "B": "DANGLING MODIFIER — 'Having devastated' aktif; output bir şeyi devastate etmedi.",
+        "C": "WRONG FORM — İsim yapıyor; cümle yapısını bozuyor.",
+        "D": "WRONG MEANING — 'To devastate' amaç anlamı; 'in order to' bağlamı."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice A provides the correct past participial modifier ('Devastated by two years of drought'), which logically modifies the immediate subject 'the region's agricultural output.'",
+      "trapExplanationEN": {
+        "B": "DANGLING MODIFIER — 'Having devastated' is active voice, illogically implying that agricultural output devastated the drought.",
+        "C": "WRONG FORM — 'Devastation' creates an ungrammatical nominal fragment.",
+        "D": "WRONG MEANING — An infinitive phrase ('To devastate') illogically indicates deliberate intent or purpose."
+      }
+    }
+  ],
+  "4B": [
+    {
+      "id": "4B-Q1",
+      "lessonId": "4B",
+      "difficulty": "medium",
+      "passage": "The committee, along with several independent advisors, ______ reviewing the new policy before its implementation.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "are",
+        "B": "were",
+        "C": "is",
+        "D": "have been"
+      },
+      "correctAnswer": "C",
+      "explanation": "Özne: 'The committee' (tekil). 'Along with several independent advisors' = araya giren ifade, özneyi değiştirmez. Tekil → 'is'.",
+      "trapExplanation": {
+        "A": "AGREEMENT ERROR — 'advisors' çoğul gibi görünüyor ama özne değil.",
+        "B": "TENSE + AGREEMENT — Hem zaman hem uyum hatası.",
+        "D": "TENSE ERROR — 'Have been' present perfect; bağlamla uyumsuz."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C maintains singular subject-verb agreement: the subject is 'The committee' (singular), which governs the singular verb 'is' regardless of the intervening prepositional phrase 'along with several independent advisors.'",
+      "trapExplanationEN": {
+        "A": "AGREEMENT ERROR — 'are' is plural, mistakenly agreeing with the intervening noun 'advisors.'",
+        "B": "TENSE + AGREEMENT — 'were' is both plural and past tense, conflicting with 'before its implementation.'",
+        "D": "TENSE ERROR — 'have been' is plural and present perfect."
+      }
+    },
+    {
+      "id": "4B-Q2",
+      "lessonId": "4B",
+      "difficulty": "easy",
+      "passage": "The researchers conducted surveys, analyzed data, and ______ their findings at the annual conference.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "presenting",
+        "B": "to present",
+        "C": "presented",
+        "D": "have presented"
+      },
+      "correctAnswer": "C",
+      "explanation": "Paralel yapı: 'conducted ... analyzed ... presented' → hepsi geçmiş zaman. A/B paralel değil. D zaman tutarsızlığı.",
+      "trapExplanation": {
+        "A": "NOT PARALLEL — Gerund; listedeki diğer fiillerle uyumsuz.",
+        "B": "NOT PARALLEL — Infinitive; paralel değil.",
+        "D": "TENSE MISMATCH — Present perfect; diğerleri simple past."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C preserves grammatical parallelism in the past-tense coordinate series: 'conducted surveys, analyzed data, and presented their findings.'",
+      "trapExplanationEN": {
+        "A": "NOT PARALLEL — 'presenting' is a present participle, violating the past-tense verbal series.",
+        "B": "NOT PARALLEL — 'to present' is an infinitive, breaking series uniformity.",
+        "D": "TENSE MISMATCH — 'have presented' disrupts the simple past aspect of 'conducted' and 'analyzed.'"
+      }
+    },
+    {
+      "id": "4B-Q3",
+      "lessonId": "4B",
+      "difficulty": "hard",
+      "passage": "Every student and every teacher ______ required to complete the new training module before the semester begins.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "are",
+        "B": "were",
+        "C": "is",
+        "D": "have been"
+      },
+      "correctAnswer": "C",
+      "explanation": "'Every A and every B' → her biri ayrı ayrı düşünülür → tekil → 'is'. Zaman: şimdiki kural → C doğru.",
+      "trapExplanation": {
+        "A": "AGREEMENT TRAP — 'Student and teacher' = iki kişi gibi görünür ama 'every' tekil yapar.",
+        "B": "TENSE + AGREEMENT — İki hata birden.",
+        "D": "TENSE ERROR — Present perfect; 'before the semester begins' şimdiki zamanı işaret ediyor."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice C applies the rule that subjects preceded by 'Every' ('Every student and every teacher') are grammatically singular and require the singular verb 'is.'",
+      "trapExplanationEN": {
+        "A": "AGREEMENT TRAP — Treats 'student and teacher' as a compound plural subject.",
+        "B": "TENSE + AGREEMENT — 'were' is plural and past tense, clashing with the present requirement 'before the semester begins.'",
+        "D": "TENSE ERROR — 'have been' is plural and present perfect."
+      }
+    },
+    {
+      "id": "4B-Q4",
+      "lessonId": "4B",
+      "difficulty": "medium",
+      "passage": "The novelist, who had struggled for years to find a publisher, ______ finally able to share her story when her debut was released to critical acclaim.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "is",
+        "B": "was",
+        "C": "were",
+        "D": "has been"
+      },
+      "correctAnswer": "B",
+      "explanation": "'Was released' geçmiş zaman → tutarlılık için 'was'. Özne 'The novelist' tekil → 'were' yanlış.",
+      "trapExplanation": {
+        "A": "TENSE ERROR — Şimdiki zaman; 'was released' geçmişte.",
+        "C": "AGREEMENT ERROR — 'The novelist' tekil; 'were' çoğul.",
+        "D": "TENSE ERROR — Present perfect; geçmiş anlatıyla tutarsız."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B maintains tense consistency: the simple past passive 'when her debut was released' requires the coordinating simple past verb 'was' for the singular subject 'The novelist.'",
+      "trapExplanationEN": {
+        "A": "TENSE ERROR — 'is' is present tense, clashing with the historical past event 'was released.'",
+        "C": "AGREEMENT ERROR — 'were' is plural, conflicting with the singular subject 'The novelist.'",
+        "D": "TENSE ERROR — 'has been' is present perfect, inconsistent with the completed past event."
+      }
+    },
+    {
+      "id": "4B-Q5",
+      "lessonId": "4B",
+      "difficulty": "medium",
+      "passage": "Nutritionists recommend that athletes consume adequate protein, ______ plenty of complex carbohydrates, and avoid processed foods before competition.",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": {
+        "A": "eating",
+        "B": "eat",
+        "C": "to eat",
+        "D": "having eaten"
+      },
+      "correctAnswer": "B",
+      "explanation": "Paralel yapı: 'consume ... eat ... avoid' → hepsi base form. 'Recommend that [subject] [base verb]' subjunctive yapısı.",
+      "trapExplanation": {
+        "A": "NOT PARALLEL — Gerund; 'consume' ve 'avoid' base form.",
+        "C": "NOT PARALLEL — Infinitive; paralel değil.",
+        "D": "NOT PARALLEL — Perfect gerund; anlam da uyumsuz."
+      },
+      "qualityChecked": true,
+      "explanationEN": "Choice B preserves subjunctive and parallel structure: verbs governed by 'recommend that athletes [base verb]' must maintain bare infinitive form: 'consume... eat... and avoid.'",
+      "trapExplanationEN": {
+        "A": "NOT PARALLEL — 'eating' is a gerund-participle, clashing with 'consume' and 'avoid.'",
+        "C": "NOT PARALLEL — 'to eat' introduces an infinitive 'to,' breaking coordinate symmetry.",
+        "D": "NOT PARALLEL — 'having eaten' is a perfect participle, disrupting both aspect and parallelism."
+      }
+    }
+  ]
+}
